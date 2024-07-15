@@ -1,0 +1,734 @@
+{
+  "Ampoules": [
+    {
+      "name": "Furosemide",
+      "form": "ampoule",
+      "dose": 20,
+      "unit": "mg",
+      "class": "Diuretics",
+      "availability": 1
+    },
+    {
+      "name": "Diazepam",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Benzodiazepines",
+      "availability": 1
+    },
+    {
+      "name": "Tramadol",
+      "form": "ampoule",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Opioids",
+      "availability": 0
+    },
+    {
+      "name": "Diclofenac",
+      "form": "ampoule",
+      "dose": 75,
+      "unit": "mg",
+      "class": "NSAID's",
+      "availability": 1
+    },
+    {
+      "name": "Vitamin B6",
+      "form": "ampoule",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Anti-emetics",
+      "availability": 1
+    },
+    {
+      "name": "Metoclopramide",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Anti-emetics",
+      "availability": 1
+    },
+    {
+      "name": "Nefopam",
+      "form": "ampoule",
+      "dose": 30,
+      "unit": "mg",
+      "class": "Analgesics",
+      "availability": 0
+    },
+    {
+      "name": "Diphenhydramine",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Anti-histamines",
+      "availability": 1
+    },
+    {
+      "name": "Dexamethasone",
+      "form": "ampoule",
+      "dose": 8,
+      "unit": "mg",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Vitamin K2",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Fat-soluble vitamins",
+      "availability": 1
+    },
+    {
+      "name": "Tranexamic acid",
+      "form": "ampoule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antifibrinolytics",
+      "availability": 1
+    },
+    {
+      "name": "Metoprolol",
+      "form": "ampoule",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Beta Blockers",
+      "availability": 1
+    },
+    {
+      "name": "Gentamicin",
+      "form": "ampoule",
+      "dose": 80,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Gentamicin",
+      "form": "ampoule",
+      "dose": 20,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Amiodarone",
+      "form": "ampoule",
+      "dose": 150,
+      "unit": "mg",
+      "class": "Anti-arrhythmics",
+      "availability": 1
+    },
+    {
+      "name": "Hyoscine butylbromide",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Spasmolytics",
+      "availability": 1
+    },
+    {
+      "name": "Vitamin B12",
+      "form": "ampoule",
+      "dose": 1,
+      "unit": "mg",
+      "class": "Water-soluble vitamins",
+      "availability": 1
+    },
+    {
+      "name": "Amikacin",
+      "form": "ampoule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Ondansetron",
+      "form": "ampoule",
+      "dose": 80,
+      "unit": "mg",
+      "class": "Anti-emetics",
+      "availability": 1
+    }
+  ],
+  "Vials": [
+    {
+      "name": "Vancomycin",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Ceftriaxone",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Ceftazidime",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Cefotaxime",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Esomeprazole",
+      "form": "vial",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Proton pump inhibitors",
+      "availability": 0
+    },
+    {
+      "name": "Omeprazole",
+      "form": "vial",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Proton pump inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Ampicillin",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 0
+    },
+    {
+      "name": "Piperacillin + Tazobactam",
+      "form": "vial",
+      "dose": 4500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 0
+    },
+    {
+      "name": "Ciprofloxacin",
+      "form": "vial",
+      "dose": 200,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Distilled Water",
+      "form": "vial",
+      "dose": 0,
+      "unit": "mg",
+      "class": "Solvents",
+      "availability": 1
+    },
+    {
+      "name": "Metronidazole",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Paracetamol",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Analgesics",
+      "availability": 1
+    },
+    {
+      "name": "Hydrocortisone",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Iron sucrose",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Supplement",
+      "availability": 1
+    },
+    {
+      "name": "Amoxicillin",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Meropenem",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Meropenem",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Aciclovir",
+      "form": "vial",
+      "dose": 250,
+      "unit": "mg",
+      "class": "Antivirals",
+      "availability": 0
+    }
+  ],
+  "Pills": [
+    {
+      "name": "Paracetamol",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Analgesics",
+      "availability": 1
+    },
+    {
+      "name": "Ibuprofen",
+      "form": "tablet",
+      "dose": 200,
+      "unit": "mg",
+      "class": "NSAID's",
+      "availability": 1
+    },
+    {
+      "name": "Meloxicam",
+      "form": "tablet",
+      "dose": 15,
+      "unit": "mg",
+      "class": "NSAID's",
+      "availability": 1
+    },
+    {
+      "name": "Dexamethasone",
+      "form": "tablet",
+      "dose": 0.5,
+      "unit": "mg",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Cephalexin",
+      "form": "capsule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Omeprazole",
+      "form": "capsule",
+      "dose": 20,
+      "unit": "mg",
+      "class": "Proton pump inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Montelukast",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Leukotriene receptor antagonists",
+      "availability": 1
+    },
+    {
+      "name": "Montelukast",
+      "form": "tablet",
+      "dose": 4,
+      "unit": "mg",
+      "class": "Leukotriene receptor antagonists",
+      "availability": 1
+    },
+    {
+      "name": "Azithromycin",
+      "form": "capsule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Oseltamivir",
+      "form": "capsule",
+      "dose": 75,
+      "unit": "mg",
+      "class": "Antivirals",
+      "availability": 1
+    },
+    {
+      "name": "Chlorpheniramine",
+      "form": "tablet",
+      "dose": 4,
+      "unit": "mg",
+      "class": "Anti-histamines",
+      "availability": 1
+    },
+    {
+      "name": "Loratadine",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Anti-histamines",
+      "availability": 1
+    },
+    {
+      "name": "Fluconazole",
+      "form": "capsule",
+      "dose": 150,
+      "unit": "mg",
+      "class": "Antifungals",
+      "availability": 1
+    },
+    {
+      "name": "Propranolol",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Beta Blockers",
+      "availability": 1
+    },
+    {
+      "name": "Metoprolol",
+      "form": "tablet",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Beta Blockers",
+      "availability": 1
+    },
+    {
+      "name": "Amiodarone",
+      "form": "tablet",
+      "dose": 200,
+      "unit": "mg",
+      "class": "Anti-arrhythmics",
+      "availability": 0
+    },
+    {
+      "name": "Furosemide",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Diuretics",
+      "availability": 1
+    },
+    {
+      "name": "Spironolactone",
+      "form": "tablet",
+      "dose": 25,
+      "unit": "mg",
+      "class": "Diuretics",
+      "availability": 0
+    },
+    {
+      "name": "Losartan",
+      "form": "tablet",
+      "dose": 50,
+      "unit": "mg",
+      "class": "ACE Inhibitors",
+      "availability": 1
+    }
+  ],
+  "HighAlertMedications": [
+    {
+      "name": "Adrenaline",
+      "form": "ampoule",
+      "dose": 1,
+      "unit": "mg",
+      "class": "Vasopressors",
+      "availability": 1
+    },
+    {
+      "name": "Noradrenaline",
+      "form": "ampoule",
+      "dose": 4,
+      "unit": "mg",
+      "class": "Vasopressors",
+      "availability": 1
+    },
+    {
+      "name": "Dopamine",
+      "form": "ampoule",
+      "dose": 200,
+      "unit": "mg",
+      "class": "Vasopressors",
+      "availability": 1
+    },
+    {
+      "name": "Atropine",
+      "form": "ampoule",
+      "dose": 1,
+      "unit": "mg",
+      "class": "Vasopressors",
+      "availability": 1
+    },
+    {
+      "name": "Dobutamine",
+      "form": "ampoule",
+      "dose": 250,
+      "unit": "mg",
+      "class": "Inotropics",
+      "availability": 1
+    },
+    {
+      "name": "Lidocaine",
+      "form": "ampoule",
+      "dose": 2,
+      "unit": "%",
+      "class": "Anti-arrhythmics",
+      "availability": 1
+    },
+    {
+      "name": "Glyceryl Trinitrate",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Vasodilators",
+      "availability": 1
+    },
+    {
+      "name": "Sodium Bicarbonate",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mEq",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Potassium Chloride",
+      "form": "ampoule",
+      "dose": 15,
+      "unit": "mEq",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Calcium gluconate",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Hypertonic Dextrose",
+      "form": "ampoule",
+      "dose": 50,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Phenobarbital",
+      "form": "ampoule",
+      "dose": 200,
+      "unit": "mg",
+      "class": "Barbiturates",
+      "availability": 1
+    },
+    {
+      "name": "Magnesium Sulfate",
+      "form": "ampoule",
+      "dose": 20,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    }
+  ],
+  "RefrigeratedMedications": [
+    {
+      "name": "Enoxaparin",
+      "form": "prefilled syringe",
+      "dose": 4000,
+      "unit": "IU",
+      "class": "Anti-coagulants",
+      "availability": 0
+    },
+    {
+      "name": "Enoxaparin",
+      "form": "prefilled syringe",
+      "dose": 6000,
+      "unit": "IU",
+      "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Heparin",
+      "form": "prefilled syringe",
+      "dose": 5000,
+      "unit": "IU",
+      "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Epoetin alfa",
+      "form": "prefilled syringe",
+      "dose": 4000,
+      "unit": "IU",
+      "class": "Erythropoiesis-stimulating agents",
+      "availability": 0
+    },
+    {
+      "name": "Darbepoetin alfa",
+      "form": "prefilled syringe",
+      "dose": 40,
+      "unit": "mcg",
+      "class": "Erythropoiesis-stimulating agents",
+      "availability": 1
+    },
+    {
+      "name": "Anti-D immunoglobulin",
+      "form": "prefilled syringe",
+      "dose": 300,
+      "unit": "mcg",
+      "class": "Immunoglobulins",
+      "availability": 1
+    },
+    {
+      "name": "Beractant",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Pulmonary surfactant",
+      "availability": 1
+    },
+    {
+      "name": "Albumin",
+      "form": "vial",
+      "dose": 20,
+      "unit": "%",
+      "class": "Colloids",
+      "availability": 1
+    },
+    {
+      "name": "Oxytocin",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "IU",
+      "class": "Uterotonics",
+      "availability": 1
+    },
+    {
+      "name": "Methylergometrine",
+      "form": "ampoule",
+      "dose": 0.2,
+      "unit": "mg",
+      "class": "Ergot alkaloids",
+      "availability": 1
+    }
+  ],
+  "Topicals": [
+    {
+      "name": "Zinc oxide",
+      "form": "skin ointment",
+      "dose": 20,
+      "unit": "%",
+      "class": "Skin Protectants",
+      "availability": 1
+    },
+    {
+      "name": "Lidocaine",
+      "form": "skin gel",
+      "dose": 2,
+      "unit": "%",
+      "class": "Local Anesthetics",
+      "availability": 1
+    },
+    {
+      "name": "Fusidic acid",
+      "form": "skin ointment",
+      "dose": 2,
+      "unit": "%",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Silver sulfadiazine",
+      "form": "skin ointment",
+      "dose": 10,
+      "unit": "%",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Diclofenac",
+      "form": "skin gel",
+      "dose": 1,
+      "unit": "%",
+      "class": "NSAID's",
+      "availability": 0
+    },
+    {
+      "name": "Hydrocortisone",
+      "form": "skin cream",
+      "dose": 1,
+      "unit": "%",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Betamethasone",
+      "form": "skin ointment",
+      "dose": 0.1,
+      "unit": "%",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Tetracycline",
+      "form": "eye ointment",
+      "dose": 1,
+      "unit": "%",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Chloramphenicol",
+      "form": "eye ointment",
+      "dose": 1,
+      "unit": "%",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Nystatin",
+      "form": "skin ointment",
+      "dose": 100000,
+      "unit": "IU",
+      "class": "Antifungals",
+      "availability": 1
+    },
+    {
+      "name": "Nystacort",
+      "form": "skin ointment",
+      "dose": 0,
+      "unit": "%",
+      "class": "Combination Drugs",
+      "availability": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drug Inventory</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+      }
+      th,
+      td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      th {
+        background-color: #003366;
+        color: white;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+      .status-available {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      .status-unavailable {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+      .card-body {
+        color: #003366;
+      }
+      
+    </style>
+  </head>
+
+  <div class="row">
+    <div class="col">
+      <div class="card card-body">
+        <input id="search-input" class="form-control" type="text" placeholder="Search drugs..."/>
+        Internal Pharmacy | &#8478 | Last Update: 15-07-2024 
+      </div>
+    </div>
+  </div>
+
+  <body>
+    <table id="drug-table">
+      <thead>
+        <tr>
+          <th data-column="name" data-order="desc">Name &#9650</th>
+          <th data-column="form" data-order="desc">Dosage Form &#9650</th>
+          <th data-column="dose" data-order="desc">Dose &#9650</th>
+          <th data-column="class" data-order="desc">Class &#9650</th>
+          <th data-column="availability" data-order="desc">Status &#9650</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Rows will be populated here -->
+      </tbody>
+    </table>
+
+    <script type="module">
+          import file from "./drugs.json" with { type: "json" };
+
+          let drugsArr = file.Ampoules.concat(file.Vials, file.HighAlertMedications, file.RefrigeratedMedications,file.Pills, file.Topicals);
+          console.log(drugsArr);
+          buildTable(drugsArr);
+
+          function buildTable(dataArr) {
+              let table = document.getElementById("drug-table").getElementsByTagName('tbody')[0];
+
+              table.innerHTML = ""; // Resets the table
+
+              for (let i = 0; i < dataArr.length; i++) {
+                  let statusClass = dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
+                  let row = `<tr>
+                                  <td>${dataArr[i].name}</td>
+                                  <td>${dataArr[i].form}</td>
+                                  <td>${dataArr[i].dose}${dataArr[i].unit}</td>
+                                  <td>${dataArr[i].class}</td>
+                                  <td class="${statusClass}">${dataArr[i].availability === 1 ? "Available" : "Unavailable"}</td>
+                             </tr>`;
+
+                  table.innerHTML += row;
+              }
+          }
+
+          function searchTable(value, dataArr) {
+            let filteredData = [];
+
+            for (let i = 0; i < dataArr.length; i++) {
+              value = value.toLowerCase();
+              let name = dataArr[i].name.toLowerCase();
+
+              if (name.includes(value)) {
+                filteredData.push(dataArr[i]);
+          }
+        }
+
+            return filteredData;
+      }
+
+          // Search functionality
+          $("#search-input").on("keyup", function () {
+          let value = $(this).val();
+          console.log("Value: ", value);
+          let data = searchTable(value, drugsArr);
+          buildTable(data);
+        });
+
+        // Sort functionality
+        $("th").on("click", function () {
+          console.log("clicked");
+          let column = $(this).data("column");
+          let order = $(this).data("order");
+          let text = $(this).html()
+          text = text.substring(0, text.length -1);
+
+          if (order == "desc") {
+            $(this).data("order", "asc");
+            drugsArr = drugsArr.sort((a, b) => (a[column] > b[column] ? 1 : -1));
+            text += "&#9660"
+          } else {
+            $(this).data("order", "desc");
+            drugsArr = drugsArr.sort((a, b) => (a[column] < b[column] ? 1 : -1));
+            text += "&#9650"
+          }
+          $(this).html(text);
+          buildTable(drugsArr);
+        });
+    </script>
+  </body>
+</html>

@@ -38,6 +38,23 @@
       .card-body {
         color: #003366;
       }
+      .form-control {
+        height: 25px;
+        width: 100%;
+        background: #f2f2f2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12pt;
+      }
+      div {
+        width: 100%;
+      }
+      .drug-name {
+        font-weight: bolder;
+      }
+      
       
     </style>
   </head>
@@ -45,8 +62,8 @@
   <div class="row">
     <div class="col">
       <div class="card card-body">
-        <input id="search-input" class="form-control" type="text" placeholder="Search drugs..."/>
         Internal Pharmacy | &#8478 | Last Update: 15-07-2024 
+        <input id="search-input" class="form-control" type="text" placeholder="Search drugs..."/>
       </div>
     </div>
   </div>
@@ -81,10 +98,12 @@
 
               for (let i = 0; i < dataArr.length; i++) {
                   let statusClass = dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
+                  let doseDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].dose
+                  let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit
                   let row = `<tr>
-                                  <td>${dataArr[i].name}</td>
+                                  <td class="drug-name">${dataArr[i].name}</td>
                                   <td>${dataArr[i].form}</td>
-                                  <td>${dataArr[i].dose}${dataArr[i].unit}</td>
+                                  <td>${doseDisplayed}${unitDisplayed}</td>
                                   <td>${dataArr[i].class}</td>
                                   <td class="${statusClass}">${dataArr[i].availability === 1 ? "Available" : "Unavailable"}</td>
                              </tr>`;

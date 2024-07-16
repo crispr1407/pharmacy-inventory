@@ -91,8 +91,8 @@
     <script type="module">
           import file from "./drugs.json" with { type: "json" };
 
-          let drugsArr = file.Ampoules.concat(file.Vials, file.HighAlertMedications, file.RefrigeratedMedications,file.Pills, file.Topicals);
-          console.log(drugsArr);
+          let drugsArr = file.Ampoules.concat(file.Vials, file.HighAlertMedications, file.RefrigeratedMedications,file.Pills, file.OralPreparations, file.Topicals);
+          // console.log(drugsArr);
           buildTable(drugsArr);
 
           function buildTable(dataArr) {
@@ -134,14 +134,14 @@
           // Search functionality
           $("#search-input").on("keyup", function () {
           let value = $(this).val();
-          console.log("Value: ", value);
+          // console.log("Value: ", value);
           let data = searchTable(value, drugsArr);
           buildTable(data);
         });
 
         // Sort functionality
         $("th").on("click", function () {
-          console.log("clicked");
+          // console.log("clicked");
           let column = $(this).data("column");
           let order = $(this).data("order");
           let text = $(this).html()

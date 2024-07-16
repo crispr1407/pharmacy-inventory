@@ -54,7 +54,7 @@
       "dose": 30,
       "unit": "mg",
       "class": "Analgesics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Diphenhydramine",
@@ -89,7 +89,7 @@
       "availability": 1
     },
     {
-      "name": "Metoprolol",
+      "name": "Metoprolol tartrate",
       "form": "ampoule",
       "dose": 5,
       "unit": "mg",
@@ -187,22 +187,6 @@
       "availability": 1
     },
     {
-      "name": "Esomeprazole",
-      "form": "vial",
-      "dose": 40,
-      "unit": "mg",
-      "class": "Proton pump inhibitors",
-      "availability": 0
-    },
-    {
-      "name": "Omeprazole",
-      "form": "vial",
-      "dose": 40,
-      "unit": "mg",
-      "class": "Proton pump inhibitors",
-      "availability": 1
-    },
-    {
       "name": "Ampicillin",
       "form": "vial",
       "dose": 500,
@@ -227,43 +211,11 @@
       "availability": 1
     },
     {
-      "name": "Distilled Water",
-      "form": "vial",
-      "dose": 0,
-      "unit": "mg",
-      "class": "Solvents",
-      "availability": 1
-    },
-    {
       "name": "Metronidazole",
       "form": "vial",
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
-    },
-    {
-      "name": "Paracetamol",
-      "form": "vial",
-      "dose": 1000,
-      "unit": "mg",
-      "class": "Analgesics",
-      "availability": 1
-    },
-    {
-      "name": "Hydrocortisone",
-      "form": "vial",
-      "dose": 100,
-      "unit": "mg",
-      "class": "Corticosteroids",
-      "availability": 1
-    },
-    {
-      "name": "Iron sucrose",
-      "form": "vial",
-      "dose": 100,
-      "unit": "mg",
-      "class": "Supplement",
       "availability": 1
     },
     {
@@ -297,6 +249,54 @@
       "unit": "mg",
       "class": "Antivirals",
       "availability": 0
+    },
+    {
+      "name": "Esomeprazole",
+      "form": "vial",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Proton pump inhibitors",
+      "availability": 0
+    },
+    {
+      "name": "Omeprazole",
+      "form": "vial",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Proton pump inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Distilled Water",
+      "form": "vial",
+      "dose": 0,
+      "unit": "mg",
+      "class": "Solvents",
+      "availability": 1
+    },
+    {
+      "name": "Paracetamol",
+      "form": "vial",
+      "dose": 1000,
+      "unit": "mg",
+      "class": "Analgesics / Antipyretics",
+      "availability": 1
+    },
+    {
+      "name": "Hydrocortisone",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Corticosteroids",
+      "availability": 1
+    },
+    {
+      "name": "Iron sucrose",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Supplement",
+      "availability": 1
     }
   ],
   "Pills": [
@@ -305,7 +305,7 @@
       "form": "tablet",
       "dose": 500,
       "unit": "mg",
-      "class": "Analgesics",
+      "class": "Analgesics / Antipyretics",
       "availability": 1
     },
     {
@@ -413,7 +413,7 @@
       "availability": 1
     },
     {
-      "name": "Metoprolol",
+      "name": "Metoprolol tartrate",
       "form": "tablet",
       "dose": 50,
       "unit": "mg",
@@ -450,6 +450,184 @@
       "dose": 50,
       "unit": "mg",
       "class": "ACE Inhibitors",
+      "availability": 1
+    }
+  ],
+  "OralPreparations": [
+    {
+      "name": "Paracetamol",
+      "form": "syrup",
+      "dose": 120,
+      "unit": "mg/5ml",
+      "class": "Analgesics / Antipyretics",
+      "availability": 1
+    },
+    {
+      "name": "Ibuprofen",
+      "form": "oral suspension",
+      "dose": 100,
+      "unit": "mg/5ml",
+      "class": "NSAID's",
+      "availability": 1
+    },
+    {
+      "name": "Amoxicillin",
+      "form": "oral suspension",
+      "dose": 250,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Cephalexin",
+      "form": "oral suspension",
+      "dose": 250,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Co-Amoxiclav",
+      "form": "oral suspension",
+      "dose": 312.5,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Erythromycin",
+      "form": "oral suspension",
+      "dose": 250,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Metronidazole",
+      "form": "oral suspension",
+      "dose": 200,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Co-Trimoxazole",
+      "form": "oral suspension",
+      "dose": 240,
+      "unit": "mg/5ml",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Nystatin",
+      "form": "oral suspension",
+      "dose": 100000,
+      "unit": "IU/ml",
+      "class": "Antifungals",
+      "availability": 1
+    },
+    {
+      "name": "Vitamin D3",
+      "form": "oral drops",
+      "dose": 10000,
+      "unit": "IU/ml",
+      "class": "Fat-soluble vitamins",
+      "availability": 1
+    },
+    {
+      "name": "Oral Rehydration Salts (ORS)",
+      "form": "powder",
+      "dose": 0,
+      "unit": "mg/5ml",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Hyoscine butylbromide",
+      "form": "syrup",
+      "dose": 5,
+      "unit": "mg/5ml",
+      "class": "Spasmolytics",
+      "availability": 1
+    },
+    {
+      "name": "Maalox",
+      "form": "oral suspension",
+      "dose": 0,
+      "unit": "mg/5ml",
+      "class": "Antacids",
+      "availability": 1
+    },
+    {
+      "name": "Lactulose",
+      "form": "syrup",
+      "dose": 667,
+      "unit": "g/l",
+      "class": "Laxatives",
+      "availability": 1
+    },
+    {
+      "name": "Bromhexine",
+      "form": "syrup",
+      "dose": 4,
+      "unit": "mg/5ml",
+      "class": "Mucolytics",
+      "availability": 1
+    },
+    {
+      "name": "Exidil",
+      "form": "elixir",
+      "dose": 0,
+      "unit": "mg/5ml",
+      "class": "Cough preparations",
+      "availability": 1
+    },
+    {
+      "name": "Tussilet",
+      "form": "syrup",
+      "dose": 0,
+      "unit": "mg/5ml",
+      "class": "Cough preparations",
+      "availability": 1
+    },
+    {
+      "name": "Dextromethorphan",
+      "form": "syrup",
+      "dose": 15,
+      "unit": "mg/5ml",
+      "class": "Cough suppressants",
+      "availability": 1
+    },
+    {
+      "name": "Salbutamol",
+      "form": "syrup",
+      "dose": 2,
+      "unit": "mg/5ml",
+      "class": "Short-acting beta-2 agonists (SABA)",
+      "availability": 1
+    },
+    {
+      "name": "Chlorpheniramine",
+      "form": "syrup",
+      "dose": 2,
+      "unit": "mg/5ml",
+      "class": "Anti-histamines",
+      "availability": 1
+    },
+    {
+      "name": "Ketotifen",
+      "form": "syrup",
+      "dose": 1,
+      "unit": "mg/5ml",
+      "class": "Anti-histamines",
+      "availability": 1
+    },
+    {
+      "name": "Dexamethasone",
+      "form": "syrup",
+      "dose": 0.5,
+      "unit": "mg/5ml",
+      "class": "Corticosteroids",
       "availability": 1
     }
   ],
@@ -503,12 +681,36 @@
       "availability": 1
     },
     {
+      "name": "Adenosine",
+      "form": "vial",
+      "dose": 6,
+      "unit": "mg",
+      "class": "Anti-arrhythmics",
+      "availability": 1
+    },
+    {
+      "name": "Digoxin",
+      "form": "ampoule",
+      "dose": 0.5,
+      "unit": "mg",
+      "class": "Anti-arrhythmics",
+      "availability": 1
+    },
+    {
       "name": "Glyceryl Trinitrate",
       "form": "ampoule",
       "dose": 10,
       "unit": "mg",
       "class": "Vasodilators",
       "availability": 1
+    },
+    {
+      "name": "Hydralazine",
+      "form": "ampoule",
+      "dose": 20,
+      "unit": "mg",
+      "class": "Vasodilators",
+      "availability": 0
     },
     {
       "name": "Sodium Bicarbonate",
@@ -535,6 +737,14 @@
       "availability": 1
     },
     {
+      "name": "Magnesium Sulfate",
+      "form": "ampoule",
+      "dose": 20,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
       "name": "Hypertonic Dextrose",
       "form": "ampoule",
       "dose": 50,
@@ -551,11 +761,43 @@
       "availability": 1
     },
     {
-      "name": "Magnesium Sulfate",
+      "name": "Chlorpromazine",
       "form": "ampoule",
+      "dose": 25,
+      "unit": "mg",
+      "class": "Antipsychotics",
+      "availability": 1
+    },
+    {
+      "name": "Aminophylline",
+      "form": "ampoule",
+      "dose": 250,
+      "unit": "mg",
+      "class": "Methylxanthines",
+      "availability": 1
+    },
+    {
+      "name": "Caffeine",
+      "form": "amp",
       "dose": 20,
-      "unit": "%",
-      "class": "Electrolytes",
+      "unit": "mg/ml",
+      "class": "Methylxanthines",
+      "availability": 1
+    },
+    {
+      "name": "Salbutamol",
+      "form": "vial",
+      "dose": 5,
+      "unit": "mg/ml",
+      "class": "Short-acting beta-2 agonists (SABA)",
+      "availability": 1
+    },
+    {
+      "name": "Budesonide",
+      "form": "nebulising suspension",
+      "dose": 0.5,
+      "unit": "mg/ml",
+      "class": "Inhaled corticosteroids",
       "availability": 1
     }
   ],
@@ -582,6 +824,14 @@
       "dose": 5000,
       "unit": "IU",
       "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Alteplase",
+      "form": "vial",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Tissue plasminogen activators (TPA)",
       "availability": 1
     },
     {
@@ -638,6 +888,63 @@
       "dose": 0.2,
       "unit": "mg",
       "class": "Ergot alkaloids",
+      "availability": 1
+    },
+
+    {
+      "name": "Remdesivir",
+      "form": "vial",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Antivirals",
+      "availability": 0
+    },
+    {
+      "name": "Glucagon",
+      "form": "vial",
+      "dose": 1,
+      "unit": "mg",
+      "class": "Glucose elevating agents",
+      "availability": 1
+    },
+    {
+      "name": "Actrapid (Soluble Insulin)",
+      "form": "vial",
+      "dose": 0,
+      "unit": "mg",
+      "class": "Short-acting insulin",
+      "availability": 1
+    },
+    {
+      "name": "Mixtard (30% Soluble Insulin + 70% NPH Insulin)",
+      "form": "vial",
+      "dose": 0,
+      "unit": "mg",
+      "class": "Short-acting + intermediate-acting combined insulin",
+      "availability": 1
+    },
+    {
+      "name": "Insulatard (NPH Insulin)",
+      "form": "vial",
+      "dose": 0,
+      "unit": "mg",
+      "class": "Intermediate-acting insulin",
+      "availability": 1
+    },
+    {
+      "name": "Paracetamol",
+      "form": "suppository",
+      "dose": 125,
+      "unit": "mg",
+      "class": "Analgesics / Antipyretics",
+      "availability": 1
+    },
+    {
+      "name": "Bisacodyl",
+      "form": "suppository",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Laxatives",
       "availability": 1
     }
   ],

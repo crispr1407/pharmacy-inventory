@@ -770,7 +770,7 @@
     },
     {
       "name": "Caffeine",
-      "form": "amp",
+      "form": "ampoule",
       "dose": 20,
       "unit": "mg/ml",
       "class": "Methylxanthines",
@@ -1082,7 +1082,7 @@
     {
       "name": "Glucose Saline (1/5)",
       "form": "infusion bottle",
-      "dose": "0.9% + 4",
+      "dose": "0.18% + 4",
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1

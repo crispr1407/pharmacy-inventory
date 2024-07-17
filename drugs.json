@@ -85,7 +85,7 @@
       "form": "ampoule",
       "dose": 5,
       "unit": "mg",
-      "class": "Beta Blockers",
+      "class": "Beta blockers",
       "availability": 1
     },
     {
@@ -293,6 +293,206 @@
   ],
   "Pills": [
     {
+      "name": "Aspirin",
+      "form": "tablet",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Antiplatelets",
+      "availability": 1
+    },
+    {
+      "name": "Clopidogrel",
+      "form": "tablet",
+      "dose": 75,
+      "unit": "mg",
+      "class": "Antiplatelets",
+      "availability": 1
+    },
+    {
+      "name": "Warfarin",
+      "form": "tablet",
+      "dose": 1,
+      "unit": "mg",
+      "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Warfarin",
+      "form": "tablet",
+      "dose": 3,
+      "unit": "mg",
+      "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Warfarin",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Anti-coagulants",
+      "availability": 1
+    },
+    {
+      "name": "Atorvastatin",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "HMG-CoA reductase inhibitors (Statins)",
+      "availability": 1
+    },
+    {
+      "name": "Rosuvastatin",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "HMG-CoA reductase inhibitors (Statins)",
+      "availability": 1
+    },
+    {
+      "name": "Captopril",
+      "form": "tablet",
+      "dose": 25,
+      "unit": "mg",
+      "class": "ACE inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Lisinopril",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "ACE inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Losartan",
+      "form": "tablet",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Angiotensin II receptor blockers",
+      "availability": 1
+    },
+    {
+      "name": "Amlodipine",
+      "form": "capsule",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Calcium channel blockers",
+      "availability": 1
+    },
+    {
+      "name": "Diltiazem",
+      "form": "tablet",
+      "dose": 60,
+      "unit": "mg",
+      "class": "Calcium channel blockers",
+      "availability": 0
+    },
+    {
+      "name": "Furosemide",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Loop diuretics",
+      "availability": 1
+    },
+    {
+      "name": "Spironolactone",
+      "form": "tablet",
+      "dose": 25,
+      "unit": "mg",
+      "class": "Aldosterone antagonists",
+      "availability": 0
+    },
+    {
+      "name": "Methyldopa",
+      "form": "tablet",
+      "dose": 250,
+      "unit": "mg",
+      "class": "Alpha-2 agonists",
+      "availability": 1
+    },
+    {
+      "name": "Propranolol",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "Beta blockers",
+      "availability": 1
+    },
+    {
+      "name": "Metoprolol tartrate",
+      "form": "tablet",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Beta blockers",
+      "availability": 1
+    },
+    {
+      "name": "Carvedilol",
+      "form": "tablet",
+      "dose": 6.25,
+      "unit": "mg",
+      "class": "Beta blockers",
+      "availability": 1
+    },
+    {
+      "name": "Atenolol",
+      "form": "tablet",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Beta blockers",
+      "availability": 1
+    },
+    {
+      "name": "Amiodarone",
+      "form": "tablet",
+      "dose": 200,
+      "unit": "mg",
+      "class": "Anti-arrhythmics",
+      "availability": 0
+    },
+    {
+      "name": "Digoxin",
+      "form": "tablet",
+      "dose": 250,
+      "unit": "mcg",
+      "class": "Anti-arrhythmics",
+      "availability": 1
+    },
+    {
+      "name": "Glyceryl Trinitrate",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mcg",
+      "class": "Vasodilators",
+      "availability": 1
+    },
+    {
+      "name": "Isosorbide dinitrate",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mcg",
+      "class": "Vasodilators",
+      "availability": 1
+    },
+    {
+      "name": "Metformin",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Insulin-sensitising agents (Biguanides)",
+      "availability": 1
+    },
+    {
+      "name": "Glibenclamide",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Sulfonylureas",
+      "availability": 1
+    },
+    {
       "name": "Paracetamol",
       "form": "tablet",
       "dose": 500,
@@ -304,6 +504,14 @@
       "name": "Ibuprofen",
       "form": "tablet",
       "dose": 200,
+      "unit": "mg",
+      "class": "NSAID's",
+      "availability": 1
+    },
+    {
+      "name": "Diclofenac",
+      "form": "tablet",
+      "dose": 25,
       "unit": "mg",
       "class": "NSAID's",
       "availability": 1
@@ -325,51 +533,11 @@
       "availability": 1
     },
     {
-      "name": "Cephalexin",
-      "form": "capsule",
-      "dose": 500,
-      "unit": "mg",
-      "class": "Antibiotics",
-      "availability": 1
-    },
-    {
-      "name": "Omeprazole",
-      "form": "capsule",
-      "dose": 20,
-      "unit": "mg",
-      "class": "Proton pump inhibitors",
-      "availability": 1
-    },
-    {
-      "name": "Montelukast",
+      "name": "Prednisolone",
       "form": "tablet",
-      "dose": 10,
+      "dose": 5,
       "unit": "mg",
-      "class": "Leukotriene receptor antagonists",
-      "availability": 1
-    },
-    {
-      "name": "Montelukast",
-      "form": "tablet",
-      "dose": 4,
-      "unit": "mg",
-      "class": "Leukotriene receptor antagonists",
-      "availability": 1
-    },
-    {
-      "name": "Azithromycin",
-      "form": "capsule",
-      "dose": 500,
-      "unit": "mg",
-      "class": "Antibiotics",
-      "availability": 1
-    },
-    {
-      "name": "Oseltamivir",
-      "form": "capsule",
-      "dose": 75,
-      "unit": "mg",
-      "class": "Antivirals",
+      "class": "Corticosteroids",
       "availability": 1
     },
     {
@@ -389,6 +557,110 @@
       "availability": 1
     },
     {
+      "name": "Montelukast",
+      "form": "tablet",
+      "dose": 4,
+      "unit": "mg",
+      "class": "Leukotriene receptor antagonists",
+      "availability": 1
+    },
+    {
+      "name": "Montelukast",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Leukotriene receptor antagonists",
+      "availability": 1
+    },
+    {
+      "name": "Amoxicillin",
+      "form": "capsule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Co-Amoxiclav",
+      "form": "tablet",
+      "dose": 625,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Cephalexin",
+      "form": "capsule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Ciprofloxacin",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Levofloxacin",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 0
+    },
+    {
+      "name": "Azithromycin",
+      "form": "capsule",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Co-Trimoxazole",
+      "form": "tablet",
+      "dose": 480,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Nitrofurantoin",
+      "form": "tablet",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Metronidazole",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Doxycycline",
+      "form": "capsule",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Oseltamivir",
+      "form": "capsule",
+      "dose": 75,
+      "unit": "mg",
+      "class": "Antivirals",
+      "availability": 1
+    },
+    {
       "name": "Fluconazole",
       "form": "capsule",
       "dose": 150,
@@ -397,99 +669,139 @@
       "availability": 1
     },
     {
-      "name": "Propranolol",
-      "form": "tablet",
-      "dose": 40,
+      "name": "Omeprazole",
+      "form": "capsule",
+      "dose": 20,
       "unit": "mg",
-      "class": "Beta Blockers",
+      "class": "Proton pump inhibitors",
       "availability": 1
     },
     {
-      "name": "Metoprolol tartrate",
+      "name": "Metoclopramide",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Anti-emetics",
+      "availability": 1
+    },
+    {
+      "name": "Prochlorperazine",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Antipsychotics / Anti-emetics",
+      "availability": 1
+    },
+    {
+      "name": "Cinnarizine",
+      "form": "tablet",
+      "dose": 25,
+      "unit": "mg",
+      "class": "Anti-histamines / Anti-vertigo agents",
+      "availability": 1
+    },
+    {
+      "name": "Hyoscine butylbromide",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Spasmolytics",
+      "availability": 1
+    },
+    {
+      "name": "Mebeverine",
+      "form": "tablet",
+      "dose": 135,
+      "unit": "mg",
+      "class": "Spasmolytics / Novel IBS medications",
+      "availability": 1
+    },
+    {
+      "name": "Entero-Stop (Diphenoxylate + Atropine)",
+      "form": "tablet",
+      "dose": "2.5mg + 25",
+      "unit": "mcg",
+      "class": "Anti-diarrheals",
+      "availability": 1
+    },
+    {
+      "name": "Zinc sulfate",
       "form": "tablet",
       "dose": 50,
       "unit": "mg",
-      "class": "Beta Blockers",
+      "class": "Supplements / Minerals",
       "availability": 1
     },
     {
-      "name": "Amiodarone",
+      "name": "Alfacalcidol",
+      "form": "capsule",
+      "dose": 1,
+      "unit": "mcg",
+      "class": "Vitamin D analogues",
+      "availability": 1
+    },
+    {
+      "name": "Folic acid",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Water-soluble vitamins",
+      "availability": 1
+    },
+    {
+      "name": "Calcium carbonate",
+      "form": "tablet",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Calcium supplements / Phosphate binders",
+      "availability": 1
+    },
+    {
+      "name": "Sevelamer",
+      "form": "tablet",
+      "dose": 800,
+      "unit": "mg",
+      "class": "Phosphate binders",
+      "availability": 1
+    },
+    {
+      "name": "Misoprostol",
+      "form": "tablet",
+      "dose": 200,
+      "unit": "mcg",
+      "class": "Prostaglandin analogues",
+      "availability": 1
+    },
+    {
+      "name": "Bisacodyl",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Laxatives",
+      "availability": 1
+    },
+    {
+      "name": "Diazepam",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Benzodiazepines",
+      "availability": 1
+    },
+    {
+      "name": "Chlordiazepoxide",
+      "form": "tablet",
+      "dose": 5,
+      "unit": "mg",
+      "class": "Benzodiazepines",
+      "availability": 1
+    },
+    {
+      "name": "Carbamazepine",
       "form": "tablet",
       "dose": 200,
       "unit": "mg",
-      "class": "Anti-arrhythmics",
-      "availability": 0
-    },
-    {
-      "name": "Furosemide",
-      "form": "tablet",
-      "dose": 40,
-      "unit": "mg",
-      "class": "Loop diuretics",
-      "availability": 1
-    },
-    {
-      "name": "Spironolactone",
-      "form": "tablet",
-      "dose": 25,
-      "unit": "mg",
-      "class": "Diuretics",
-      "availability": 0
-    },
-    {
-      "name": "Losartan",
-      "form": "tablet",
-      "dose": 50,
-      "unit": "mg",
-      "class": "Angiotensin II receptor blockers",
-      "availability": 1
-    },
-    {
-      "name": "Captopril",
-      "form": "tablet",
-      "dose": 25,
-      "unit": "mg",
-      "class": "ACE inhibitors",
-      "availability": 1
-    },
-    {
-      "name": "Lisinopril",
-      "form": "tablet",
-      "dose": 10,
-      "unit": "mg",
-      "class": "ACE inhibitors",
-      "availability": 1
-    },
-    {
-      "name": "Atorvastatin",
-      "form": "tablet",
-      "dose": 40,
-      "unit": "mg",
-      "class": "HMG-CoA reductase inhibitors (Statins)",
-      "availability": 1
-    },
-    {
-      "name": "Rosuvastatin",
-      "form": "tablet",
-      "dose": 10,
-      "unit": "mg",
-      "class": "HMG-CoA reductase inhibitors (Statins)",
-      "availability": 1
-    },
-    {
-      "name": "Clopidogrel",
-      "form": "tablet",
-      "dose": 75,
-      "unit": "mg",
-      "class": "Antiplatelets",
-      "availability": 1
-    },
-    {
-      "name": "Aspirin",
-      "form": "tablet",
-      "dose": 100,
-      "unit": "mg",
-      "class": "Antiplatelets",
+      "class": "Anti-epileptics",
       "availability": 1
     }
   ],
@@ -556,6 +868,14 @@
       "dose": 240,
       "unit": "mg/5ml",
       "class": "Antibiotics",
+      "availability": 0
+    },
+    {
+      "name": "Aciclovir",
+      "form": "oral suspension",
+      "dose": 200,
+      "unit": "mg/5ml",
+      "class": "Antivirals",
       "availability": 1
     },
     {
@@ -731,8 +1051,8 @@
     {
       "name": "Digoxin",
       "form": "ampoule",
-      "dose": 0.5,
-      "unit": "mg",
+      "dose": 500,
+      "unit": "mcg",
       "class": "Anti-arrhythmics",
       "availability": 1
     },
@@ -751,6 +1071,14 @@
       "unit": "mg",
       "class": "Vasodilators",
       "availability": 0
+    },
+    {
+      "name": "Labetolol",
+      "form": "vial",
+      "dose": 5,
+      "unit": "mg/ml",
+      "class": "Beta blockers",
+      "availability": 1
     },
     {
       "name": "Sodium Bicarbonate",
@@ -798,6 +1126,14 @@
       "dose": 200,
       "unit": "mg",
       "class": "Barbiturates",
+      "availability": 1
+    },
+    {
+      "name": "Phenytoin",
+      "form": "ampoule",
+      "dose": 250,
+      "unit": "mg",
+      "class": "Anti-epileptics",
       "availability": 1
     },
     {

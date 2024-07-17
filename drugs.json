@@ -5,7 +5,7 @@
       "form": "ampoule",
       "dose": 20,
       "unit": "mg",
-      "class": "Diuretics",
+      "class": "Loop diuretics",
       "availability": 1
     },
     {
@@ -15,14 +15,6 @@
       "unit": "mg",
       "class": "Benzodiazepines",
       "availability": 1
-    },
-    {
-      "name": "Tramadol",
-      "form": "ampoule",
-      "dose": 100,
-      "unit": "mg",
-      "class": "Opioids",
-      "availability": 0
     },
     {
       "name": "Diclofenac",
@@ -73,7 +65,7 @@
       "availability": 1
     },
     {
-      "name": "Vitamin K2",
+      "name": "Vitamin K1",
       "form": "ampoule",
       "dose": 10,
       "unit": "mg",
@@ -200,7 +192,7 @@
       "dose": 4500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Ciprofloxacin",
@@ -433,7 +425,7 @@
       "form": "tablet",
       "dose": 40,
       "unit": "mg",
-      "class": "Diuretics",
+      "class": "Loop diuretics",
       "availability": 1
     },
     {
@@ -1035,6 +1027,88 @@
       "dose": 0,
       "unit": "%",
       "class": "Combination Drugs",
+      "availability": 1
+    }
+  ],
+  "IVFluids": [
+    {
+      "name": "Normal Saline (500ml)",
+      "form": "infusion bottle",
+      "dose": 0.9,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Normal Saline (100ml)",
+      "form": "infusion bottle",
+      "dose": 0.9,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Glucose Water",
+      "form": "infusion bottle",
+      "dose": 5,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Glucose Water",
+      "form": "infusion bottle",
+      "dose": 10,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Glucose Saline",
+      "form": "infusion bottle",
+      "dose": "0.9% + 5",
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Glucose Saline (1/2)",
+      "form": "infusion bottle",
+      "dose": "0.45% + 2.5",
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Glucose Saline (1/5)",
+      "form": "infusion bottle",
+      "dose": "0.9% + 4",
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Ringer",
+      "form": "infusion bottle",
+      "dose": 0,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Ringer Lactate",
+      "form": "infusion bottle",
+      "dose": 0,
+      "unit": "%",
+      "class": "Electrolytes",
+      "availability": 1
+    },
+    {
+      "name": "Mannitol",
+      "form": "infusion bottle",
+      "dose": 20,
+      "unit": "%",
+      "class": "Osmotic diuretics",
       "availability": 1
     }
   ]

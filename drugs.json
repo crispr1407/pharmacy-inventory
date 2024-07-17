@@ -757,6 +757,14 @@
       "availability": 1
     },
     {
+      "name": "Levothyroxine",
+      "form": "tablet",
+      "dose": 100,
+      "unit": "mcg",
+      "class": "Thyroid hormones",
+      "availability": 1
+    },
+    {
       "name": "Sevelamer",
       "form": "tablet",
       "dose": 800,

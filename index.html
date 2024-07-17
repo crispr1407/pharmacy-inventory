@@ -8,6 +8,8 @@
     <style>
       body {
         font-family: 'Times New Roman', Times, serif, sans-serif;
+        margin: 0;
+        padding: 0;
       }
       table {
         width: 100%;
@@ -19,16 +21,13 @@
         border: 1px solid #dddddd;
         text-align: left;
         padding: 8px;
-        width: 100%;
       }
       th {
         background-color: #003366;
         color: white;
-        width: 100%;
       }
       tr:nth-child(even) {
         background-color: #f2f2f2;
-        width: 100%;
       }
       .status-available {
         background-color: #d4edda;
@@ -40,18 +39,19 @@
       }
       .card-body {
         color: #003366;
-        width: max-content;
+        padding: 10px;
       }
       .form-control {
         border: 1px solid #003366;
         height: 25px;
-        width: 600px;
+        width: 97%;
         background: #f2f2f2;
         display: flex;
         align-items: center;
         justify-content: center;
         font-family: 'Times New Roman', Times, serif;
         font-size: 12pt;
+        margin: 10px 0;
       }
       div {
         width: 100%;
@@ -59,39 +59,40 @@
       .drug-name {
         font-weight: bolder;
       }
-      .drug-table {
-        display: flex;
-        width: 100%;
+      .drug-table-container {
+        overflow-x: auto;
+        margin: 10px 0;
       }
       
       
     </style>
   </head>
 
-  <div class="row">
-    <div class="col">
-      <div class="card card-body">
-        Al-Nu'man General Hospital | Internal Pharmacy | &#8478 | Last Update: 17-07-2024 
-        <input id="search-input" class="form-control" type="text" placeholder="Search drugs..."/>
+  <body>
+    <div class="row">
+      <div class="col">
+        <div class="card card-body">
+          Al-Nu'man General Hospital | Internal Pharmacy | &#8478 | Last Update: 17-07-2024 
+          <input id="search-input" class="form-control" type="text" placeholder="Search drugs..."/>
+        </div>
       </div>
     </div>
+  <div class="drug-table-container">
+      <table id="drug-table">
+        <thead>
+          <tr>
+            <th data-column="name" data-order="desc">Name &#9650</th>
+            <th data-column="form" data-order="desc">Dosage Form &#9650</th>
+            <th data-column="dose" data-order="desc">Dose &#9650</th>
+            <th data-column="class" data-order="desc">Class &#9650</th>
+            <th data-column="availability" data-order="desc">Status &#9650</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Rows will be populated here -->
+        </tbody>
+      </table>
   </div>
-
-  <body>
-    <table id="drug-table">
-      <thead>
-        <tr>
-          <th data-column="name" data-order="desc">Name &#9650</th>
-          <th data-column="form" data-order="desc">Dosage Form &#9650</th>
-          <th data-column="dose" data-order="desc">Dose &#9650</th>
-          <th data-column="class" data-order="desc">Class &#9650</th>
-          <th data-column="availability" data-order="desc">Status &#9650</th>
-        </tr>
-      </thead>
-      <tbody>
-        <!-- Rows will be populated here -->
-      </tbody>
-    </table>
 
     <script type="module">
           import file from "./drugs.json" with { type: "json" };

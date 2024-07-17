@@ -441,7 +441,55 @@
       "form": "tablet",
       "dose": 50,
       "unit": "mg",
-      "class": "ACE Inhibitors",
+      "class": "Angiotensin II receptor blockers",
+      "availability": 1
+    },
+    {
+      "name": "Captopril",
+      "form": "tablet",
+      "dose": 25,
+      "unit": "mg",
+      "class": "ACE inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Lisinopril",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "ACE inhibitors",
+      "availability": 1
+    },
+    {
+      "name": "Atorvastatin",
+      "form": "tablet",
+      "dose": 40,
+      "unit": "mg",
+      "class": "HMG-CoA reductase inhibitors (Statins)",
+      "availability": 1
+    },
+    {
+      "name": "Rosuvastatin",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "HMG-CoA reductase inhibitors (Statins)",
+      "availability": 1
+    },
+    {
+      "name": "Clopidogrel",
+      "form": "tablet",
+      "dose": 75,
+      "unit": "mg",
+      "class": "Antiplatelets",
+      "availability": 1
+    },
+    {
+      "name": "Aspirin",
+      "form": "tablet",
+      "dose": 100,
+      "unit": "mg",
+      "class": "Antiplatelets",
       "availability": 1
     }
   ],

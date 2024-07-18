@@ -264,6 +264,14 @@
       "dose": 0,
       "unit": "mg",
       "class": "Solvents",
+      "availability": 0
+    },
+    {
+      "name": "Sodium Chloride (5ml)",
+      "form": "ampoule",
+      "dose": 0.9,
+      "unit": "%",
+      "class": "Solvents",
       "availability": 1
     },
     {

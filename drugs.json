@@ -727,7 +727,7 @@
     {
       "name": "Zinc sulfate",
       "form": "tablet",
-      "dose": 50,
+      "dose": 20,
       "unit": "mg",
       "class": "Supplements / Minerals",
       "availability": 1
@@ -800,6 +800,14 @@
       "name": "Chlordiazepoxide",
       "form": "tablet",
       "dose": 5,
+      "unit": "mg",
+      "class": "Benzodiazepines",
+      "availability": 1
+    },
+    {
+      "name": "Phenobarbital",
+      "form": "tablet",
+      "dose": 15,
       "unit": "mg",
       "class": "Benzodiazepines",
       "availability": 1
@@ -1419,6 +1427,14 @@
       "dose": 0,
       "unit": "%",
       "class": "Combination Drugs",
+      "availability": 1
+    },
+    {
+      "name": "Oxymetazoline",
+      "form": "nasal drops",
+      "dose": 0.05,
+      "unit": "%",
+      "class": "Nasal decongestants",
       "availability": 1
     }
   ],

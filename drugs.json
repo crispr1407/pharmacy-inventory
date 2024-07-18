@@ -450,7 +450,7 @@
       "dose": 100,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Amiodarone",
@@ -477,7 +477,7 @@
       "availability": 1
     },
     {
-      "name": "Isosorbide dinitrate",
+      "name": "Isosorbide mononitrate",
       "form": "tablet",
       "dose": 10,
       "unit": "mcg",

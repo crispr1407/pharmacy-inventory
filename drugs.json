@@ -267,7 +267,7 @@
       "availability": 0
     },
     {
-      "name": "Sodium Chloride (5ml)",
+      "name": "Sodium Chloride (3ml)",
       "form": "ampoule",
       "dose": 0.9,
       "unit": "%",
@@ -799,7 +799,7 @@
     {
       "name": "Diazepam",
       "form": "tablet",
-      "dose": 10,
+      "dose": 5,
       "unit": "mg",
       "class": "Benzodiazepines",
       "availability": 1

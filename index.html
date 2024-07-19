@@ -5,63 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Internal Pharmacy | Drug Inventory</title>
-    <style>
-      body {
-        font-family: 'Times New Roman', Times, serif, sans-serif;
-      }
-      table {
-        width: 100%;
-        min-width: 600px;
-        border-collapse: collapse;
-        margin: 20px 0;
-      }
-      th,
-      td {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-      }
-      th {
-        background-color: #003366;
-        color: white;
-      }
-      tr:nth-child(even) {
-        background-color: #f2f2f2;
-      }
-      .status-available {
-        background-color: #d4edda;
-        color: #155724;
-      }
-      .status-unavailable {
-        background-color: #f8d7da;
-        color: #721c24;
-      }
-      .card-body {
-        color: #003366;
-        width: max-content;
-      }
-      .form-control {
-        border: 1px solid #003366;
-        height: 35px;
-        width: 590px;
-        background: #f2f2f2;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 12pt;
-      }
-      
-      .drug-name {
-        font-weight: bolder;
-      }
-      .title-text {
-        margin-bottom: 5px;
-      }
-      
-      
-      
-    </style>
+    <link rel="stylesheet" href="styles.css">
   </head>
 
   <body>
@@ -92,79 +36,7 @@
       </table>
   </div>
 
-    <script>
-          var drugsArr;
-          // Loading json file
-          $.getJSON("drugs.json", function (file){
-            drugsArr = file.Ampoules.concat(file.Vials, file.HighAlertMedications, file.RefrigeratedMedications,file.Pills, file.OralPreparations, file.Topicals, file.IVFluids);
-            // console.log(drugsArr);
-            buildTable(drugsArr);
-          });
-          
-          function buildTable(dataArr) {
-              let table = document.getElementById("drug-table").getElementsByTagName('tbody')[0];
+    <script src="script.js"></script>
 
-              table.innerHTML = ""; // Resets the table
-
-              for (let i = 0; i < dataArr.length; i++) {
-                  let statusClass = dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
-                  let doseDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].dose
-                  let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit
-                  let row = `<tr>
-                                  <td class="drug-name">${dataArr[i].name}</td>
-                                  <td>${dataArr[i].form}</td>
-                                  <td>${doseDisplayed}${unitDisplayed}</td>
-                                  <td>${dataArr[i].class}</td>
-                                  <td class="${statusClass}">${dataArr[i].availability === 1 ? "Available" : "Unavailable"}</td>
-                             </tr>`;
-
-                  table.innerHTML += row;
-              }
-          }
-
-          function searchTable(value, dataArr) {
-            let filteredData = [];
-
-            for (let i = 0; i < dataArr.length; i++) {
-              value = value.toLowerCase();
-              let name = dataArr[i].name.toLowerCase();
-
-              if (name.includes(value)) {
-                filteredData.push(dataArr[i]);
-          }
-        }
-
-            return filteredData;
-      }
-
-          // Search functionality
-          $("#search-input").on("keyup", function () {
-          let value = $(this).val();
-          // console.log("Value: ", value);
-          let data = searchTable(value, drugsArr);
-          buildTable(data);
-        });
-
-        // Sort functionality
-        $("th").on("click", function () {
-          // console.log("clicked");
-          let column = $(this).data("column");
-          let order = $(this).data("order");
-          let text = $(this).html()
-          text = text.substring(0, text.length -1);
-
-          if (order == "desc") {
-            $(this).data("order", "asc");
-            drugsArr = drugsArr.sort((a, b) => (a[column] > b[column] ? 1 : -1));
-            text += "&#9660"
-          } else {
-            $(this).data("order", "desc");
-            drugsArr = drugsArr.sort((a, b) => (a[column] < b[column] ? 1 : -1));
-            text += "&#9650"
-          }
-          $(this).html(text);
-          buildTable(drugsArr);
-        });
-    </script>
   </body>
 </html>

@@ -283,6 +283,14 @@
       "availability": 1
     },
     {
+      "name": "Paracetamol",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Analgesics / Antipyretics",
+      "availability": 1
+    },
+    {
       "name": "Hydrocortisone",
       "form": "vial",
       "dose": 100,
@@ -1027,7 +1035,7 @@
     {
       "name": "Noradrenaline",
       "form": "ampoule",
-      "dose": 4,
+      "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
       "availability": 1

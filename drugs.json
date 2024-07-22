@@ -264,7 +264,7 @@
       "dose": 0,
       "unit": "mg",
       "class": "Solvents",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Sodium Chloride (3ml)",
@@ -288,7 +288,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Hydrocortisone",

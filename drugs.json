@@ -1207,6 +1207,14 @@
       "unit": "mg/ml",
       "class": "Inhaled corticosteroids",
       "availability": 1
+    },
+    {
+      "name": "Protamine sulfate",
+      "form": "vial",
+      "dose": 10,
+      "unit": "mg/ml",
+      "class": "Heparin antidote",
+      "availability": 1
     }
   ],
   "RefrigeratedMedications": [

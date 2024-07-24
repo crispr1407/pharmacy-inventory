@@ -280,7 +280,7 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Paracetamol",
@@ -288,7 +288,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Hydrocortisone",
@@ -1038,7 +1038,7 @@
       "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Dopamine",

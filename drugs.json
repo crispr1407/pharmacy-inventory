@@ -1035,6 +1035,14 @@
     {
       "name": "Noradrenaline",
       "form": "ampoule",
+      "dose": 4,
+      "unit": "mg",
+      "class": "Vasopressors",
+      "availability": 1
+    },
+    {
+      "name": "Noradrenaline",
+      "form": "ampoule",
       "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
@@ -1190,7 +1198,7 @@
       "dose": 20,
       "unit": "mg/ml",
       "class": "Methylxanthines",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Salbutamol",

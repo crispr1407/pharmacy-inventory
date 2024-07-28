@@ -1,4 +1,4 @@
-var drugsArr;
+let drugsArr;
 // Loading json file
 async function buildFromJSON() {
   try {

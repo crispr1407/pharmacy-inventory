@@ -187,6 +187,14 @@
       "availability": 0
     },
     {
+      "name": "Amoxicillin",
+      "form": "vial",
+      "dose": 500,
+      "unit": "mg",
+      "class": "Antibiotics",
+      "availability": 1
+    },
+    {
       "name": "Piperacillin + Tazobactam",
       "form": "vial",
       "dose": 4500,
@@ -211,14 +219,6 @@
       "availability": 1
     },
     {
-      "name": "Amoxicillin",
-      "form": "vial",
-      "dose": 500,
-      "unit": "mg",
-      "class": "Antibiotics",
-      "availability": 1
-    },
-    {
       "name": "Meropenem",
       "form": "vial",
       "dose": 1000,
@@ -232,6 +232,14 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
+      "availability": 1
+    },
+    {
+      "name": "Amphotericin B (Liposomal - AmBisome)",
+      "form": "vial",
+      "dose": 50,
+      "unit": "mg",
+      "class": "Antifungals",
       "availability": 1
     },
     {
@@ -280,7 +288,7 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Paracetamol",
@@ -288,7 +296,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Hydrocortisone",
@@ -1198,7 +1206,7 @@
       "dose": 20,
       "unit": "mg/ml",
       "class": "Methylxanthines",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Salbutamol",
@@ -1485,7 +1493,7 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Glucose Water",

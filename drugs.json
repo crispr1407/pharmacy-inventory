@@ -908,7 +908,7 @@
       "dose": 240,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Aciclovir",

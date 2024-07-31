@@ -1206,7 +1206,7 @@
       "dose": 20,
       "unit": "mg/ml",
       "class": "Methylxanthines",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Salbutamol",

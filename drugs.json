@@ -1493,7 +1493,7 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Glucose Water",

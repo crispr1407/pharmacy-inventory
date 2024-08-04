@@ -1549,7 +1549,7 @@
       "dose": 0,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Mannitol",

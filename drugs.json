@@ -797,6 +797,14 @@
       "availability": 1
     },
     {
+      "name": "Cinacalcet",
+      "form": "tablet",
+      "dose": 30,
+      "unit": "mg",
+      "class": "Calcimimetics",
+      "availability": 1
+    },
+    {
       "name": "Misoprostol",
       "form": "tablet",
       "dose": 200,

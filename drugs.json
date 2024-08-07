@@ -810,7 +810,7 @@
       "dose": 200,
       "unit": "mcg",
       "class": "Prostaglandin analogues",
-      "availability": 1
+      "availability": 0
     },
     {
       "name": "Bisacodyl",

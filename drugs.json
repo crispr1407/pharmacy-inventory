@@ -474,7 +474,7 @@
       "dose": 200,
       "unit": "mg",
       "class": "Anti-arrhythmics",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Digoxin",

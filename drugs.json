@@ -1395,7 +1395,7 @@
       "dose": 20,
       "unit": "%",
       "class": "Skin Protectants",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Lidocaine",

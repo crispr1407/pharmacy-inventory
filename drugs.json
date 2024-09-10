@@ -426,7 +426,7 @@
       "dose": 25,
       "unit": "mg",
       "class": "Aldosterone antagonists",
-      "availability": 0
+      "availability": 1
     },
     {
       "name": "Methyldopa",

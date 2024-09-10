@@ -47,15 +47,19 @@ body {
 .drug-table tbody tr.active-row {
   /* TODO: Use later when other functionality is added. */
   font-weight: bold;
-  color: 009879;
+  color: #009879;
 }
 .status-available {
   background-color: #d4edda;
   color: #155724;
 }
 .status-unavailable {
-  background-color: #f8d7da;
-  color: #721c24;
+  background-color: #ff0019;
+  color: #dddddd;
+}
+.drug-table tbody tr.unavailable {
+  background-color: pink !important;
+  opacity: 0.5;
 }
 .card-body {
   color: #003366;
@@ -81,4 +85,28 @@ body {
 }
 .title-text {
   margin-bottom: 5px;
+}
+.no-data-message {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+}
+.loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #003366;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }

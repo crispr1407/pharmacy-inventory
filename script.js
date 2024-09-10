@@ -1,6 +1,9 @@
 let drugsArr;
+
+const loadingMessage = document.getElementsByClassName("loader");
 // Loading json file
 async function buildFromJSON() {
+  loadingMessage[0].style.display = "block";
   try {
     const file = await $.getJSON("drugs.json");
     drugsArr = file.Ampoules.concat(
@@ -12,9 +15,17 @@ async function buildFromJSON() {
       file.Topicals,
       file.IVFluids
     );
+
+    loadingMessage[0].style.display = "none";
+
     buildTable(drugsArr);
   } catch (error) {
     console.error("Error fetching json file!", error);
+    loadingMessage[0].style.display = "none";
+    const table = document
+      .getElementById("drug-table")
+      .getElementsByTagName("tbody")[0];
+    table.innerHTML = `<tr><td colspan="5" class="no-data-message" style="text-align:center">Error loading data.</td></tr>`;
   }
 }
 buildFromJSON();
@@ -27,18 +38,27 @@ buildFromJSON();
 // });
 
 function buildTable(dataArr) {
-  let table = document
+  const table = document
     .getElementById("drug-table")
     .getElementsByTagName("tbody")[0];
 
   table.innerHTML = ""; // Resets the table
 
+  if (dataArr.length === 0) {
+    table.innerHTML = `<tr>
+                         <td colspan="5" class="no-data-message">No drugs found!<br><br>
+                         * Tip: Try searching drugs by their scientic or generic names. *</td>
+                       </tr>`;
+  }
+
+  let rows = "";
   for (let i = 0; i < dataArr.length; i++) {
     let statusClass =
       dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
     let doseDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].dose;
     let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit;
-    let row = `<tr>
+    let opacity = dataArr[i].availability === 0 ? 'class="unavailable"' : "";
+    rows += `<tr ${opacity}>
                                   <td class="drug-name">${dataArr[i].name}</td>
                                   <td>${dataArr[i].form}</td>
                                   <td>${doseDisplayed}${unitDisplayed}</td>
@@ -48,7 +68,7 @@ function buildTable(dataArr) {
     }</td>
                             </tr>`;
 
-    table.innerHTML += row;
+    table.innerHTML = rows;
   }
 }
 

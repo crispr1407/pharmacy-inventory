@@ -1,24 +1,53 @@
+@font-face {
+  font-family: Rogan;
+  src: url(Rogan-Regular.otf);
+}
+@font-face {
+  font-family: Rogan-Bold;
+  src: url(Rogan-Bold.otf);
+}
+
 body {
-  font-family: "Times New Roman", Times, serif, sans-serif;
+  font-family: Rogan, "Times New Roman", Times, serif, sans-serif;
 }
-table {
+.drug-table {
   width: 100%;
-  min-width: 600px;
   border-collapse: collapse;
-  margin: 20px 0;
+  margin: 25px 0;
+  font-size: 0.9rem;
+  min-width: 580px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
-th,
-td {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-th {
+
+.drug-table thead tr {
   background-color: #003366;
-  color: white;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
 }
-tr:nth-child(even) {
-  background-color: #f2f2f2;
+
+.drug-table th,
+.drug-table td {
+  padding: 12px 15px;
+}
+
+.drug-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+.drug-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.drug-table tbody tr:last-of-type {
+  border-bottom: 2px solid #003366;
+}
+
+.drug-table tbody tr.active-row {
+  /* TODO: Use later when other functionality is added. */
+  font-weight: bold;
+  color: 009879;
 }
 .status-available {
   background-color: #d4edda;
@@ -33,18 +62,21 @@ tr:nth-child(even) {
   width: max-content;
 }
 .form-control {
-  border: 1px solid #003366;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border: 2px solid #003366;
+  border-radius: 5px;
   height: 35px;
-  width: 590px;
-  background: #f2f2f2;
+  width: 580px;
+  background: #f3f3f3;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Rogan, "Times New Roman", Times, serif;
   font-size: 12pt;
 }
 
 .drug-name {
+  font-family: Rogan-Bold, "Times New Roman", Times, serif, sans-serif;
   font-weight: bolder;
 }
 .title-text {

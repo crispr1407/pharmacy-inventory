@@ -46,8 +46,11 @@ function buildTable(dataArr) {
 
   if (dataArr.length === 0) {
     table.innerHTML = `<tr>
-                         <td colspan="5" class="no-data-message">No drugs found!<br><br>
-                         * Tip: Try searching for drugs by typing their scientific or generic names. *</td>
+                         <td colspan="5" class="no-data-message">
+                          <img class="no-data-image" src="medical-question-mark.png" alt="?"></img>
+                         <br>No drugs found!<br><br><br>
+                         * Tip: Try searching for drugs by typing their scientific or generic names. *
+                         </td>
                        </tr>`;
   }
 

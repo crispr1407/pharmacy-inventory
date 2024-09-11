@@ -91,6 +91,13 @@ body {
   font-style: italic;
   color: #666;
 }
+.no-data-image {
+  opacity: 0.5;
+  width: 80px;
+  float: center;
+  margin-bottom: 1px;
+  margin-left: 28px;
+}
 .loader {
   border: 16px solid #f3f3f3;
   border-top: 16px solid #003366;
@@ -98,7 +105,7 @@ body {
   width: 120px;
   height: 120px;
   animation: spin 2s linear infinite;
-  margin-left: auto;
+  margin-left: 300px;
   margin-right: auto;
 }
 

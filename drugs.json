@@ -1641,6 +1641,15 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": ""
+    }, 
+    {
+      "name": "Clotrimazole",
+      "form": "skin cream",
+      "dose": 1,
+      "unit": "%",
+      "class": "Antifungals",
+      "availability": 1,
+      "tradeName": "Fugidin"
     },
     {
       "name": "Nystatin",

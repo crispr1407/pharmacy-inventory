@@ -1732,7 +1732,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": "G/S (1/2)"
+      "tradeName": "G/S"
     },
     {
       "name": "Glucose Saline (1/5)",
@@ -1741,7 +1741,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": "G/S (1/5)"
+      "tradeName": "G/S"
     },
     {
       "name": "Ringer",

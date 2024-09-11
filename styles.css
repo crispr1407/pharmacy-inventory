@@ -83,6 +83,12 @@ body {
   font-family: Rogan-Bold, "Times New Roman", Times, serif, sans-serif;
   font-weight: bolder;
 }
+.trade-name {
+  margin-top: 1px;
+  font-size: smaller;
+  font-family: Rogan, "Times New Roman", Times, serif, sans-serif;
+  font-weight: lighter;
+}
 .title-text {
   margin-bottom: 5px;
 }

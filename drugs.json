@@ -6,7 +6,8 @@
       "dose": 20,
       "unit": "mg",
       "class": "Loop diuretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Lasix"
     },
     {
       "name": "Diazepam",
@@ -14,7 +15,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Benzodiazepines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Valium"
     },
     {
       "name": "Diclofenac",
@@ -22,7 +24,8 @@
       "dose": 75,
       "unit": "mg",
       "class": "NSAID's",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Voltaren"
     },
     {
       "name": "Vitamin B6",
@@ -30,7 +33,8 @@
       "dose": 50,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Pyridoxine"
     },
     {
       "name": "Metoclopramide",
@@ -38,7 +42,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Plasil"
     },
     {
       "name": "Nefopam",
@@ -46,7 +51,8 @@
       "dose": 30,
       "unit": "mg",
       "class": "Analgesics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Acupan"
     },
     {
       "name": "Diphenhydramine",
@@ -54,7 +60,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Anti-histamines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Allermine"
     },
     {
       "name": "Dexamethasone",
@@ -62,7 +69,8 @@
       "dose": 8,
       "unit": "mg",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Decadron"
     },
     {
       "name": "Vitamin K1",
@@ -70,7 +78,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Fat-soluble vitamins",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Phytonadione"
     },
     {
       "name": "Tranexamic acid",
@@ -78,7 +87,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antifibrinolytics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cyklokapron"
     },
     {
       "name": "Metoprolol tartrate",
@@ -86,7 +96,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Betaloc"
     },
     {
       "name": "Gentamicin",
@@ -94,7 +105,8 @@
       "dose": 80,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Garamycin"
     },
     {
       "name": "Gentamicin",
@@ -102,7 +114,8 @@
       "dose": 20,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Garamycin"
     },
     {
       "name": "Amiodarone",
@@ -110,7 +123,8 @@
       "dose": 150,
       "unit": "mg",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cordarone"
     },
     {
       "name": "Hyoscine butylbromide",
@@ -118,7 +132,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Spasmolytics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Buscopan"
     },
     {
       "name": "Vitamin B12",
@@ -126,7 +141,8 @@
       "dose": 1,
       "unit": "mg",
       "class": "Water-soluble vitamins",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cyanocobalamin"
     },
     {
       "name": "Amikacin",
@@ -134,7 +150,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Ondansetron",
@@ -142,7 +159,8 @@
       "dose": 80,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Zofran"
     }
   ],
   "Vials": [
@@ -152,7 +170,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Ceftriaxone",
@@ -160,7 +179,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Ceftazidime",
@@ -168,7 +188,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Cefotaxime",
@@ -176,7 +197,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Claforan"
     },
     {
       "name": "Ampicillin",
@@ -184,7 +206,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 0
+      "availability": 0,
+      "tradeName": ""
     },
     {
       "name": "Amoxicillin",
@@ -192,7 +215,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Amoxil"
     },
     {
       "name": "Piperacillin + Tazobactam",
@@ -200,7 +224,8 @@
       "dose": 4500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Tazocin"
     },
     {
       "name": "Ciprofloxacin",
@@ -208,7 +233,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Ciprodar"
     },
     {
       "name": "Metronidazole",
@@ -216,7 +242,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Flagyl"
     },
     {
       "name": "Meropenem",
@@ -224,7 +251,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Meronem"
     },
     {
       "name": "Meropenem",
@@ -232,15 +260,17 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Meronem"
     },
     {
-      "name": "Amphotericin B (Liposomal - AmBisome)",
+      "name": "Amphotericin B (Liposomal)",
       "form": "vial",
       "dose": 50,
       "unit": "mg",
       "class": "Antifungals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "AmBisome"
     },
     {
       "name": "Aciclovir",
@@ -248,7 +278,8 @@
       "dose": 250,
       "unit": "mg",
       "class": "Antivirals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Zovirax"
     },
     {
       "name": "Esomeprazole",
@@ -256,7 +287,8 @@
       "dose": 40,
       "unit": "mg",
       "class": "Proton pump inhibitors",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Nexium"
     },
     {
       "name": "Omeprazole",
@@ -264,7 +296,8 @@
       "dose": 40,
       "unit": "mg",
       "class": "Proton pump inhibitors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Distilled Water",
@@ -272,7 +305,8 @@
       "dose": 0,
       "unit": "mg",
       "class": "Solvents",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Sodium Chloride (3ml)",
@@ -280,7 +314,8 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Solvents",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Paracetamol",
@@ -288,7 +323,8 @@
       "dose": 1000,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Paracetol"
     },
     {
       "name": "Paracetamol",
@@ -296,7 +332,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Paracetol"
     },
     {
       "name": "Hydrocortisone",
@@ -304,7 +341,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Iron sucrose",
@@ -312,7 +350,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Iron supplements",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Venofer"
     }
   ],
   "Pills": [
@@ -322,7 +361,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Antiplatelets",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Clopidogrel",
@@ -330,7 +370,8 @@
       "dose": 75,
       "unit": "mg",
       "class": "Antiplatelets",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Plavix"
     },
     {
       "name": "Warfarin",
@@ -338,7 +379,8 @@
       "dose": 1,
       "unit": "mg",
       "class": "Anti-coagulants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Warfarin",
@@ -346,7 +388,8 @@
       "dose": 3,
       "unit": "mg",
       "class": "Anti-coagulants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Warfarin",
@@ -354,7 +397,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Anti-coagulants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Atorvastatin",
@@ -362,7 +406,8 @@
       "dose": 40,
       "unit": "mg",
       "class": "HMG-CoA reductase inhibitors (Statins)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Avas"
     },
     {
       "name": "Rosuvastatin",
@@ -370,7 +415,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "HMG-CoA reductase inhibitors (Statins)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Crestor"
     },
     {
       "name": "Captopril",
@@ -378,7 +424,8 @@
       "dose": 25,
       "unit": "mg",
       "class": "ACE inhibitors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Capoten"
     },
     {
       "name": "Lisinopril",
@@ -386,7 +433,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "ACE inhibitors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Losartan",
@@ -394,7 +442,8 @@
       "dose": 50,
       "unit": "mg",
       "class": "Angiotensin II receptor blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cozaar"
     },
     {
       "name": "Amlodipine",
@@ -402,7 +451,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Calcium channel blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Norvasc"
     },
     {
       "name": "Diltiazem",
@@ -410,7 +460,8 @@
       "dose": 60,
       "unit": "mg",
       "class": "Calcium channel blockers",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Tildiem"
     },
     {
       "name": "Furosemide",
@@ -418,7 +469,8 @@
       "dose": 40,
       "unit": "mg",
       "class": "Loop diuretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Lasix"
     },
     {
       "name": "Spironolactone",
@@ -426,7 +478,8 @@
       "dose": 25,
       "unit": "mg",
       "class": "Aldosterone antagonists",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Aldactone"
     },
     {
       "name": "Methyldopa",
@@ -434,7 +487,8 @@
       "dose": 250,
       "unit": "mg",
       "class": "Alpha-2 agonists",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Aldomet"
     },
     {
       "name": "Propranolol",
@@ -442,7 +496,8 @@
       "dose": 40,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Inderal"
     },
     {
       "name": "Metoprolol tartrate",
@@ -450,7 +505,8 @@
       "dose": 50,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Carvedilol",
@@ -458,7 +514,8 @@
       "dose": 6.25,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Atenolol",
@@ -466,7 +523,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Tenormin"
     },
     {
       "name": "Amiodarone",
@@ -474,7 +532,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cordarone"
     },
     {
       "name": "Digoxin",
@@ -482,7 +541,8 @@
       "dose": 250,
       "unit": "mcg",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Lanoxin"
     },
     {
       "name": "Glyceryl Trinitrate",
@@ -490,7 +550,8 @@
       "dose": 500,
       "unit": "mcg",
       "class": "Vasodilators",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Angised"
     },
     {
       "name": "Isosorbide mononitrate",
@@ -498,7 +559,8 @@
       "dose": 10,
       "unit": "mcg",
       "class": "Vasodilators",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Isordil"
     },
     {
       "name": "Metformin",
@@ -506,7 +568,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Insulin-sensitising agents (Biguanides)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Glucophage"
     },
     {
       "name": "Glibenclamide",
@@ -514,7 +577,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Sulfonylureas",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Daonil"
     },
     {
       "name": "Paracetamol",
@@ -522,7 +586,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Paracetol"
     },
     {
       "name": "Ibuprofen",
@@ -530,7 +595,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "NSAID's",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Brufen"
     },
     {
       "name": "Diclofenac",
@@ -538,7 +604,8 @@
       "dose": 25,
       "unit": "mg",
       "class": "NSAID's",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Voltaren"
     },
     {
       "name": "Meloxicam",
@@ -546,7 +613,8 @@
       "dose": 15,
       "unit": "mg",
       "class": "NSAID's",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Mobic"
     },
     {
       "name": "Dexamethasone",
@@ -554,7 +622,8 @@
       "dose": 0.5,
       "unit": "mg",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dexon"
     },
     {
       "name": "Prednisolone",
@@ -562,7 +631,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Prisolone"
     },
     {
       "name": "Chlorpheniramine",
@@ -570,7 +640,8 @@
       "dose": 4,
       "unit": "mg",
       "class": "Anti-histamines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Histadin"
     },
     {
       "name": "Loratadine",
@@ -578,7 +649,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Anti-histamines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Claritin"
     },
     {
       "name": "Montelukast",
@@ -586,7 +658,8 @@
       "dose": 4,
       "unit": "mg",
       "class": "Leukotriene receptor antagonists",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Singulair"
     },
     {
       "name": "Montelukast",
@@ -594,7 +667,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Leukotriene receptor antagonists",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Singulair"
     },
     {
       "name": "Amoxicillin",
@@ -602,7 +676,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Amoxil"
     },
     {
       "name": "Co-Amoxiclav",
@@ -610,7 +685,8 @@
       "dose": 625,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Augmentin"
     },
     {
       "name": "Cephalexin",
@@ -618,7 +694,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Keflex"
     },
     {
       "name": "Ciprofloxacin",
@@ -626,7 +703,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Ciprodar"
     },
     {
       "name": "Levofloxacin",
@@ -634,7 +712,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Tavanic"
     },
     {
       "name": "Azithromycin",
@@ -642,7 +721,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Zithromax"
     },
     {
       "name": "Co-Trimoxazole",
@@ -650,7 +730,8 @@
       "dose": 480,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Metheprim"
     },
     {
       "name": "Nitrofurantoin",
@@ -658,7 +739,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Uvamin"
     },
     {
       "name": "Metronidazole",
@@ -666,7 +748,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Flagyl"
     },
     {
       "name": "Doxycycline",
@@ -674,7 +757,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Doxydar"
     },
     {
       "name": "Oseltamivir",
@@ -682,7 +766,8 @@
       "dose": 75,
       "unit": "mg",
       "class": "Antivirals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Tamiflu"
     },
     {
       "name": "Fluconazole",
@@ -690,7 +775,8 @@
       "dose": 150,
       "unit": "mg",
       "class": "Antifungals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Diflucan"
     },
     {
       "name": "Omeprazole",
@@ -698,7 +784,8 @@
       "dose": 20,
       "unit": "mg",
       "class": "Proton pump inhibitors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Metoclopramide",
@@ -706,7 +793,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Meclodin"
     },
     {
       "name": "Prochlorperazine",
@@ -714,7 +802,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Antipsychotics / Anti-emetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Stemetil"
     },
     {
       "name": "Cinnarizine",
@@ -722,7 +811,8 @@
       "dose": 25,
       "unit": "mg",
       "class": "Anti-histamines / Anti-vertigo agents",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Stugeron"
     },
     {
       "name": "Hyoscine butylbromide",
@@ -730,7 +820,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Spasmolytics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Buscopan"
     },
     {
       "name": "Mebeverine",
@@ -738,15 +829,17 @@
       "dose": 135,
       "unit": "mg",
       "class": "Spasmolytics / Novel IBS medications",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Duspatalin"
     },
     {
-      "name": "Entero-Stop (Diphenoxylate + Atropine)",
+      "name": "Diphenoxylate + Atropine",
       "form": "tablet",
       "dose": "2.5mg + 25",
       "unit": "mcg",
       "class": "Anti-diarrheals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Entero-Stop"
     },
     {
       "name": "Zinc sulfate",
@@ -754,7 +847,8 @@
       "dose": 20,
       "unit": "mg",
       "class": "Supplements / Minerals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Alfacalcidol",
@@ -762,7 +856,8 @@
       "dose": 1,
       "unit": "mcg",
       "class": "Vitamin D analogues",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "One-Alpha"
     },
     {
       "name": "Folic acid",
@@ -770,7 +865,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Water-soluble vitamins",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Calcium carbonate",
@@ -778,7 +874,8 @@
       "dose": 500,
       "unit": "mg",
       "class": "Calcium supplements / Phosphate binders",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Levothyroxine",
@@ -786,7 +883,8 @@
       "dose": 100,
       "unit": "mcg",
       "class": "Thyroid hormones",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Euthyrox"
     },
     {
       "name": "Sevelamer",
@@ -794,7 +892,8 @@
       "dose": 800,
       "unit": "mg",
       "class": "Phosphate binders",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Renvela"
     },
     {
       "name": "Cinacalcet",
@@ -802,7 +901,8 @@
       "dose": 30,
       "unit": "mg",
       "class": "Calcimimetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Sensipar"
     },
     {
       "name": "Misoprostol",
@@ -810,7 +910,8 @@
       "dose": 200,
       "unit": "mcg",
       "class": "Prostaglandin analogues",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Cytotec"
     },
     {
       "name": "Bisacodyl",
@@ -818,7 +919,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Laxatives",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dulcolax"
     },
     {
       "name": "Diazepam",
@@ -826,7 +928,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Benzodiazepines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Valium"
     },
     {
       "name": "Chlordiazepoxide",
@@ -834,7 +937,8 @@
       "dose": 5,
       "unit": "mg",
       "class": "Benzodiazepines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Librium"
     },
     {
       "name": "Phenobarbital",
@@ -842,7 +946,8 @@
       "dose": 15,
       "unit": "mg",
       "class": "Barbiturates",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Luminal"
     },
     {
       "name": "Carbamazepine",
@@ -850,7 +955,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "Anti-epileptics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Tegretol"
     }
   ],
   "OralPreparations": [
@@ -860,7 +966,8 @@
       "dose": 120,
       "unit": "mg/5ml",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Adol"
     },
     {
       "name": "Ibuprofen",
@@ -868,7 +975,8 @@
       "dose": 100,
       "unit": "mg/5ml",
       "class": "NSAID's",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Brufen"
     },
     {
       "name": "Amoxicillin",
@@ -876,7 +984,8 @@
       "dose": 250,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Amoxil"
     },
     {
       "name": "Cephalexin",
@@ -884,7 +993,8 @@
       "dose": 250,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Keflex"
     },
     {
       "name": "Co-Amoxiclav",
@@ -892,7 +1002,8 @@
       "dose": 312.5,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Augmentin"
     },
     {
       "name": "Erythromycin",
@@ -900,7 +1011,8 @@
       "dose": 250,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Metronidazole",
@@ -908,7 +1020,8 @@
       "dose": 200,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Flagyl"
     },
     {
       "name": "Co-Trimoxazole",
@@ -916,7 +1029,8 @@
       "dose": 240,
       "unit": "mg/5ml",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Metheprim"
     },
     {
       "name": "Aciclovir",
@@ -924,7 +1038,8 @@
       "dose": 200,
       "unit": "mg/5ml",
       "class": "Antivirals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Zovirax"
     },
     {
       "name": "Nystatin",
@@ -932,7 +1047,8 @@
       "dose": 100000,
       "unit": "IU/ml",
       "class": "Antifungals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Mycodin"
     },
     {
       "name": "Vitamin D3",
@@ -940,7 +1056,8 @@
       "dose": 10000,
       "unit": "IU/ml",
       "class": "Fat-soluble vitamins",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Cholecalciferol"
     },
     {
       "name": "Oral Rehydration Salts (ORS)",
@@ -948,7 +1065,8 @@
       "dose": 0,
       "unit": "mg/5ml",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dextrolyte"
     },
     {
       "name": "Hyoscine butylbromide",
@@ -956,7 +1074,8 @@
       "dose": 5,
       "unit": "mg/5ml",
       "class": "Spasmolytics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Buscopan"
     },
     {
       "name": "Maalox",
@@ -964,7 +1083,8 @@
       "dose": 0,
       "unit": "mg/5ml",
       "class": "Antacids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Lactulose",
@@ -972,7 +1092,8 @@
       "dose": 667,
       "unit": "g/l",
       "class": "Laxatives",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Duphalac"
     },
     {
       "name": "Bromhexine",
@@ -980,7 +1101,8 @@
       "dose": 4,
       "unit": "mg/5ml",
       "class": "Mucolytics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Solvodin"
     },
     {
       "name": "Exidil",
@@ -988,7 +1110,8 @@
       "dose": 0,
       "unit": "mg/5ml",
       "class": "Cough preparations",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Tussilet",
@@ -996,7 +1119,8 @@
       "dose": 0,
       "unit": "mg/5ml",
       "class": "Cough preparations",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Dextromethorphan",
@@ -1004,7 +1128,8 @@
       "dose": 15,
       "unit": "mg/5ml",
       "class": "Cough suppressants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Sedilar"
     },
     {
       "name": "Salbutamol",
@@ -1012,7 +1137,8 @@
       "dose": 2,
       "unit": "mg/5ml",
       "class": "Short-acting beta-2 agonists (SABA)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Butadin"
     },
     {
       "name": "Chlorpheniramine",
@@ -1020,7 +1146,8 @@
       "dose": 2,
       "unit": "mg/5ml",
       "class": "Anti-histamines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Histadin"
     },
     {
       "name": "Ketotifen",
@@ -1028,7 +1155,8 @@
       "dose": 1,
       "unit": "mg/5ml",
       "class": "Anti-histamines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Zaditen"
     },
     {
       "name": "Dexamethasone",
@@ -1036,7 +1164,8 @@
       "dose": 0.5,
       "unit": "mg/5ml",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dexon"
     }
   ],
   "HighAlertMedications": [
@@ -1046,7 +1175,8 @@
       "dose": 1,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Noradrenaline",
@@ -1054,7 +1184,8 @@
       "dose": 4,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Noradrenaline",
@@ -1062,7 +1193,8 @@
       "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 0
+      "availability": 0,
+      "tradeName": ""
     },
     {
       "name": "Dopamine",
@@ -1070,7 +1202,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Atropine",
@@ -1078,7 +1211,8 @@
       "dose": 1,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Dobutamine",
@@ -1086,7 +1220,8 @@
       "dose": 250,
       "unit": "mg",
       "class": "Inotropics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Lidocaine",
@@ -1094,7 +1229,8 @@
       "dose": 2,
       "unit": "%",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Xylocaine"
     },
     {
       "name": "Adenosine",
@@ -1102,7 +1238,8 @@
       "dose": 6,
       "unit": "mg",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Digoxin",
@@ -1110,7 +1247,8 @@
       "dose": 500,
       "unit": "mcg",
       "class": "Anti-arrhythmics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Lanoxin"
     },
     {
       "name": "Glyceryl Trinitrate",
@@ -1118,7 +1256,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Vasodilators",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Angised"
     },
     {
       "name": "Hydralazine",
@@ -1126,7 +1265,8 @@
       "dose": 20,
       "unit": "mg",
       "class": "Vasodilators",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Apresoline"
     },
     {
       "name": "Labetolol",
@@ -1134,7 +1274,8 @@
       "dose": 5,
       "unit": "mg/ml",
       "class": "Beta blockers",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Sodium Bicarbonate",
@@ -1142,7 +1283,8 @@
       "dose": 10,
       "unit": "mEq",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Potassium Chloride",
@@ -1150,7 +1292,8 @@
       "dose": 15,
       "unit": "mEq",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Calcium gluconate",
@@ -1158,7 +1301,8 @@
       "dose": 10,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Magnesium Sulfate",
@@ -1166,7 +1310,8 @@
       "dose": 20,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Hypertonic Dextrose",
@@ -1174,7 +1319,8 @@
       "dose": 50,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Phenobarbital",
@@ -1182,7 +1328,8 @@
       "dose": 200,
       "unit": "mg",
       "class": "Barbiturates",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Luminal"
     },
     {
       "name": "Phenytoin",
@@ -1190,7 +1337,8 @@
       "dose": 250,
       "unit": "mg",
       "class": "Anti-epileptics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dilantin"
     },
     {
       "name": "Chlorpromazine",
@@ -1198,7 +1346,8 @@
       "dose": 25,
       "unit": "mg",
       "class": "Antipsychotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Largactil"
     },
     {
       "name": "Aminophylline",
@@ -1206,7 +1355,8 @@
       "dose": 250,
       "unit": "mg",
       "class": "Methylxanthines",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Caffeine",
@@ -1214,7 +1364,8 @@
       "dose": 20,
       "unit": "mg/ml",
       "class": "Methylxanthines",
-      "availability": 0
+      "availability": 0,
+      "tradeName": ""
     },
     {
       "name": "Salbutamol",
@@ -1222,7 +1373,8 @@
       "dose": 5,
       "unit": "mg/ml",
       "class": "Short-acting beta-2 agonists (SABA)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Ventolin"
     },
     {
       "name": "Budesonide",
@@ -1230,7 +1382,8 @@
       "dose": 0.5,
       "unit": "mg/ml",
       "class": "Inhaled corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Pulmicort"
     },
     {
       "name": "Protamine sulfate",
@@ -1238,7 +1391,8 @@
       "dose": 10,
       "unit": "mg/ml",
       "class": "Heparin antidote",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     }
   ],
   "RefrigeratedMedications": [
@@ -1248,7 +1402,8 @@
       "dose": 4000,
       "unit": "IU",
       "class": "Anti-coagulants",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Clexane"
     },
     {
       "name": "Enoxaparin",
@@ -1256,7 +1411,8 @@
       "dose": 6000,
       "unit": "IU",
       "class": "Anti-coagulants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Clexane"
     },
     {
       "name": "Heparin",
@@ -1264,7 +1420,8 @@
       "dose": 5000,
       "unit": "IU",
       "class": "Anti-coagulants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Alteplase",
@@ -1272,7 +1429,8 @@
       "dose": 50,
       "unit": "mg",
       "class": "Tissue plasminogen activators (TPA)",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Actilyse"
     },
     {
       "name": "Epoetin alfa",
@@ -1280,7 +1438,8 @@
       "dose": 4000,
       "unit": "IU",
       "class": "Erythropoiesis-stimulating agents",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Eprex"
     },
     {
       "name": "Darbepoetin alfa",
@@ -1288,7 +1447,8 @@
       "dose": 40,
       "unit": "mcg",
       "class": "Erythropoiesis-stimulating agents",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Aranesp"
     },
     {
       "name": "Anti-D immunoglobulin",
@@ -1296,15 +1456,17 @@
       "dose": 300,
       "unit": "mcg",
       "class": "Immunoglobulins",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Rhophylac"
     },
     {
-      "name": "Survanta (Beractant)",
+      "name": "Beractant",
       "form": "vial",
       "dose": 100,
       "unit": "mg",
       "class": "Pulmonary surfactant",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Survanta"
     },
     {
       "name": "Albumin",
@@ -1312,7 +1474,8 @@
       "dose": 20,
       "unit": "%",
       "class": "Colloids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Oxytocin",
@@ -1320,7 +1483,8 @@
       "dose": 10,
       "unit": "IU",
       "class": "Uterotonics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Pitocin"
     },
     {
       "name": "Methylergometrine",
@@ -1328,7 +1492,8 @@
       "dose": 0.2,
       "unit": "mg",
       "class": "Ergot alkaloids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Methergin"
     },
 
     {
@@ -1337,7 +1502,8 @@
       "dose": 100,
       "unit": "mg",
       "class": "Antivirals",
-      "availability": 0
+      "availability": 0,
+      "tradeName": ""
     },
     {
       "name": "Glucagon",
@@ -1345,7 +1511,8 @@
       "dose": 1,
       "unit": "mg",
       "class": "Glucose elevating agents",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "GlucaGen"
     },
     {
       "name": "Actrapid (Soluble Insulin)",
@@ -1353,7 +1520,8 @@
       "dose": 0,
       "unit": "mg",
       "class": "Short-acting insulin",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Mixtard (30% Soluble Insulin + 70% NPH Insulin)",
@@ -1361,7 +1529,8 @@
       "dose": 0,
       "unit": "mg",
       "class": "Short-acting + intermediate-acting combined insulin",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Insulatard (NPH Insulin)",
@@ -1369,7 +1538,8 @@
       "dose": 0,
       "unit": "mg",
       "class": "Intermediate-acting insulin",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Paracetamol",
@@ -1377,7 +1547,8 @@
       "dose": 125,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Adol"
     },
     {
       "name": "Bisacodyl",
@@ -1385,7 +1556,8 @@
       "dose": 10,
       "unit": "mg",
       "class": "Laxatives",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Dulcolax"
     }
   ],
   "Topicals": [
@@ -1395,7 +1567,8 @@
       "dose": 20,
       "unit": "%",
       "class": "Skin Protectants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Lidocaine",
@@ -1403,7 +1576,8 @@
       "dose": 2,
       "unit": "%",
       "class": "Local Anesthetics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Xylocaine"
     },
     {
       "name": "Fusidic acid",
@@ -1411,7 +1585,8 @@
       "dose": 2,
       "unit": "%",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Fucidin"
     },
     {
       "name": "Silver sulfadiazine",
@@ -1419,7 +1594,8 @@
       "dose": 10,
       "unit": "%",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Flamazine"
     },
     {
       "name": "Diclofenac",
@@ -1427,7 +1603,8 @@
       "dose": 1,
       "unit": "%",
       "class": "NSAID's",
-      "availability": 0
+      "availability": 0,
+      "tradeName": "Voltaren"
     },
     {
       "name": "Hydrocortisone",
@@ -1435,7 +1612,8 @@
       "dose": 1,
       "unit": "%",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Betamethasone",
@@ -1443,7 +1621,8 @@
       "dose": 0.1,
       "unit": "%",
       "class": "Corticosteroids",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Betnosam"
     },
     {
       "name": "Tetracycline",
@@ -1451,7 +1630,8 @@
       "dose": 1,
       "unit": "%",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Chloramphenicol",
@@ -1459,7 +1639,8 @@
       "dose": 1,
       "unit": "%",
       "class": "Antibiotics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Nystatin",
@@ -1467,7 +1648,8 @@
       "dose": 100000,
       "unit": "IU",
       "class": "Antifungals",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Mycodin"
     },
     {
       "name": "Nystacort",
@@ -1475,7 +1657,8 @@
       "dose": 0,
       "unit": "%",
       "class": "Combination Drugs",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Oxymetazoline",
@@ -1483,7 +1666,8 @@
       "dose": 0.05,
       "unit": "%",
       "class": "Nasal decongestants",
-      "availability": 1
+      "availability": 1,
+      "tradeName": "Nazordin"
     }
   ],
   "IVFluids": [
@@ -1493,7 +1677,8 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Normal Saline (100ml)",
@@ -1501,7 +1686,8 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 0
+      "availability": 0,
+      "tradeName": ""
     },
     {
       "name": "Glucose Water",
@@ -1509,7 +1695,8 @@
       "dose": 5,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Glucose Water",
@@ -1517,7 +1704,8 @@
       "dose": 10,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Glucose Saline",
@@ -1525,7 +1713,8 @@
       "dose": "0.9% + 5",
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Glucose Saline (1/2)",
@@ -1533,7 +1722,8 @@
       "dose": "0.45% + 2.5",
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Glucose Saline (1/5)",
@@ -1541,7 +1731,8 @@
       "dose": "0.18% + 4",
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Ringer",
@@ -1549,7 +1740,8 @@
       "dose": 0,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Ringer Lactate",
@@ -1557,7 +1749,8 @@
       "dose": 0,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     },
     {
       "name": "Mannitol",
@@ -1565,7 +1758,8 @@
       "dose": 20,
       "unit": "%",
       "class": "Osmotic diuretics",
-      "availability": 1
+      "availability": 1,
+      "tradeName": ""
     }
   ]
 }

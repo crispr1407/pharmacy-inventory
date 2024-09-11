@@ -62,7 +62,11 @@ function buildTable(dataArr) {
     let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit;
     let opacity = dataArr[i].availability === 0 ? 'class="unavailable"' : "";
     rows += `<tr ${opacity}>
-                                  <td class="drug-name">${dataArr[i].name}</td>
+                                  <td class="drug-name">${dataArr[i].name}
+                                  <p class="trade-name">${
+                                    dataArr[i].tradeName
+                                  }</p>
+                                  </td>
                                   <td>${dataArr[i].form}</td>
                                   <td>${doseDisplayed}${unitDisplayed}</td>
                                   <td>${dataArr[i].class}</td>
@@ -81,8 +85,9 @@ function searchTable(value, dataArr) {
   for (let i = 0; i < dataArr.length; i++) {
     value = value.toLowerCase();
     let name = dataArr[i].name.toLowerCase();
+    let tradeName = dataArr[i].tradeName.toLowerCase();
 
-    if (name.includes(value)) {
+    if (name.includes(value) || tradeName.includes(value)) {
       filteredData.push(dataArr[i]);
     }
   }

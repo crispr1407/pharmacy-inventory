@@ -1687,7 +1687,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "N/S"
     },
     {
       "name": "Normal Saline (100ml)",
@@ -1696,7 +1696,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 0,
-      "tradeName": ""
+      "tradeName": "N/S"
     },
     {
       "name": "Glucose Water",
@@ -1705,7 +1705,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "G/W 5%"
     },
     {
       "name": "Glucose Water",
@@ -1714,7 +1714,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "G/W 10%"
     },
     {
       "name": "Glucose Saline",
@@ -1723,7 +1723,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "G/S"
     },
     {
       "name": "Glucose Saline (1/2)",
@@ -1732,7 +1732,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "G/S (1/2)"
     },
     {
       "name": "Glucose Saline (1/5)",
@@ -1741,7 +1741,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "G/S (1/5)"
     },
     {
       "name": "Ringer",
@@ -1759,7 +1759,7 @@
       "unit": "%",
       "class": "Electrolytes",
       "availability": 1,
-      "tradeName": ""
+      "tradeName": "R/L"
     },
     {
       "name": "Mannitol",

@@ -1265,7 +1265,7 @@
       "dose": 20,
       "unit": "mg",
       "class": "Vasodilators",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Apresoline"
     },
     {

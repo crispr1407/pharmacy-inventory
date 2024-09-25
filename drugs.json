@@ -649,7 +649,7 @@
       "dose": 10,
       "unit": "mg",
       "class": "Anti-histamines",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Claritin"
     },
     {

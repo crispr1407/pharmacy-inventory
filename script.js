@@ -1,7 +1,16 @@
 let drugsArr;
-
+// Status messages:
 const loadingMessage = document.getElementsByClassName("loader");
-// Loading json file
+const noDrugsFoundMessage = `<tr>
+                              <td colspan="5" class="no-data-message">
+                                <img class="no-data-image" src="medical-question-mark.png" alt="?"></img>
+                              <br>No drugs found!<br><br><br>
+                              * Tip: Try searching for drugs by typing their scientific or generic names. *
+                              </td>
+                            </tr>`;
+const errorMessage = `<tr><td colspan="5" class="no-data-message" style="text-align:center">Error loading data.</td></tr>`;
+
+// Loading json file.
 async function buildFromJSON() {
   loadingMessage[0].style.display = "block";
   try {
@@ -25,7 +34,7 @@ async function buildFromJSON() {
     const table = document
       .getElementById("drug-table")
       .getElementsByTagName("tbody")[0];
-    table.innerHTML = `<tr><td colspan="5" class="no-data-message" style="text-align:center">Error loading data.</td></tr>`;
+    table.innerHTML = errorMessage;
   }
 }
 buildFromJSON();
@@ -42,16 +51,12 @@ function buildTable(dataArr) {
     .getElementById("drug-table")
     .getElementsByTagName("tbody")[0];
 
-  table.innerHTML = ""; // Resets the table
+  table.innerHTML = ""; // Resets the table.
 
+  // Displaying "No Drugs Found" message.
   if (dataArr.length === 0) {
-    table.innerHTML = `<tr>
-                         <td colspan="5" class="no-data-message">
-                          <img class="no-data-image" src="medical-question-mark.png" alt="?"></img>
-                         <br>No drugs found!<br><br><br>
-                         * Tip: Try searching for drugs by typing their scientific or generic names. *
-                         </td>
-                       </tr>`;
+    table.innerHTML = noDrugsFoundMessage;
+    return;
   }
 
   let rows = "";
@@ -74,16 +79,15 @@ function buildTable(dataArr) {
       dataArr[i].availability === 1 ? "Available" : "Unavailable"
     }</td>
                             </tr>`;
-
-    table.innerHTML = rows;
   }
+  table.innerHTML = rows; // Sets the concatenated string as the inner HTML of the table.
 }
 
 function searchTable(value, dataArr) {
   let filteredData = [];
 
   for (let i = 0; i < dataArr.length; i++) {
-    value = value.toLowerCase();
+    value = value.trim().toLowerCase();
     let name = dataArr[i].name.toLowerCase();
     let tradeName = dataArr[i].tradeName.toLowerCase();
 
@@ -98,14 +102,12 @@ function searchTable(value, dataArr) {
 // Search functionality
 $("#search-input").on("keyup", function () {
   let value = $(this).val();
-  // console.log("Value: ", value);
   let data = searchTable(value, drugsArr);
   buildTable(data);
 });
 
 // Sort functionality
 $("th").on("click", function () {
-  // console.log("clicked");
   let column = $(this).data("column");
   let order = $(this).data("order");
   let text = $(this).html();

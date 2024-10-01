@@ -141,7 +141,7 @@
       "dose": 1,
       "unit": "mg",
       "class": "Water-soluble vitamins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Cyanocobalamin"
     },
     {
@@ -1641,7 +1641,7 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": ""
-    }, 
+    },
     {
       "name": "Clotrimazole",
       "form": "skin cream",

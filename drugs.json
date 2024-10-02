@@ -1,6 +1,7 @@
 {
   "Ampoules": [
     {
+      "id": 1,
       "name": "Furosemide",
       "form": "ampoule",
       "dose": 20,
@@ -10,6 +11,7 @@
       "tradeName": "Lasix"
     },
     {
+      "id": 2,
       "name": "Diazepam",
       "form": "ampoule",
       "dose": 10,
@@ -19,6 +21,7 @@
       "tradeName": "Valium"
     },
     {
+      "id": 3,
       "name": "Diclofenac",
       "form": "ampoule",
       "dose": 75,
@@ -28,6 +31,7 @@
       "tradeName": "Voltaren"
     },
     {
+      "id": 4,
       "name": "Vitamin B6",
       "form": "ampoule",
       "dose": 50,
@@ -37,6 +41,7 @@
       "tradeName": "Pyridoxine"
     },
     {
+      "id": 5,
       "name": "Metoclopramide",
       "form": "ampoule",
       "dose": 10,
@@ -46,6 +51,7 @@
       "tradeName": "Plasil"
     },
     {
+      "id": 6,
       "name": "Nefopam",
       "form": "ampoule",
       "dose": 30,
@@ -55,6 +61,7 @@
       "tradeName": "Acupan"
     },
     {
+      "id": 7,
       "name": "Diphenhydramine",
       "form": "ampoule",
       "dose": 10,
@@ -64,6 +71,7 @@
       "tradeName": "Allermine"
     },
     {
+      "id": 8,
       "name": "Dexamethasone",
       "form": "ampoule",
       "dose": 8,
@@ -73,6 +81,7 @@
       "tradeName": "Decadron"
     },
     {
+      "id": 9,
       "name": "Vitamin K1",
       "form": "ampoule",
       "dose": 10,
@@ -82,6 +91,7 @@
       "tradeName": "Phytonadione"
     },
     {
+      "id": 10,
       "name": "Tranexamic acid",
       "form": "ampoule",
       "dose": 500,
@@ -91,6 +101,7 @@
       "tradeName": "Cyklokapron"
     },
     {
+      "id": 11,
       "name": "Metoprolol tartrate",
       "form": "ampoule",
       "dose": 5,
@@ -100,6 +111,7 @@
       "tradeName": "Betaloc"
     },
     {
+      "id": 12,
       "name": "Gentamicin",
       "form": "ampoule",
       "dose": 80,
@@ -109,6 +121,7 @@
       "tradeName": "Garamycin"
     },
     {
+      "id": 13,
       "name": "Gentamicin",
       "form": "ampoule",
       "dose": 20,
@@ -118,6 +131,7 @@
       "tradeName": "Garamycin"
     },
     {
+      "id": 14,
       "name": "Amiodarone",
       "form": "ampoule",
       "dose": 150,
@@ -127,6 +141,7 @@
       "tradeName": "Cordarone"
     },
     {
+      "id": 15,
       "name": "Hyoscine butylbromide",
       "form": "ampoule",
       "dose": 10,
@@ -136,6 +151,7 @@
       "tradeName": "Buscopan"
     },
     {
+      "id": 16,
       "name": "Vitamin B12",
       "form": "ampoule",
       "dose": 1,
@@ -145,6 +161,7 @@
       "tradeName": "Cyanocobalamin"
     },
     {
+      "id": 17,
       "name": "Amikacin",
       "form": "ampoule",
       "dose": 500,
@@ -154,6 +171,7 @@
       "tradeName": ""
     },
     {
+      "id": 18,
       "name": "Ondansetron",
       "form": "ampoule",
       "dose": 80,
@@ -165,6 +183,7 @@
   ],
   "Vials": [
     {
+      "id": 19,
       "name": "Vancomycin",
       "form": "vial",
       "dose": 1000,
@@ -174,6 +193,7 @@
       "tradeName": ""
     },
     {
+      "id": 20,
       "name": "Ceftriaxone",
       "form": "vial",
       "dose": 1000,
@@ -183,6 +203,7 @@
       "tradeName": ""
     },
     {
+      "id": 21,
       "name": "Ceftazidime",
       "form": "vial",
       "dose": 1000,
@@ -192,6 +213,7 @@
       "tradeName": ""
     },
     {
+      "id": 22,
       "name": "Cefotaxime",
       "form": "vial",
       "dose": 500,
@@ -201,6 +223,7 @@
       "tradeName": "Claforan"
     },
     {
+      "id": 23,
       "name": "Ampicillin",
       "form": "vial",
       "dose": 500,
@@ -210,6 +233,7 @@
       "tradeName": ""
     },
     {
+      "id": 24,
       "name": "Amoxicillin",
       "form": "vial",
       "dose": 500,
@@ -219,6 +243,7 @@
       "tradeName": "Amoxil"
     },
     {
+      "id": 25,
       "name": "Piperacillin + Tazobactam",
       "form": "vial",
       "dose": 4500,
@@ -228,6 +253,7 @@
       "tradeName": "Tazocin"
     },
     {
+      "id": 26,
       "name": "Ciprofloxacin",
       "form": "vial",
       "dose": 200,
@@ -237,6 +263,7 @@
       "tradeName": "Ciprodar"
     },
     {
+      "id": 27,
       "name": "Metronidazole",
       "form": "vial",
       "dose": 500,
@@ -246,6 +273,7 @@
       "tradeName": "Flagyl"
     },
     {
+      "id": 28,
       "name": "Meropenem",
       "form": "vial",
       "dose": 1000,
@@ -255,6 +283,7 @@
       "tradeName": "Meronem"
     },
     {
+      "id": 29,
       "name": "Meropenem",
       "form": "vial",
       "dose": 500,
@@ -264,6 +293,7 @@
       "tradeName": "Meronem"
     },
     {
+      "id": 30,
       "name": "Amphotericin B (Liposomal)",
       "form": "vial",
       "dose": 50,
@@ -273,6 +303,7 @@
       "tradeName": "AmBisome"
     },
     {
+      "id": 31,
       "name": "Aciclovir",
       "form": "vial",
       "dose": 250,
@@ -282,6 +313,7 @@
       "tradeName": "Zovirax"
     },
     {
+      "id": 32,
       "name": "Esomeprazole",
       "form": "vial",
       "dose": 40,
@@ -291,6 +323,7 @@
       "tradeName": "Nexium"
     },
     {
+      "id": 33,
       "name": "Omeprazole",
       "form": "vial",
       "dose": 40,
@@ -300,6 +333,7 @@
       "tradeName": ""
     },
     {
+      "id": 34,
       "name": "Distilled Water",
       "form": "vial",
       "dose": 0,
@@ -309,6 +343,7 @@
       "tradeName": ""
     },
     {
+      "id": 35,
       "name": "Sodium Chloride (3ml)",
       "form": "ampoule",
       "dose": 0.9,
@@ -318,6 +353,7 @@
       "tradeName": ""
     },
     {
+      "id": 36,
       "name": "Paracetamol",
       "form": "vial",
       "dose": 1000,
@@ -327,6 +363,7 @@
       "tradeName": "Paracetol"
     },
     {
+      "id": 37,
       "name": "Paracetamol",
       "form": "vial",
       "dose": 500,
@@ -336,6 +373,7 @@
       "tradeName": "Paracetol"
     },
     {
+      "id": 38,
       "name": "Hydrocortisone",
       "form": "vial",
       "dose": 100,
@@ -345,6 +383,7 @@
       "tradeName": ""
     },
     {
+      "id": 39,
       "name": "Iron sucrose",
       "form": "vial",
       "dose": 100,
@@ -356,6 +395,7 @@
   ],
   "Pills": [
     {
+      "id": 40,
       "name": "Aspirin",
       "form": "tablet",
       "dose": 100,
@@ -365,6 +405,7 @@
       "tradeName": ""
     },
     {
+      "id": 41,
       "name": "Clopidogrel",
       "form": "tablet",
       "dose": 75,
@@ -374,6 +415,7 @@
       "tradeName": "Plavix"
     },
     {
+      "id": 42,
       "name": "Warfarin",
       "form": "tablet",
       "dose": 1,
@@ -383,6 +425,7 @@
       "tradeName": ""
     },
     {
+      "id": 43,
       "name": "Warfarin",
       "form": "tablet",
       "dose": 3,
@@ -392,6 +435,7 @@
       "tradeName": ""
     },
     {
+      "id": 44,
       "name": "Warfarin",
       "form": "tablet",
       "dose": 5,
@@ -401,6 +445,7 @@
       "tradeName": ""
     },
     {
+      "id": 45,
       "name": "Atorvastatin",
       "form": "tablet",
       "dose": 40,
@@ -410,6 +455,7 @@
       "tradeName": "Avas"
     },
     {
+      "id": 46,
       "name": "Rosuvastatin",
       "form": "tablet",
       "dose": 10,
@@ -419,6 +465,7 @@
       "tradeName": "Crestor"
     },
     {
+      "id": 47,
       "name": "Captopril",
       "form": "tablet",
       "dose": 25,
@@ -428,6 +475,7 @@
       "tradeName": "Capoten"
     },
     {
+      "id": 48,
       "name": "Lisinopril",
       "form": "tablet",
       "dose": 10,
@@ -437,6 +485,7 @@
       "tradeName": "Zestril"
     },
     {
+      "id": 49,
       "name": "Losartan",
       "form": "tablet",
       "dose": 50,
@@ -446,6 +495,7 @@
       "tradeName": "Cozaar"
     },
     {
+      "id": 50,
       "name": "Amlodipine",
       "form": "capsule",
       "dose": 5,
@@ -455,6 +505,7 @@
       "tradeName": "Norvasc"
     },
     {
+      "id": 51,
       "name": "Diltiazem",
       "form": "tablet",
       "dose": 60,
@@ -464,6 +515,7 @@
       "tradeName": "Tildiem"
     },
     {
+      "id": 52,
       "name": "Furosemide",
       "form": "tablet",
       "dose": 40,
@@ -473,6 +525,7 @@
       "tradeName": "Lasix"
     },
     {
+      "id": 53,
       "name": "Spironolactone",
       "form": "tablet",
       "dose": 25,
@@ -482,6 +535,7 @@
       "tradeName": "Aldactone"
     },
     {
+      "id": 54,
       "name": "Methyldopa",
       "form": "tablet",
       "dose": 250,
@@ -491,6 +545,7 @@
       "tradeName": "Aldomet"
     },
     {
+      "id": 55,
       "name": "Propranolol",
       "form": "tablet",
       "dose": 40,
@@ -500,6 +555,7 @@
       "tradeName": "Inderal"
     },
     {
+      "id": 56,
       "name": "Metoprolol tartrate",
       "form": "tablet",
       "dose": 50,
@@ -509,6 +565,7 @@
       "tradeName": ""
     },
     {
+      "id": 57,
       "name": "Carvedilol",
       "form": "tablet",
       "dose": 6.25,
@@ -518,6 +575,7 @@
       "tradeName": ""
     },
     {
+      "id": 58,
       "name": "Atenolol",
       "form": "tablet",
       "dose": 100,
@@ -527,6 +585,7 @@
       "tradeName": "Tenormin"
     },
     {
+      "id": 59,
       "name": "Amiodarone",
       "form": "tablet",
       "dose": 200,
@@ -536,6 +595,7 @@
       "tradeName": "Cordarone"
     },
     {
+      "id": 60,
       "name": "Digoxin",
       "form": "tablet",
       "dose": 250,
@@ -545,6 +605,7 @@
       "tradeName": "Lanoxin"
     },
     {
+      "id": 61,
       "name": "Glyceryl Trinitrate",
       "form": "tablet",
       "dose": 500,
@@ -554,6 +615,7 @@
       "tradeName": "Angised"
     },
     {
+      "id": 62,
       "name": "Isosorbide mononitrate",
       "form": "tablet",
       "dose": 10,
@@ -563,6 +625,7 @@
       "tradeName": "Isordil"
     },
     {
+      "id": 63,
       "name": "Metformin",
       "form": "tablet",
       "dose": 500,
@@ -572,6 +635,7 @@
       "tradeName": "Glucophage"
     },
     {
+      "id": 64,
       "name": "Glibenclamide",
       "form": "tablet",
       "dose": 5,
@@ -581,6 +645,7 @@
       "tradeName": "Daonil"
     },
     {
+      "id": 65,
       "name": "Paracetamol",
       "form": "tablet",
       "dose": 500,
@@ -590,6 +655,7 @@
       "tradeName": "Paracetol"
     },
     {
+      "id": 66,
       "name": "Ibuprofen",
       "form": "tablet",
       "dose": 200,
@@ -599,6 +665,7 @@
       "tradeName": "Brufen"
     },
     {
+      "id": 67,
       "name": "Diclofenac",
       "form": "tablet",
       "dose": 25,
@@ -608,6 +675,7 @@
       "tradeName": "Voltaren"
     },
     {
+      "id": 68,
       "name": "Meloxicam",
       "form": "tablet",
       "dose": 15,
@@ -617,6 +685,7 @@
       "tradeName": "Mobic"
     },
     {
+      "id": 69,
       "name": "Dexamethasone",
       "form": "tablet",
       "dose": 0.5,
@@ -626,6 +695,7 @@
       "tradeName": "Dexon"
     },
     {
+      "id": 70,
       "name": "Prednisolone",
       "form": "tablet",
       "dose": 5,
@@ -635,6 +705,7 @@
       "tradeName": "Prisolone"
     },
     {
+      "id": 71,
       "name": "Chlorpheniramine",
       "form": "tablet",
       "dose": 4,
@@ -644,6 +715,7 @@
       "tradeName": "Histadin"
     },
     {
+      "id": 72,
       "name": "Loratadine",
       "form": "tablet",
       "dose": 10,
@@ -653,6 +725,7 @@
       "tradeName": "Claritin"
     },
     {
+      "id": 73,
       "name": "Montelukast",
       "form": "tablet",
       "dose": 4,
@@ -662,6 +735,7 @@
       "tradeName": "Singulair"
     },
     {
+      "id": 74,
       "name": "Montelukast",
       "form": "tablet",
       "dose": 10,
@@ -671,6 +745,7 @@
       "tradeName": "Singulair"
     },
     {
+      "id": 75,
       "name": "Amoxicillin",
       "form": "capsule",
       "dose": 500,
@@ -680,6 +755,7 @@
       "tradeName": "Amoxil"
     },
     {
+      "id": 76,
       "name": "Co-Amoxiclav",
       "form": "tablet",
       "dose": 625,
@@ -689,6 +765,7 @@
       "tradeName": "Augmentin"
     },
     {
+      "id": 77,
       "name": "Cephalexin",
       "form": "capsule",
       "dose": 500,
@@ -698,6 +775,7 @@
       "tradeName": "Keflex"
     },
     {
+      "id": 78,
       "name": "Ciprofloxacin",
       "form": "tablet",
       "dose": 500,
@@ -707,6 +785,7 @@
       "tradeName": "Ciprodar"
     },
     {
+      "id": 79,
       "name": "Levofloxacin",
       "form": "tablet",
       "dose": 500,
@@ -716,6 +795,7 @@
       "tradeName": "Tavanic"
     },
     {
+      "id": 80,
       "name": "Azithromycin",
       "form": "capsule",
       "dose": 500,
@@ -725,6 +805,7 @@
       "tradeName": "Zithromax"
     },
     {
+      "id": 81,
       "name": "Co-Trimoxazole",
       "form": "tablet",
       "dose": 480,
@@ -734,6 +815,7 @@
       "tradeName": "Metheprim"
     },
     {
+      "id": 82,
       "name": "Nitrofurantoin",
       "form": "tablet",
       "dose": 100,
@@ -743,6 +825,7 @@
       "tradeName": "Uvamin"
     },
     {
+      "id": 83,
       "name": "Metronidazole",
       "form": "tablet",
       "dose": 500,
@@ -752,6 +835,7 @@
       "tradeName": "Flagyl"
     },
     {
+      "id": 84,
       "name": "Doxycycline",
       "form": "capsule",
       "dose": 100,
@@ -761,6 +845,7 @@
       "tradeName": "Doxydar"
     },
     {
+      "id": 85,
       "name": "Oseltamivir",
       "form": "capsule",
       "dose": 75,
@@ -770,6 +855,7 @@
       "tradeName": "Tamiflu"
     },
     {
+      "id": 86,
       "name": "Fluconazole",
       "form": "capsule",
       "dose": 150,
@@ -779,6 +865,7 @@
       "tradeName": "Diflucan"
     },
     {
+      "id": 87,
       "name": "Omeprazole",
       "form": "capsule",
       "dose": 20,
@@ -788,6 +875,7 @@
       "tradeName": ""
     },
     {
+      "id": 88,
       "name": "Metoclopramide",
       "form": "tablet",
       "dose": 10,
@@ -797,6 +885,7 @@
       "tradeName": "Meclodin"
     },
     {
+      "id": 89,
       "name": "Prochlorperazine",
       "form": "tablet",
       "dose": 5,
@@ -806,6 +895,7 @@
       "tradeName": "Stemetil"
     },
     {
+      "id": 90,
       "name": "Cinnarizine",
       "form": "tablet",
       "dose": 25,
@@ -815,6 +905,7 @@
       "tradeName": "Stugeron"
     },
     {
+      "id": 91,
       "name": "Hyoscine butylbromide",
       "form": "tablet",
       "dose": 10,
@@ -824,6 +915,7 @@
       "tradeName": "Buscopan"
     },
     {
+      "id": 92,
       "name": "Mebeverine",
       "form": "tablet",
       "dose": 135,
@@ -833,6 +925,7 @@
       "tradeName": "Duspatalin"
     },
     {
+      "id": 93,
       "name": "Diphenoxylate + Atropine",
       "form": "tablet",
       "dose": "2.5mg + 25",
@@ -842,6 +935,7 @@
       "tradeName": "Entero-Stop"
     },
     {
+      "id": 94,
       "name": "Zinc sulfate",
       "form": "tablet",
       "dose": 20,
@@ -851,6 +945,7 @@
       "tradeName": ""
     },
     {
+      "id": 95,
       "name": "Alfacalcidol",
       "form": "capsule",
       "dose": 1,
@@ -860,6 +955,7 @@
       "tradeName": "One-Alpha"
     },
     {
+      "id": 96,
       "name": "Folic acid",
       "form": "tablet",
       "dose": 5,
@@ -869,6 +965,7 @@
       "tradeName": ""
     },
     {
+      "id": 97,
       "name": "Calcium carbonate",
       "form": "tablet",
       "dose": 500,
@@ -878,6 +975,7 @@
       "tradeName": ""
     },
     {
+      "id": 98,
       "name": "Levothyroxine",
       "form": "tablet",
       "dose": 100,
@@ -887,6 +985,7 @@
       "tradeName": "Euthyrox"
     },
     {
+      "id": 99,
       "name": "Sevelamer",
       "form": "tablet",
       "dose": 800,
@@ -896,6 +995,7 @@
       "tradeName": "Renvela"
     },
     {
+      "id": 100,
       "name": "Cinacalcet",
       "form": "tablet",
       "dose": 30,
@@ -905,6 +1005,7 @@
       "tradeName": "Sensipar"
     },
     {
+      "id": 101,
       "name": "Misoprostol",
       "form": "tablet",
       "dose": 200,
@@ -914,6 +1015,7 @@
       "tradeName": "Cytotec"
     },
     {
+      "id": 102,
       "name": "Bisacodyl",
       "form": "tablet",
       "dose": 5,
@@ -923,6 +1025,7 @@
       "tradeName": "Dulcolax"
     },
     {
+      "id": 103,
       "name": "Diazepam",
       "form": "tablet",
       "dose": 5,
@@ -932,6 +1035,7 @@
       "tradeName": "Valium"
     },
     {
+      "id": 104,
       "name": "Chlordiazepoxide",
       "form": "tablet",
       "dose": 5,
@@ -941,6 +1045,7 @@
       "tradeName": "Librium"
     },
     {
+      "id": 105,
       "name": "Phenobarbital",
       "form": "tablet",
       "dose": 15,
@@ -950,6 +1055,7 @@
       "tradeName": "Luminal"
     },
     {
+      "id": 106,
       "name": "Carbamazepine",
       "form": "tablet",
       "dose": 200,
@@ -961,6 +1067,7 @@
   ],
   "OralPreparations": [
     {
+      "id": 107,
       "name": "Paracetamol",
       "form": "syrup",
       "dose": 120,
@@ -970,6 +1077,7 @@
       "tradeName": "Adol"
     },
     {
+      "id": 108,
       "name": "Ibuprofen",
       "form": "oral suspension",
       "dose": 100,
@@ -979,6 +1087,7 @@
       "tradeName": "Brufen"
     },
     {
+      "id": 109,
       "name": "Amoxicillin",
       "form": "oral suspension",
       "dose": 250,
@@ -988,6 +1097,7 @@
       "tradeName": "Amoxil"
     },
     {
+      "id": 110,
       "name": "Cephalexin",
       "form": "oral suspension",
       "dose": 250,
@@ -997,6 +1107,7 @@
       "tradeName": "Keflex"
     },
     {
+      "id": 111,
       "name": "Co-Amoxiclav",
       "form": "oral suspension",
       "dose": 312.5,
@@ -1006,6 +1117,7 @@
       "tradeName": "Augmentin"
     },
     {
+      "id": 112,
       "name": "Erythromycin",
       "form": "oral suspension",
       "dose": 250,
@@ -1015,6 +1127,7 @@
       "tradeName": ""
     },
     {
+      "id": 113,
       "name": "Metronidazole",
       "form": "oral suspension",
       "dose": 200,
@@ -1024,6 +1137,7 @@
       "tradeName": "Flagyl"
     },
     {
+      "id": 114,
       "name": "Co-Trimoxazole",
       "form": "oral suspension",
       "dose": 240,
@@ -1033,6 +1147,7 @@
       "tradeName": "Metheprim"
     },
     {
+      "id": 115,
       "name": "Aciclovir",
       "form": "oral suspension",
       "dose": 200,
@@ -1042,6 +1157,7 @@
       "tradeName": "Zovirax"
     },
     {
+      "id": 116,
       "name": "Nystatin",
       "form": "oral suspension",
       "dose": 100000,
@@ -1051,6 +1167,7 @@
       "tradeName": "Mycodin"
     },
     {
+      "id": 117,
       "name": "Vitamin D3",
       "form": "oral drops",
       "dose": 10000,
@@ -1060,6 +1177,7 @@
       "tradeName": "Cholecalciferol"
     },
     {
+      "id": 118,
       "name": "Oral Rehydration Salts (ORS)",
       "form": "powder",
       "dose": 0,
@@ -1069,6 +1187,7 @@
       "tradeName": "Dextrolyte"
     },
     {
+      "id": 119,
       "name": "Hyoscine butylbromide",
       "form": "syrup",
       "dose": 5,
@@ -1078,6 +1197,7 @@
       "tradeName": "Buscopan"
     },
     {
+      "id": 120,
       "name": "Maalox",
       "form": "oral suspension",
       "dose": 0,
@@ -1087,6 +1207,7 @@
       "tradeName": ""
     },
     {
+      "id": 121,
       "name": "Lactulose",
       "form": "syrup",
       "dose": 667,
@@ -1096,6 +1217,7 @@
       "tradeName": "Duphalac"
     },
     {
+      "id": 122,
       "name": "Bromhexine",
       "form": "syrup",
       "dose": 4,
@@ -1105,6 +1227,7 @@
       "tradeName": "Solvodin"
     },
     {
+      "id": 123,
       "name": "Exidil",
       "form": "elixir",
       "dose": 0,
@@ -1114,6 +1237,7 @@
       "tradeName": ""
     },
     {
+      "id": 124,
       "name": "Tussilet",
       "form": "syrup",
       "dose": 0,
@@ -1123,6 +1247,7 @@
       "tradeName": ""
     },
     {
+      "id": 125,
       "name": "Dextromethorphan",
       "form": "syrup",
       "dose": 15,
@@ -1132,6 +1257,7 @@
       "tradeName": "Sedilar"
     },
     {
+      "id": 126,
       "name": "Salbutamol",
       "form": "syrup",
       "dose": 2,
@@ -1141,6 +1267,7 @@
       "tradeName": "Butadin"
     },
     {
+      "id": 127,
       "name": "Chlorpheniramine",
       "form": "syrup",
       "dose": 2,
@@ -1150,6 +1277,7 @@
       "tradeName": "Histadin"
     },
     {
+      "id": 128,
       "name": "Ketotifen",
       "form": "syrup",
       "dose": 1,
@@ -1159,6 +1287,7 @@
       "tradeName": "Zaditen"
     },
     {
+      "id": 129,
       "name": "Dexamethasone",
       "form": "syrup",
       "dose": 0.5,
@@ -1170,6 +1299,7 @@
   ],
   "HighAlertMedications": [
     {
+      "id": 130,
       "name": "Adrenaline",
       "form": "ampoule",
       "dose": 1,
@@ -1179,6 +1309,7 @@
       "tradeName": ""
     },
     {
+      "id": 131,
       "name": "Noradrenaline",
       "form": "ampoule",
       "dose": 4,
@@ -1188,6 +1319,7 @@
       "tradeName": ""
     },
     {
+      "id": 132,
       "name": "Noradrenaline",
       "form": "ampoule",
       "dose": 8,
@@ -1197,6 +1329,7 @@
       "tradeName": ""
     },
     {
+      "id": 133,
       "name": "Dopamine",
       "form": "ampoule",
       "dose": 200,
@@ -1206,6 +1339,7 @@
       "tradeName": ""
     },
     {
+      "id": 134,
       "name": "Atropine",
       "form": "ampoule",
       "dose": 1,
@@ -1215,6 +1349,7 @@
       "tradeName": ""
     },
     {
+      "id": 135,
       "name": "Dobutamine",
       "form": "ampoule",
       "dose": 250,
@@ -1224,6 +1359,7 @@
       "tradeName": ""
     },
     {
+      "id": 136,
       "name": "Lidocaine",
       "form": "ampoule",
       "dose": 2,
@@ -1233,6 +1369,7 @@
       "tradeName": "Xylocaine"
     },
     {
+      "id": 137,
       "name": "Adenosine",
       "form": "vial",
       "dose": 6,
@@ -1242,6 +1379,7 @@
       "tradeName": ""
     },
     {
+      "id": 138,
       "name": "Digoxin",
       "form": "ampoule",
       "dose": 500,
@@ -1251,6 +1389,7 @@
       "tradeName": "Lanoxin"
     },
     {
+      "id": 139,
       "name": "Glyceryl Trinitrate",
       "form": "ampoule",
       "dose": 10,
@@ -1260,6 +1399,7 @@
       "tradeName": "Angised"
     },
     {
+      "id": 140,
       "name": "Hydralazine",
       "form": "ampoule",
       "dose": 20,
@@ -1269,6 +1409,7 @@
       "tradeName": "Apresoline"
     },
     {
+      "id": 141,
       "name": "Labetolol",
       "form": "vial",
       "dose": 5,
@@ -1278,6 +1419,7 @@
       "tradeName": ""
     },
     {
+      "id": 142,
       "name": "Sodium Bicarbonate",
       "form": "ampoule",
       "dose": 10,
@@ -1287,6 +1429,7 @@
       "tradeName": ""
     },
     {
+      "id": 143,
       "name": "Potassium Chloride",
       "form": "ampoule",
       "dose": 15,
@@ -1296,6 +1439,7 @@
       "tradeName": ""
     },
     {
+      "id": 144,
       "name": "Calcium gluconate",
       "form": "ampoule",
       "dose": 10,
@@ -1305,6 +1449,7 @@
       "tradeName": ""
     },
     {
+      "id": 145,
       "name": "Magnesium Sulfate",
       "form": "ampoule",
       "dose": 20,
@@ -1314,6 +1459,7 @@
       "tradeName": ""
     },
     {
+      "id": 146,
       "name": "Hypertonic Dextrose",
       "form": "ampoule",
       "dose": 50,
@@ -1323,6 +1469,7 @@
       "tradeName": ""
     },
     {
+      "id": 147,
       "name": "Phenobarbital",
       "form": "ampoule",
       "dose": 200,
@@ -1332,6 +1479,7 @@
       "tradeName": "Luminal"
     },
     {
+      "id": 148,
       "name": "Phenytoin",
       "form": "ampoule",
       "dose": 250,
@@ -1341,6 +1489,7 @@
       "tradeName": "Dilantin"
     },
     {
+      "id": 149,
       "name": "Chlorpromazine",
       "form": "ampoule",
       "dose": 25,
@@ -1350,6 +1499,7 @@
       "tradeName": "Largactil"
     },
     {
+      "id": 150,
       "name": "Aminophylline",
       "form": "ampoule",
       "dose": 250,
@@ -1359,6 +1509,7 @@
       "tradeName": ""
     },
     {
+      "id": 151,
       "name": "Caffeine",
       "form": "ampoule",
       "dose": 20,
@@ -1368,6 +1519,7 @@
       "tradeName": ""
     },
     {
+      "id": 152,
       "name": "Salbutamol",
       "form": "nebulising solution",
       "dose": 5,
@@ -1377,6 +1529,7 @@
       "tradeName": "Ventolin"
     },
     {
+      "id": 153,
       "name": "Budesonide",
       "form": "nebulising suspension",
       "dose": 0.5,
@@ -1386,6 +1539,7 @@
       "tradeName": "Pulmicort"
     },
     {
+      "id": 154,
       "name": "Protamine sulfate",
       "form": "vial",
       "dose": 10,
@@ -1397,6 +1551,7 @@
   ],
   "RefrigeratedMedications": [
     {
+      "id": 155,
       "name": "Enoxaparin",
       "form": "prefilled syringe",
       "dose": 4000,
@@ -1406,6 +1561,7 @@
       "tradeName": "Clexane"
     },
     {
+      "id": 156,
       "name": "Enoxaparin",
       "form": "prefilled syringe",
       "dose": 6000,
@@ -1415,6 +1571,7 @@
       "tradeName": "Clexane"
     },
     {
+      "id": 157,
       "name": "Heparin",
       "form": "prefilled syringe",
       "dose": 5000,
@@ -1424,6 +1581,7 @@
       "tradeName": ""
     },
     {
+      "id": 158,
       "name": "Alteplase",
       "form": "vial",
       "dose": 50,
@@ -1433,6 +1591,7 @@
       "tradeName": "Actilyse"
     },
     {
+      "id": 159,
       "name": "Epoetin alfa",
       "form": "prefilled syringe",
       "dose": 4000,
@@ -1442,6 +1601,7 @@
       "tradeName": "Eprex"
     },
     {
+      "id": 160,
       "name": "Darbepoetin alfa",
       "form": "prefilled syringe",
       "dose": 40,
@@ -1451,6 +1611,7 @@
       "tradeName": "Aranesp"
     },
     {
+      "id": 161,
       "name": "Anti-D immunoglobulin",
       "form": "prefilled syringe",
       "dose": 300,
@@ -1460,6 +1621,7 @@
       "tradeName": "Rhophylac"
     },
     {
+      "id": 162,
       "name": "Beractant",
       "form": "vial",
       "dose": 100,
@@ -1469,6 +1631,7 @@
       "tradeName": "Survanta"
     },
     {
+      "id": 163,
       "name": "Albumin",
       "form": "vial",
       "dose": 20,
@@ -1478,6 +1641,7 @@
       "tradeName": ""
     },
     {
+      "id": 164,
       "name": "Oxytocin",
       "form": "ampoule",
       "dose": 10,
@@ -1487,6 +1651,7 @@
       "tradeName": "Pitocin"
     },
     {
+      "id": 165,
       "name": "Methylergometrine",
       "form": "ampoule",
       "dose": 0.2,
@@ -1497,6 +1662,7 @@
     },
 
     {
+      "id": 166,
       "name": "Remdesivir",
       "form": "vial",
       "dose": 100,
@@ -1506,6 +1672,7 @@
       "tradeName": ""
     },
     {
+      "id": 167,
       "name": "Glucagon",
       "form": "vial",
       "dose": 1,
@@ -1515,6 +1682,7 @@
       "tradeName": "GlucaGen"
     },
     {
+      "id": 168,
       "name": "Actrapid (Soluble Insulin)",
       "form": "vial",
       "dose": 0,
@@ -1524,6 +1692,7 @@
       "tradeName": ""
     },
     {
+      "id": 169,
       "name": "Mixtard (30% Soluble Insulin + 70% NPH Insulin)",
       "form": "vial",
       "dose": 0,
@@ -1533,6 +1702,7 @@
       "tradeName": ""
     },
     {
+      "id": 170,
       "name": "Insulatard (NPH Insulin)",
       "form": "vial",
       "dose": 0,
@@ -1542,6 +1712,7 @@
       "tradeName": ""
     },
     {
+      "id": 171,
       "name": "Paracetamol",
       "form": "suppository",
       "dose": 125,
@@ -1551,6 +1722,7 @@
       "tradeName": "Adol"
     },
     {
+      "id": 172,
       "name": "Bisacodyl",
       "form": "suppository",
       "dose": 10,
@@ -1562,6 +1734,7 @@
   ],
   "Topicals": [
     {
+      "id": 173,
       "name": "Zinc oxide",
       "form": "skin ointment",
       "dose": 20,
@@ -1571,6 +1744,7 @@
       "tradeName": ""
     },
     {
+      "id": 174,
       "name": "Lidocaine",
       "form": "skin gel",
       "dose": 2,
@@ -1580,6 +1754,7 @@
       "tradeName": "Xylocaine"
     },
     {
+      "id": 175,
       "name": "Fusidic acid",
       "form": "skin ointment",
       "dose": 2,
@@ -1589,6 +1764,7 @@
       "tradeName": "Fucidin"
     },
     {
+      "id": 176,
       "name": "Silver sulfadiazine",
       "form": "skin ointment",
       "dose": 10,
@@ -1598,6 +1774,7 @@
       "tradeName": "Flamazine"
     },
     {
+      "id": 177,
       "name": "Diclofenac",
       "form": "skin gel",
       "dose": 1,
@@ -1607,6 +1784,7 @@
       "tradeName": "Voltaren"
     },
     {
+      "id": 178,
       "name": "Hydrocortisone",
       "form": "skin cream",
       "dose": 1,
@@ -1616,6 +1794,7 @@
       "tradeName": ""
     },
     {
+      "id": 179,
       "name": "Betamethasone",
       "form": "skin ointment",
       "dose": 0.1,
@@ -1625,6 +1804,7 @@
       "tradeName": "Betnosam"
     },
     {
+      "id": 180,
       "name": "Tetracycline",
       "form": "eye ointment",
       "dose": 1,
@@ -1634,6 +1814,7 @@
       "tradeName": ""
     },
     {
+      "id": 181,
       "name": "Chloramphenicol",
       "form": "eye ointment",
       "dose": 1,
@@ -1643,6 +1824,7 @@
       "tradeName": ""
     },
     {
+      "id": 182,
       "name": "Clotrimazole",
       "form": "skin cream",
       "dose": 1,
@@ -1652,6 +1834,7 @@
       "tradeName": "Fugidin"
     },
     {
+      "id": 183,
       "name": "Nystatin",
       "form": "skin ointment",
       "dose": 100000,
@@ -1661,6 +1844,7 @@
       "tradeName": "Mycodin"
     },
     {
+      "id": 184,
       "name": "Nystacort",
       "form": "skin ointment",
       "dose": 0,
@@ -1670,6 +1854,7 @@
       "tradeName": ""
     },
     {
+      "id": 185,
       "name": "Oxymetazoline",
       "form": "nasal drops",
       "dose": 0.05,
@@ -1681,6 +1866,7 @@
   ],
   "IVFluids": [
     {
+      "id": 186,
       "name": "Normal Saline (500ml)",
       "form": "infusion bottle",
       "dose": 0.9,
@@ -1690,6 +1876,7 @@
       "tradeName": "N/S"
     },
     {
+      "id": 187,
       "name": "Normal Saline (100ml)",
       "form": "infusion bottle",
       "dose": 0.9,
@@ -1699,6 +1886,7 @@
       "tradeName": "N/S"
     },
     {
+      "id": 188,
       "name": "Glucose Water",
       "form": "infusion bottle",
       "dose": 5,
@@ -1708,6 +1896,7 @@
       "tradeName": "G/W 5%"
     },
     {
+      "id": 189,
       "name": "Glucose Water",
       "form": "infusion bottle",
       "dose": 10,
@@ -1717,6 +1906,7 @@
       "tradeName": "G/W 10%"
     },
     {
+      "id": 190,
       "name": "Glucose Saline",
       "form": "infusion bottle",
       "dose": "0.9% + 5",
@@ -1726,6 +1916,7 @@
       "tradeName": "G/S"
     },
     {
+      "id": 191,
       "name": "Glucose Saline (1/2)",
       "form": "infusion bottle",
       "dose": "0.45% + 2.5",
@@ -1735,6 +1926,7 @@
       "tradeName": "G/S"
     },
     {
+      "id": 192,
       "name": "Glucose Saline (1/5)",
       "form": "infusion bottle",
       "dose": "0.18% + 4",
@@ -1744,6 +1936,7 @@
       "tradeName": "G/S"
     },
     {
+      "id": 193,
       "name": "Ringer",
       "form": "infusion bottle",
       "dose": 0,
@@ -1753,6 +1946,7 @@
       "tradeName": ""
     },
     {
+      "id": 194,
       "name": "Ringer Lactate",
       "form": "infusion bottle",
       "dose": 0,
@@ -1762,6 +1956,7 @@
       "tradeName": "R/L"
     },
     {
+      "id": 195,
       "name": "Mannitol",
       "form": "infusion bottle",
       "dose": 20,

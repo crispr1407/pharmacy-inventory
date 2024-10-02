@@ -1695,7 +1695,7 @@
       "dose": 0.9,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "N/S"
     },
     {

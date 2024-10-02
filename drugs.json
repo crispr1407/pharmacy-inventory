@@ -1193,7 +1193,7 @@
       "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": ""
     },
     {

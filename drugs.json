@@ -1588,7 +1588,7 @@
       "unit": "mg",
       "class": "Vasopressors",
       "availability": 1,
-      "tradeName": "",
+      "tradeName": "Norepinephrine",
       "route": ["IV"],
       "compatibleWith": ["GW5", "GS"]
     },

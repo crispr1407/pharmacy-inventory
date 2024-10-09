@@ -393,7 +393,7 @@
       "dose": 40,
       "unit": "mg",
       "class": "Proton pump inhibitors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "",
       "route": ["IV"],
       "compatibleWith": ["NS", "GW5"]

@@ -158,7 +158,7 @@ function buildModal(item) {
       : "";
   const compWarning =
     item.compatibleWith.length === 1
-      ? `<p class="comp-warning"><strong>Caution:</strong> Item is compatible with only one type of fluid.</p>`
+      ? `<p class="comp-warning"><strong>Caution &#9888;</strong> Item is compatible with only one type of fluid.</p>`
       : "";
   const fluidInfo = (fluids) => {
     let element = "";

@@ -119,7 +119,7 @@ function buildModal(item) {
       R: "teal",
       RL: "turquoise",
       HM: "black",
-      DW: "greenyellow",
+      DW: "aqua",
     };
     return `style="background-color:${colors[fluid]}"`;
   };

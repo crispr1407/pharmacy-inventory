@@ -1716,7 +1716,7 @@
       "id": 143,
       "name": "Potassium Chloride",
       "form": "ampoule",
-      "dose": 15,
+      "dose": 20,
       "unit": "mEq",
       "class": "Electrolytes",
       "availability": 1,

@@ -1,6 +1,6 @@
 let drugsArr;
 // Status messages:
-const loadingMessage = document.getElementsByClassName("loader");
+const loadingMessage = document.getElementsByClassName("loader")[0];
 const noDrugsFoundMessage = `<tr>
                               <td colspan="5" class="no-data-message">
                                 <img class="no-data-image" src="medical-question-mark.png" alt="?"></img>
@@ -12,7 +12,7 @@ const errorMessage = `<tr><td colspan="5" class="no-data-message" style="text-al
 
 // Loading json file.
 async function buildFromJSON() {
-  loadingMessage[0].style.display = "block";
+  loadingMessage.style.display = "block";
   try {
     const file = await $.getJSON("drugs.json");
     drugsArr = file.Ampoules.concat(
@@ -25,12 +25,12 @@ async function buildFromJSON() {
       file.IVFluids
     );
 
-    loadingMessage[0].style.display = "none";
+    loadingMessage.style.display = "none";
 
     buildTable(drugsArr);
   } catch (error) {
     console.error("Error fetching json file!", error);
-    loadingMessage[0].style.display = "none";
+    loadingMessage.style.display = "none";
     const table = document
       .getElementById("drug-table")
       .getElementsByTagName("tbody")[0];
@@ -61,12 +61,13 @@ function buildTable(dataArr) {
 
   let rows = "";
   for (let i = 0; i < dataArr.length; i++) {
+    let drugId = dataArr[i].id;
     let statusClass =
       dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
     let doseDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].dose;
     let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit;
-    let opacity = dataArr[i].availability === 0 ? 'class="unavailable"' : "";
-    rows += `<tr ${opacity}>
+    let opacity = dataArr[i].availability === 0 ? " unavailable" : "";
+    rows += `<tr class="drug-row${opacity}" drug-id="${drugId}">
                                   <td class="drug-name">${dataArr[i].name}
                                   <p class="trade-name">${
                                     dataArr[i].tradeName
@@ -99,6 +100,86 @@ function searchTable(value, dataArr) {
   return filteredData;
 }
 
+// TODO: Deal with TypeError.
+// Why the fuck does this throw an error when sorting?
+function buildModal(item) {
+  const modalText = document.getElementsByClassName("modal-text")[0];
+  const itemStatus = item.availability === 1 ? "Available" : "Unavailable";
+  const routeText = item.route.join("/");
+  const statusColor =
+    item.availability === 1
+      ? "var(--available-color)"
+      : "var(--unavailable-color)";
+  const backgroundColor = (fluid) => {
+    const colors = {
+      NS: "blue",
+      GW5: "red",
+      GW10: "maroon",
+      GS: "orange",
+      R: "teal",
+      RL: "turquoise",
+      HM: "black",
+    };
+    return `style="background-color:${colors[fluid]}"`;
+  };
+  const fluidName = (fluid) => {
+    const fullNames = {
+      NS: "Normal Saline 0.9%",
+      GW5: "Glucose Water 5%",
+      GW10: "Glucose Water 10%",
+      GS: "Glucose Saline",
+      R: "Ringer's",
+      RL: "Lactated Ringer's",
+      HM: "Hartman's",
+    };
+    return `${fullNames[fluid]}`;
+  };
+  const itemElement = (item) => {
+    const tradeNameDisplayed = item.tradeName ? `${item.tradeName}` : "";
+    const doseDisplayed = item.dose != 0 ? `${item.dose}${item.unit}` : "";
+    return `<strong>${item.name}</strong> ${doseDisplayed} <p class="modal-trade-name">${tradeNameDisplayed}</p>`;
+  };
+  const fluidElement = (fluids) => {
+    let element = "";
+    fluids.forEach((fluid) => {
+      element += `<span class="fluid" ${backgroundColor(
+        fluid
+      )}>${fluid}</span>`;
+    });
+    return element;
+  };
+  const compElement =
+    item.compatibleWith.length > 0
+      ? `<p class="comp-text">Compatible with: <br> ${fluidElement(
+          item.compatibleWith
+        )}</p>`
+      : "";
+  const compWarning =
+    item.compatibleWith.length === 1
+      ? `<p class="comp-warning"><strong>Caution:</strong> Item is compatible with only one type of fluid.</p>`
+      : "";
+  const fluidInfo = (fluids) => {
+    let element = "";
+    fluids.forEach((fluid) => {
+      element += `<strong>${fluid}</strong> &rarr; ${fluidName(fluid)}. `;
+    });
+    return element;
+  };
+
+  modalText.innerHTML = `
+    <div>
+     <p class="modal-name">${itemElement(item)}</p>
+    </div>
+      <div class="modal-route"><span>${
+        item.form
+      } &rarr; ${routeText}</span></div>
+      <div class="modal-status" style="background-color: ${statusColor};"><span> ${itemStatus}</span></div>
+      <div>${compElement}</div>
+      <div>${compWarning}</div>
+      <br><br><p class="fluid-info">${fluidInfo(item.compatibleWith)}</p>
+      `;
+}
+
 // Search functionality
 $("#search-input").on("keyup", function () {
   let value = $(this).val();
@@ -124,4 +205,16 @@ $("th").on("click", function () {
   }
   $(this).html(text);
   buildTable(drugsArr);
+});
+
+// Modal functionality
+$(document).on("click", "tr", function () {
+  let drugId = parseInt($(this).attr("drug-id"));
+  let drug = drugsArr.find((d) => d.id === drugId);
+  buildModal(drug);
+  $(".info-modal").css({ display: "block" });
+});
+// Close modal
+$(document).on("click", ".close", function () {
+  $(".info-modal").css({ display: "none" });
 });

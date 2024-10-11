@@ -733,7 +733,7 @@
       "class": "Vasodilators",
       "availability": 1,
       "tradeName": "Angised",
-      "route": ["PO"],
+      "route": ["SUBLINGUAL"],
       "compatibleWith": []
     },
     {
@@ -2230,7 +2230,7 @@
       "class": "Nasal decongestants",
       "availability": 1,
       "tradeName": "Nazordin",
-      "route": ["NASAL"],
+      "route": ["INTRANASAL"],
       "compatibleWith": []
     }
   ],

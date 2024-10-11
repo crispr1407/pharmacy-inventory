@@ -119,6 +119,7 @@ function buildModal(item) {
       R: "teal",
       RL: "turquoise",
       HM: "black",
+      DW: "greenyellow",
     };
     return `style="background-color:${colors[fluid]}"`;
   };
@@ -131,6 +132,7 @@ function buildModal(item) {
       R: "Ringer's",
       RL: "Lactated Ringer's",
       HM: "Hartman's",
+      DW: "Distilled Water for Injection",
     };
     return `${fullNames[fluid]}`;
   };

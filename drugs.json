@@ -1745,7 +1745,7 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IM", "IV", "NEB"],
+      "route": ["IM", "IV", "INHALED"],
       "compatibleWith": ["NS", "GW5"]
     },
     {
@@ -1829,7 +1829,7 @@
       "class": "Short-acting beta-2 agonists (SABA)",
       "availability": 1,
       "tradeName": "Ventolin",
-      "route": ["NEB"],
+      "route": ["INHALED"],
       "compatibleWith": ["DW", "NS"]
     },
     {
@@ -1841,7 +1841,7 @@
       "class": "Inhaled corticosteroids",
       "availability": 1,
       "tradeName": "Pulmicort",
-      "route": ["NEB"],
+      "route": ["INHALED"],
       "compatibleWith": ["DW", "NS"]
     },
     {
@@ -1951,7 +1951,7 @@
       "class": "Pulmonary surfactant",
       "availability": 1,
       "tradeName": "Survanta",
-      "route": ["IT"],
+      "route": ["INTRATRACHEAL"],
       "compatibleWith": []
     },
     {
@@ -2086,7 +2086,7 @@
       "class": "Skin Protectants",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2098,7 +2098,7 @@
       "class": "Local Anesthetics",
       "availability": 1,
       "tradeName": "Xylocaine",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2110,7 +2110,7 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Fucidin",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2122,7 +2122,7 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Flamazine",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2134,7 +2134,7 @@
       "class": "NSAID's",
       "availability": 0,
       "tradeName": "Voltaren",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2146,7 +2146,7 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2158,7 +2158,7 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "Betnosam",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2170,7 +2170,7 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2182,7 +2182,7 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2194,7 +2194,7 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Fugidin",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2206,7 +2206,7 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Mycodin",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {
@@ -2218,7 +2218,7 @@
       "class": "Combination Drugs",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOP"],
+      "route": ["TOPICAL"],
       "compatibleWith": []
     },
     {

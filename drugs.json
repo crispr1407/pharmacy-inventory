@@ -2156,7 +2156,7 @@
       "dose": 0.1,
       "unit": "%",
       "class": "Corticosteroids",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Betnosam",
       "route": ["TOPICAL"],
       "compatibleWith": []

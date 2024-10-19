@@ -187,7 +187,7 @@
       "dose": 1,
       "unit": "mg",
       "class": "Water-soluble vitamins",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Cyanocobalamin",
       "route": ["IM"],
       "compatibleWith": []
@@ -815,7 +815,7 @@
       "dose": 15,
       "unit": "mg",
       "class": "NSAID's",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Mobic",
       "route": ["PO"],
       "compatibleWith": []

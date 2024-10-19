@@ -211,7 +211,7 @@
       "dose": 80,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Zofran",
       "route": ["IM", "IV"],
       "compatibleWith": ["NS", "GW5", "R", "HM"]

@@ -2232,6 +2232,18 @@
       "tradeName": "Nazordin",
       "route": ["INTRANASAL"],
       "compatibleWith": []
+    },
+    {
+      "id": 500,
+      "name": "Xylometazoline",
+      "form": "nasal spray",
+      "dose": 0.1,
+      "unit": "%",
+      "class": "Nasal decongestants",
+      "availability": 1,
+      "tradeName": "Otrivin",
+      "route": ["INTRANASAL"],
+      "compatibleWith": []
     }
   ],
   "IVFluids": [

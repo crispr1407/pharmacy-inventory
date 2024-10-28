@@ -1275,6 +1275,30 @@
       "tradeName": "Tegretol",
       "route": ["PO"],
       "compatibleWith": []
+    },
+    {
+      "id": 501,
+      "name": "Dydrogesterone",
+      "form": "tablet",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Progestogens",
+      "availability": 1,
+      "tradeName": "Duphaston",
+      "route": ["PO"],
+      "compatibleWith": []
+    },
+    {
+      "id": 502,
+      "name": "Tamsulosin",
+      "form": "capsule",
+      "dose": 0.4,
+      "unit": "mg",
+      "class": "Alpha blockers",
+      "availability": 1,
+      "tradeName": "Omnic",
+      "route": ["PO"],
+      "compatibleWith": []
     }
   ],
   "OralPreparations": [
@@ -2056,6 +2080,18 @@
       "name": "Paracetamol",
       "form": "suppository",
       "dose": 125,
+      "unit": "mg",
+      "class": "Analgesics / Antipyretics",
+      "availability": 1,
+      "tradeName": "Adol",
+      "route": ["RECTAL"],
+      "compatibleWith": []
+    },
+    {
+      "id": 505,
+      "name": "Paracetamol",
+      "form": "suppository",
+      "dose": 250,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
       "availability": 1,

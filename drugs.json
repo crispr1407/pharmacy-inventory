@@ -1967,6 +1967,18 @@
       "compatibleWith": []
     },
     {
+      "id": 600,
+      "name": "Human normal immunoglobulin (IgG)",
+      "form": "vial",
+      "dose": 5,
+      "unit": "%",
+      "class": "Immunoglobulins",
+      "availability": 1,
+      "tradeName": "Intratect",
+      "route": ["IV"],
+      "compatibleWith": []
+    },
+    {
       "id": 162,
       "name": "Beractant",
       "form": "vial",

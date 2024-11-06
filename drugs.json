@@ -1525,7 +1525,7 @@
       "dose": 15,
       "unit": "mg/5ml",
       "class": "Cough suppressants",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Sedilar",
       "route": ["PO"],
       "compatibleWith": []

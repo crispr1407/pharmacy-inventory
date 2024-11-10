@@ -2276,7 +2276,7 @@
       "dose": 0.05,
       "unit": "%",
       "class": "Nasal decongestants",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Nazordin",
       "route": ["INTRANASAL"],
       "compatibleWith": []

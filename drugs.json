@@ -1973,7 +1973,7 @@
       "dose": 5,
       "unit": "%",
       "class": "Immunoglobulins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Intratect",
       "route": ["IV"],
       "compatibleWith": []

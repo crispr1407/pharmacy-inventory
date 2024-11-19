@@ -1599,7 +1599,7 @@
       "dose": 4,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Norepinephrine",
       "route": ["IV"],
       "compatibleWith": ["GW5", "GS"]
@@ -1611,7 +1611,7 @@
       "dose": 8,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Norepinephrine",
       "route": ["IV"],
       "compatibleWith": ["GW5", "GS"]
@@ -1985,7 +1985,7 @@
       "dose": 100,
       "unit": "mg",
       "class": "Pulmonary surfactant",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Survanta",
       "route": ["INTRATRACHEAL"],
       "compatibleWith": []

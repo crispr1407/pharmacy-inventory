@@ -1985,7 +1985,7 @@
       "dose": 100,
       "unit": "mg",
       "class": "Pulmonary surfactant",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Survanta",
       "route": ["INTRATRACHEAL"],
       "compatibleWith": []

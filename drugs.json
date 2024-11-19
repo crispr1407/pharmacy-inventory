@@ -199,7 +199,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "",
       "route": ["IM", "IV"],
       "compatibleWith": ["NS", "GW5", "HM"]

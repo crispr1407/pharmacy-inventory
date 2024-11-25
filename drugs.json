@@ -1283,7 +1283,7 @@
       "dose": 10,
       "unit": "mg",
       "class": "Progestogens",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Duphaston",
       "route": ["PO"],
       "compatibleWith": []

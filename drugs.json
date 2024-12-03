@@ -103,7 +103,7 @@
       "dose": 10,
       "unit": "mg",
       "class": "Fat-soluble vitamins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Phytonadione",
       "route": ["IM", "IV"],
       "compatibleWith": ["GW5"]
@@ -959,7 +959,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Zithromax",
       "route": ["PO"],
       "compatibleWith": []
@@ -1997,7 +1997,7 @@
       "dose": 20,
       "unit": "%",
       "class": "Colloids",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "",
       "route": ["IV"],
       "compatibleWith": []

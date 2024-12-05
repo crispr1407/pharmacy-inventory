@@ -297,7 +297,7 @@
       "dose": 4500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Tazocin",
       "route": ["IV"],
       "compatibleWith": ["NS", "GW5"]

@@ -1997,7 +1997,7 @@
       "dose": 20,
       "unit": "%",
       "class": "Colloids",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "",
       "route": ["IV"],
       "compatibleWith": []

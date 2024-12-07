@@ -372,7 +372,8 @@
       "availability": 1,
       "tradeName": "Zovirax",
       "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"]
+      "compatibleWith": ["NS", "GW5", "GS", "HM"],
+      "image": ""
     },
     {
       "id": 32,
@@ -384,7 +385,8 @@
       "availability": 1,
       "tradeName": "Nexium",
       "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "compatibleWith": ["NS", "GW5", "HM"],
+      "image": ""
     },
     {
       "id": 33,
@@ -482,7 +484,8 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/aspirin100_sdi_1.jpg", "pills/aspirin100_sdi_2.jpg"]
     },
     {
       "id": 41,
@@ -494,7 +497,11 @@
       "availability": 1,
       "tradeName": "Plavix",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/clopidogrel75_furat_1.jpg",
+        "pills/clopidogrel75_furat_2.jpg"
+      ]
     },
     {
       "id": 42,
@@ -506,7 +513,11 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/warfarin1_flamingo_1.jpg",
+        "pills/warfarin1_flamingo_2.jpg"
+      ]
     },
     {
       "id": 43,
@@ -518,7 +529,11 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/warfarin3_flamingo_1.jpg",
+        "pills/warfarin3_flamingo_2.jpg"
+      ]
     },
     {
       "id": 44,
@@ -530,7 +545,11 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/warfarin5_flamingo_1.jpg",
+        "pills/warfarin5_flamingo_2.jpg"
+      ]
     },
     {
       "id": 45,
@@ -542,7 +561,11 @@
       "availability": 1,
       "tradeName": "Avas",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/atorvastatin40_fayhaa_1.jpg",
+        "pills/atorvastatin40_fayhaa_2.jpg"
+      ]
     },
     {
       "id": 46,
@@ -554,7 +577,11 @@
       "availability": 1,
       "tradeName": "Crestor",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/rosuvastatin10_pioneer_1.jpg",
+        "pills/rosuvastatin10_pioneer_2.jpg"
+      ]
     },
     {
       "id": 47,
@@ -566,7 +593,8 @@
       "availability": 1,
       "tradeName": "Capoten",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/captopril25_mdi_1.jpg", "pills/captopril25_mdi_2.jpg"]
     },
     {
       "id": 48,
@@ -578,7 +606,11 @@
       "availability": 1,
       "tradeName": "Zestril",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/lisinopril10_jamjoom_1.jpg",
+        "pills/lisinopril10_jamjoom_2.jpg"
+      ]
     },
     {
       "id": 49,
@@ -590,7 +622,11 @@
       "availability": 1,
       "tradeName": "Cozaar",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/losartan50_pioneer_1.jpg",
+        "pills/losartan50_pioneer_2.jpg"
+      ]
     },
     {
       "id": 50,
@@ -602,7 +638,11 @@
       "availability": 1,
       "tradeName": "Norvasc",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/amlodipine5_kindy_1.jpg",
+        "pills/amlodipine5_kindy_2.jpg"
+      ]
     },
     {
       "id": 51,
@@ -626,7 +666,8 @@
       "availability": 1,
       "tradeName": "Lasix",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/furosemide40_sdi_1.jpg", "pills/furosemide40_sdi_2.jpg"]
     },
     {
       "id": 53,
@@ -638,7 +679,11 @@
       "availability": 1,
       "tradeName": "Aldactone",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/spironolactone25_awa_1.jpg",
+        "pills/spironolactone25_awa_2.jpg"
+      ]
     },
     {
       "id": 54,
@@ -650,7 +695,11 @@
       "availability": 1,
       "tradeName": "Aldomet",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/methyldopa250_safa_1.jpg",
+        "pills/methyldopa250_safa_2.jpg"
+      ]
     },
     {
       "id": 55,
@@ -662,7 +711,11 @@
       "availability": 1,
       "tradeName": "Inderal",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/propranolol40_sdi_1.jpg",
+        "pills/propranolol40_sdi_2.jpg"
+      ]
     },
     {
       "id": 56,
@@ -674,7 +727,8 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/metoprolol50_awa_1.jpg", "pills/metoprolol50_awa_2.jpg"]
     },
     {
       "id": 57,
@@ -686,7 +740,11 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/carvedilol6-25_kindy_1.jpg",
+        "pills/carvedilol6-25_kindy_2.jpg"
+      ]
     },
     {
       "id": 58,
@@ -710,7 +768,11 @@
       "availability": 1,
       "tradeName": "Cordarone",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/amiodarone200_pioneer_1.jpg",
+        "pills/amiodarone200_pioneer_2.jpg"
+      ]
     },
     {
       "id": 60,
@@ -722,7 +784,8 @@
       "availability": 1,
       "tradeName": "Lanoxin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/digoxin250_aspen_1.jpg", "pills/digoxin250_aspen_2.jpg"]
     },
     {
       "id": 61,
@@ -734,7 +797,11 @@
       "availability": 1,
       "tradeName": "Angised",
       "route": ["SUBLINGUAL"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/angised500_kwality_1.jpg",
+        "pills/angised500_kwality_2.jpg"
+      ]
     },
     {
       "id": 62,
@@ -746,7 +813,8 @@
       "availability": 1,
       "tradeName": "Isordil",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/isosorbide10_awa_1.jpg", "pills/isosorbide10_awa_2.jpg"]
     },
     {
       "id": 63,
@@ -758,7 +826,8 @@
       "availability": 1,
       "tradeName": "Glucophage",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/metformin500_mdi_1.jpg", "pills/metformin500_mdi_2.jpg"]
     },
     {
       "id": 64,
@@ -770,7 +839,11 @@
       "availability": 1,
       "tradeName": "Daonil",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/glibenclamide5_awa_1.jpg",
+        "pills/glibenclamide5_awa_2.jpg"
+      ]
     },
     {
       "id": 65,
@@ -782,7 +855,11 @@
       "availability": 1,
       "tradeName": "Paracetol",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/paracetamol500_dubai_1.jpg",
+        "pills/paracetamol500_dubai_2.jpg"
+      ]
     },
     {
       "id": 66,
@@ -794,7 +871,8 @@
       "availability": 1,
       "tradeName": "Brufen",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/ibuprofen200_wpc_1.jpg", "pills/ibuprofen200_wpc_2.jpg"]
     },
     {
       "id": 67,
@@ -806,19 +884,27 @@
       "availability": 1,
       "tradeName": "Voltaren",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/diclofenac25_furat_1.jpg",
+        "pills/diclofenac25_furat_2.jpg"
+      ]
     },
     {
       "id": 68,
       "name": "Meloxicam",
       "form": "tablet",
-      "dose": 15,
+      "dose": 7.5,
       "unit": "mg",
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Mobic",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/meloxicam7-5_ajanta_1.jpg",
+        "pills/meloxicam7-5_ajanta_2.jpg"
+      ]
     },
     {
       "id": 69,
@@ -842,7 +928,11 @@
       "availability": 1,
       "tradeName": "Prisolone",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/prednisolone5_safa_1.jpg",
+        "pills/prednisolone5_safa_2.jpg"
+      ]
     },
     {
       "id": 71,
@@ -854,7 +944,11 @@
       "availability": 1,
       "tradeName": "Histadin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/chlorpheniramine4_kindy_1.jpg",
+        "pills/chlorpheniramine4_kindy_2.jpg"
+      ]
     },
     {
       "id": 72,
@@ -878,7 +972,11 @@
       "availability": 1,
       "tradeName": "Singulair",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/montelukast4_pioneer_1.jpg",
+        "pills/montelukast4_pioneer_2.jpg"
+      ]
     },
     {
       "id": 74,
@@ -890,7 +988,11 @@
       "availability": 1,
       "tradeName": "Singulair",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/montelukast10_kwality_1.jpg",
+        "pills/montelukast10_kwality_2.jpg"
+      ]
     },
     {
       "id": 75,
@@ -902,7 +1004,11 @@
       "availability": 1,
       "tradeName": "Amoxil",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/amoxicillin500_mdi_1.jpg",
+        "pills/amoxicillin500_mdi_2.jpg"
+      ]
     },
     {
       "id": 76,
@@ -914,7 +1020,11 @@
       "availability": 1,
       "tradeName": "Augmentin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/augmentin625_aurobindo_1.jpg",
+        "pills/augmentin625_aurobindo_2.jpg"
+      ]
     },
     {
       "id": 77,
@@ -926,7 +1036,11 @@
       "availability": 1,
       "tradeName": "Keflex",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/cephalexin500_pioneer_1.jpg",
+        "pills/cephalexin500_pioneer_2.jpg"
+      ]
     },
     {
       "id": 78,
@@ -938,7 +1052,11 @@
       "availability": 1,
       "tradeName": "Ciprodar",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/ciprofloxacin500_fayhaa_1.jpg",
+        "pills/ciprofloxacin500_fayhaa_2.jpg"
+      ]
     },
     {
       "id": 79,
@@ -962,7 +1080,11 @@
       "availability": 1,
       "tradeName": "Zithromax",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/azithromycin500_mdi_1.jpg",
+        "pills/azithromycin500_mdi_2.jpg"
+      ]
     },
     {
       "id": 81,
@@ -974,7 +1096,11 @@
       "availability": 1,
       "tradeName": "Metheprim",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/metheprim480_middleeast_1.jpg",
+        "pills/metheprim480_middleeast_2.jpg"
+      ]
     },
     {
       "id": 82,
@@ -986,7 +1112,11 @@
       "availability": 1,
       "tradeName": "Uvamin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/nitrofurantoin100_biofarma_1.jpg",
+        "pills/nitrofurantoin100_biofarma_2.jpg"
+      ]
     },
     {
       "id": 83,
@@ -998,7 +1128,11 @@
       "availability": 1,
       "tradeName": "Flagyl",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/metronidazole500_safa_1.jpg",
+        "pills/metronidazole500_safa_2.jpg"
+      ]
     },
     {
       "id": 84,
@@ -1010,7 +1144,11 @@
       "availability": 1,
       "tradeName": "Doxydar",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/doxycycline100_deva_1.jpg",
+        "pills/doxycycline100_deva_2.jpg"
+      ]
     },
     {
       "id": 85,
@@ -1022,7 +1160,11 @@
       "availability": 1,
       "tradeName": "Tamiflu",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/oseltamivir75_safa_1.jpg",
+        "pills/oseltamivir75_safa_2.jpg"
+      ]
     },
     {
       "id": 86,
@@ -1034,7 +1176,11 @@
       "availability": 1,
       "tradeName": "Diflucan",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/fluconazole150_awa_1.jpg",
+        "pills/fluconazole150_awa_2.jpg"
+      ]
     },
     {
       "id": 87,
@@ -1046,7 +1192,11 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/omeprazole20_safa_1.jpg",
+        "pills/omeprazole20_safa_2.jpg"
+      ]
     },
     {
       "id": 88,
@@ -1058,7 +1208,11 @@
       "availability": 1,
       "tradeName": "Meclodin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/metoclopramide10_safa_1.jpg",
+        "pills/metoclopramide10_safa_2.jpg"
+      ]
     },
     {
       "id": 89,
@@ -1070,7 +1224,11 @@
       "availability": 1,
       "tradeName": "Stemetil",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/prochlorperazine5_furat_1.jpg",
+        "pills/prochlorperazine5_furat_2.jpg"
+      ]
     },
     {
       "id": 90,
@@ -1082,7 +1240,11 @@
       "availability": 1,
       "tradeName": "Stugeron",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/cinnarizine25_furat_1.jpg",
+        "pills/cinnarizine25_furat_2.jpg"
+      ]
     },
     {
       "id": 91,
@@ -1094,7 +1256,11 @@
       "availability": 1,
       "tradeName": "Buscopan",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/hyoscine10_pioneer_1.jpg",
+        "pills/hyoscine10_pioneer_2.jpg"
+      ]
     },
     {
       "id": 92,
@@ -1106,7 +1272,11 @@
       "availability": 1,
       "tradeName": "Duspatalin",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/mebeverine135_wpc_1.jpg",
+        "pills/mebeverine135_wpc_2.jpg"
+      ]
     },
     {
       "id": 93,
@@ -1118,7 +1288,8 @@
       "availability": 1,
       "tradeName": "Entero-Stop",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/entero-stop_mdi_1.jpg", "pills/entero-stop_mdi_2.jpg"]
     },
     {
       "id": 94,
@@ -1130,7 +1301,8 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/zinc20_protem_1.jpg", "pills/zinc20_protem_2.jpg"]
     },
     {
       "id": 95,
@@ -1142,7 +1314,11 @@
       "availability": 1,
       "tradeName": "One-Alpha",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/alfacalcidol1_united_1.jpg",
+        "pills/alfacalcidol1_united_2.jpg"
+      ]
     },
     {
       "id": 96,
@@ -1154,7 +1330,21 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/folic-acid5_safa_1.jpg", "pills/folic-acid5_safa_2.jpg"]
+    },
+    {
+      "id": 196,
+      "name": "Ferrous sulphate + Folic acid",
+      "form": "capsule",
+      "dose": "150mg + 0.5",
+      "unit": "mg",
+      "class": "Supplements",
+      "availability": 1,
+      "tradeName": "Ferro-Folic",
+      "route": ["PO"],
+      "compatibleWith": [],
+      "image": ["pills/ferrofolic_kindy_1.jpg", "pills/ferrofolic_kindy_2.jpg"]
     },
     {
       "id": 97,
@@ -1166,7 +1356,8 @@
       "availability": 1,
       "tradeName": "",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/calcium500_kindy_1.jpg", "pills/calcium500_kindy_2.jpg"]
     },
     {
       "id": 98,
@@ -1178,7 +1369,11 @@
       "availability": 1,
       "tradeName": "Euthyrox",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/levothyroxine100_merck_1.jpg",
+        "pills/levothyroxine100_merck_2.jpg"
+      ]
     },
     {
       "id": 99,
@@ -1190,7 +1385,11 @@
       "availability": 1,
       "tradeName": "Renvela",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/sevelamer800_fayhaa_1.jpg",
+        "pills/sevelamer800_fayhaa_2.jpg"
+      ]
     },
     {
       "id": 100,
@@ -1202,7 +1401,11 @@
       "availability": 1,
       "tradeName": "Sensipar",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/cinacalcet30_abdiibrahim_1.jpg",
+        "pills/cinacalcet30_abdiibrahim_2.jpg"
+      ]
     },
     {
       "id": 101,
@@ -1226,7 +1429,8 @@
       "availability": 1,
       "tradeName": "Dulcolax",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/bisacodyl5_furat_1.jpg", "pills/bisacodyl5_furat_2.jpg"]
     },
     {
       "id": 103,
@@ -1238,7 +1442,8 @@
       "availability": 1,
       "tradeName": "Valium",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": ["pills/diazepam5_wpc_1.jpg", "pills/diazepam5_wpc_2.jpg"]
     },
     {
       "id": 104,
@@ -1250,7 +1455,11 @@
       "availability": 1,
       "tradeName": "Librium",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/chlordiazepoxide5_sdi_1.jpg",
+        "pills/chlordiazepoxide5_sdi_2.jpg"
+      ]
     },
     {
       "id": 105,
@@ -1262,7 +1471,11 @@
       "availability": 1,
       "tradeName": "Luminal",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/phenobarbital15_sdi_1.jpg",
+        "pills/phenobarbital15_sdi_2.jpg"
+      ]
     },
     {
       "id": 106,
@@ -1274,7 +1487,11 @@
       "availability": 1,
       "tradeName": "Tegretol",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/carbamazepine200_kindy_1.jpg",
+        "pills/carbamazepine200_kindy_2.jpg"
+      ]
     },
     {
       "id": 501,
@@ -1286,7 +1503,11 @@
       "availability": 1,
       "tradeName": "Duphaston",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/dydrogesterone10_abbott_1.jpg",
+        "pills/dydrogesterone10_abbott_2.jpg"
+      ]
     },
     {
       "id": 502,
@@ -1298,7 +1519,11 @@
       "availability": 1,
       "tradeName": "Omnic",
       "route": ["PO"],
-      "compatibleWith": []
+      "compatibleWith": [],
+      "image": [
+        "pills/tamsulosin0-4_cipla_1.jpg",
+        "pills/tamsulosin0-4_cipla_2.jpg"
+      ]
     }
   ],
   "OralPreparations": [
@@ -1909,7 +2134,7 @@
     {
       "id": 157,
       "name": "Heparin",
-      "form": "prefilled syringe",
+      "form": "vial",
       "dose": 5000,
       "unit": "IU",
       "class": "Anti-coagulants",

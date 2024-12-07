@@ -631,7 +631,7 @@
     {
       "id": 50,
       "name": "Amlodipine",
-      "form": "capsule",
+      "form": "tablet",
       "dose": 5,
       "unit": "mg",
       "class": "Calcium channel blockers",

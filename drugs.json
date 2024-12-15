@@ -2365,7 +2365,7 @@
     {
       "id": 174,
       "name": "Lidocaine",
-      "form": "skin gel",
+      "form": "skin ointment",
       "dose": 2,
       "unit": "%",
       "class": "Local Anesthetics",
@@ -2620,7 +2620,7 @@
       "id": 194,
       "name": "Ringer Lactate",
       "form": "infusion bottle",
-      "dose": 0,
+      "dose": 1,
       "unit": "%",
       "class": "Electrolytes",
       "availability": 0,

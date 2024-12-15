@@ -2620,10 +2620,10 @@
       "id": 194,
       "name": "Ringer Lactate",
       "form": "infusion bottle",
-      "dose": 1,
+      "dose": 0,
       "unit": "%",
       "class": "Electrolytes",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "R/L",
       "route": ["IV"],
       "compatibleWith": []

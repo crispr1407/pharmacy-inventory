@@ -1812,7 +1812,7 @@
       "dose": 1,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Epinephrine",
       "route": ["IM", "IV", "SC"],
       "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]

@@ -9,8 +9,13 @@
       "class": "Loop diuretics",
       "availability": 1,
       "tradeName": "Lasix",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 2,
@@ -21,8 +26,14 @@
       "class": "Benzodiazepines",
       "availability": 1,
       "tradeName": "Valium",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["GW5", "GW10"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5",
+        "GW10"
+      ]
     },
     {
       "id": 3,
@@ -33,7 +44,9 @@
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Voltaren",
-      "route": ["IM"],
+      "route": [
+        "IM"
+      ],
       "compatibleWith": []
     },
     {
@@ -45,8 +58,15 @@
       "class": "Anti-emetics",
       "availability": 1,
       "tradeName": "Pyridoxine",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 5,
@@ -57,8 +77,17 @@
       "class": "Anti-emetics",
       "availability": 1,
       "tradeName": "Plasil",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 6,
@@ -69,8 +98,14 @@
       "class": "Analgesics",
       "availability": 1,
       "tradeName": "Acupan",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 7,
@@ -81,8 +116,18 @@
       "class": "Anti-histamines",
       "availability": 1,
       "tradeName": "Allermine",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "GW10", "GS", "R", "RL"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GW10",
+        "GS",
+        "R",
+        "RL"
+      ]
     },
     {
       "id": 8,
@@ -93,8 +138,16 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "Decadron",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "HM", "R"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM",
+        "R"
+      ]
     },
     {
       "id": 9,
@@ -105,8 +158,13 @@
       "class": "Fat-soluble vitamins",
       "availability": 0,
       "tradeName": "Phytonadione",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["GW5"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5"
+      ]
     },
     {
       "id": 10,
@@ -117,8 +175,14 @@
       "class": "Antifibrinolytics",
       "availability": 1,
       "tradeName": "Cyklokapron",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "R"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "R"
+      ]
     },
     {
       "id": 11,
@@ -129,8 +193,13 @@
       "class": "Beta blockers",
       "availability": 1,
       "tradeName": "Betaloc",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 12,
@@ -141,8 +210,15 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Garamycin",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 13,
@@ -153,8 +229,15 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Garamycin",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 14,
@@ -165,8 +248,12 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "Cordarone",
-      "route": ["IV"],
-      "compatibleWith": ["GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5"
+      ]
     },
     {
       "id": 15,
@@ -177,8 +264,14 @@
       "class": "Spasmolytics",
       "availability": 1,
       "tradeName": "Buscopan",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 16,
@@ -189,7 +282,9 @@
       "class": "Water-soluble vitamins",
       "availability": 0,
       "tradeName": "Cyanocobalamin",
-      "route": ["IM"],
+      "route": [
+        "IM"
+      ],
       "compatibleWith": []
     },
     {
@@ -201,8 +296,15 @@
       "class": "Antibiotics",
       "availability": 0,
       "tradeName": "",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 18,
@@ -213,8 +315,16 @@
       "class": "Anti-emetics",
       "availability": 1,
       "tradeName": "Zofran",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "R", "HM"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "R",
+        "HM"
+      ]
     }
   ],
   "Vials": [
@@ -227,8 +337,14 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 20,
@@ -239,8 +355,14 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 21,
@@ -251,8 +373,16 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 22,
@@ -263,8 +393,15 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Claforan",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "HM"
+      ]
     },
     {
       "id": 23,
@@ -275,8 +412,13 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 24,
@@ -287,8 +429,13 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Amoxil",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 25,
@@ -299,8 +446,13 @@
       "class": "Antibiotics",
       "availability": 0,
       "tradeName": "Tazocin",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 26,
@@ -311,8 +463,16 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Ciprodar",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 27,
@@ -323,8 +483,14 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Flagyl",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 28,
@@ -335,8 +501,13 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Meronem",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 29,
@@ -347,8 +518,13 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Meronem",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 30,
@@ -359,8 +535,12 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "AmBisome",
-      "route": ["IV"],
-      "compatibleWith": ["GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5"
+      ]
     },
     {
       "id": 31,
@@ -371,8 +551,15 @@
       "class": "Antivirals",
       "availability": 1,
       "tradeName": "Zovirax",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"],
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "HM"
+      ],
       "image": ""
     },
     {
@@ -384,8 +571,14 @@
       "class": "Proton pump inhibitors",
       "availability": 1,
       "tradeName": "Nexium",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"],
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ],
       "image": ""
     },
     {
@@ -397,8 +590,13 @@
       "class": "Proton pump inhibitors",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 34,
@@ -409,7 +607,11 @@
       "class": "Solvents",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO", "IM", "IV"],
+      "route": [
+        "PO",
+        "IM",
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -421,7 +623,10 @@
       "class": "Solvents",
       "availability": 0,
       "tradeName": "",
-      "route": ["IM", "IV"],
+      "route": [
+        "IM",
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -433,8 +638,13 @@
       "class": "Analgesics / Antipyretics",
       "availability": 1,
       "tradeName": "Paracetol",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 37,
@@ -445,8 +655,13 @@
       "class": "Analgesics / Antipyretics",
       "availability": 0,
       "tradeName": "Paracetol",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 38,
@@ -457,8 +672,14 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 39,
@@ -469,8 +690,12 @@
       "class": "Iron supplements",
       "availability": 1,
       "tradeName": "Venofer",
-      "route": ["IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     }
   ],
   "Pills": [
@@ -483,9 +708,14 @@
       "class": "Antiplatelets",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/aspirin100_sdi_1.jpg", "pills/aspirin100_sdi_2.jpg"]
+      "image": [
+        "pills/aspirin100_sdi_1.jpg",
+        "pills/aspirin100_sdi_2.jpg"
+      ]
     },
     {
       "id": 41,
@@ -496,7 +726,9 @@
       "class": "Antiplatelets",
       "availability": 1,
       "tradeName": "Plavix",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/clopidogrel75_furat_1.jpg",
@@ -512,7 +744,9 @@
       "class": "Anti-coagulants",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/warfarin1_flamingo_1.jpg",
@@ -528,7 +762,9 @@
       "class": "Anti-coagulants",
       "availability": 0,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/warfarin3_flamingo_1.jpg",
@@ -544,7 +780,9 @@
       "class": "Anti-coagulants",
       "availability": 0,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/warfarin5_flamingo_1.jpg",
@@ -560,7 +798,9 @@
       "class": "HMG-CoA reductase inhibitors (Statins)",
       "availability": 1,
       "tradeName": "Avas",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/atorvastatin40_fayhaa_1.jpg",
@@ -576,7 +816,9 @@
       "class": "HMG-CoA reductase inhibitors (Statins)",
       "availability": 1,
       "tradeName": "Crestor",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/rosuvastatin10_pioneer_1.jpg",
@@ -592,9 +834,14 @@
       "class": "ACE inhibitors",
       "availability": 1,
       "tradeName": "Capoten",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/captopril25_mdi_1.jpg", "pills/captopril25_mdi_2.jpg"]
+      "image": [
+        "pills/captopril25_kindy_1.jpg",
+        "pills/captopril25_kindy_2.jpg"
+      ]
     },
     {
       "id": 48,
@@ -605,7 +852,9 @@
       "class": "ACE inhibitors",
       "availability": 1,
       "tradeName": "Zestril",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/lisinopril10_jamjoom_1.jpg",
@@ -621,11 +870,13 @@
       "class": "Angiotensin II receptor blockers",
       "availability": 1,
       "tradeName": "Cozaar",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
-        "pills/losartan50_pioneer_1.jpg",
-        "pills/losartan50_pioneer_2.jpg"
+        "pills/losartan50_kindy_1.jpg",
+        "pills/losartan50_kindy_2.jpg"
       ]
     },
     {
@@ -637,7 +888,9 @@
       "class": "Calcium channel blockers",
       "availability": 1,
       "tradeName": "Norvasc",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/amlodipine5_kindy_1.jpg",
@@ -653,7 +906,9 @@
       "class": "Calcium channel blockers",
       "availability": 0,
       "tradeName": "Tildiem",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -665,9 +920,14 @@
       "class": "Loop diuretics",
       "availability": 1,
       "tradeName": "Lasix",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/furosemide40_sdi_1.jpg", "pills/furosemide40_sdi_2.jpg"]
+      "image": [
+        "pills/furosemide40_sdi_1.jpg",
+        "pills/furosemide40_sdi_2.jpg"
+      ]
     },
     {
       "id": 53,
@@ -678,7 +938,9 @@
       "class": "Aldosterone antagonists",
       "availability": 1,
       "tradeName": "Aldactone",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/spironolactone25_awa_1.jpg",
@@ -694,7 +956,9 @@
       "class": "Alpha-2 agonists",
       "availability": 1,
       "tradeName": "Aldomet",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/methyldopa250_safa_1.jpg",
@@ -710,7 +974,9 @@
       "class": "Beta blockers",
       "availability": 1,
       "tradeName": "Inderal",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/propranolol40_sdi_1.jpg",
@@ -726,9 +992,14 @@
       "class": "Beta blockers",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/metoprolol50_awa_1.jpg", "pills/metoprolol50_awa_2.jpg"]
+      "image": [
+        "pills/metoprolol50_awa_1.jpg",
+        "pills/metoprolol50_awa_2.jpg"
+      ]
     },
     {
       "id": 57,
@@ -739,7 +1010,9 @@
       "class": "Beta blockers",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/carvedilol6-25_kindy_1.jpg",
@@ -755,7 +1028,9 @@
       "class": "Beta blockers",
       "availability": 0,
       "tradeName": "Tenormin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -767,7 +1042,9 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "Cordarone",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/amiodarone200_pioneer_1.jpg",
@@ -783,9 +1060,14 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "Lanoxin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/digoxin250_aspen_1.jpg", "pills/digoxin250_aspen_2.jpg"]
+      "image": [
+        "pills/digoxin250_aspen_1.jpg",
+        "pills/digoxin250_aspen_2.jpg"
+      ]
     },
     {
       "id": 61,
@@ -796,7 +1078,9 @@
       "class": "Vasodilators",
       "availability": 1,
       "tradeName": "Angised",
-      "route": ["SUBLINGUAL"],
+      "route": [
+        "SUBLINGUAL"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/angised500_kwality_1.jpg",
@@ -812,9 +1096,14 @@
       "class": "Vasodilators",
       "availability": 1,
       "tradeName": "Isordil",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/isosorbide10_awa_1.jpg", "pills/isosorbide10_awa_2.jpg"]
+      "image": [
+        "pills/isosorbide10_awa_1.jpg",
+        "pills/isosorbide10_awa_2.jpg"
+      ]
     },
     {
       "id": 63,
@@ -825,9 +1114,14 @@
       "class": "Insulin-sensitising agents (Biguanides)",
       "availability": 1,
       "tradeName": "Glucophage",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/metformin500_mdi_1.jpg", "pills/metformin500_mdi_2.jpg"]
+      "image": [
+        "pills/metformin500_mdi_1.jpg",
+        "pills/metformin500_mdi_2.jpg"
+      ]
     },
     {
       "id": 64,
@@ -838,7 +1132,9 @@
       "class": "Sulfonylureas",
       "availability": 1,
       "tradeName": "Daonil",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/glibenclamide5_awa_1.jpg",
@@ -854,7 +1150,9 @@
       "class": "Analgesics / Antipyretics",
       "availability": 1,
       "tradeName": "Paracetol",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/paracetamol500_dubai_1.jpg",
@@ -870,9 +1168,14 @@
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Brufen",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/ibuprofen200_wpc_1.jpg", "pills/ibuprofen200_wpc_2.jpg"]
+      "image": [
+        "pills/ibuprofen200_wpc_1.jpg",
+        "pills/ibuprofen200_wpc_2.jpg"
+      ]
     },
     {
       "id": 67,
@@ -883,7 +1186,9 @@
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Voltaren",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/diclofenac25_furat_1.jpg",
@@ -899,7 +1204,9 @@
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Mobic",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/meloxicam7-5_ajanta_1.jpg",
@@ -915,7 +1222,9 @@
       "class": "Corticosteroids",
       "availability": 0,
       "tradeName": "Dexon",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -927,7 +1236,9 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "Prisolone",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/prednisolone5_safa_1.jpg",
@@ -943,7 +1254,9 @@
       "class": "Anti-histamines",
       "availability": 1,
       "tradeName": "Histadin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/chlorpheniramine4_kindy_1.jpg",
@@ -959,7 +1272,9 @@
       "class": "Anti-histamines",
       "availability": 0,
       "tradeName": "Claritin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -971,7 +1286,9 @@
       "class": "Leukotriene receptor antagonists",
       "availability": 1,
       "tradeName": "Singulair",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/montelukast4_pioneer_1.jpg",
@@ -987,7 +1304,9 @@
       "class": "Leukotriene receptor antagonists",
       "availability": 1,
       "tradeName": "Singulair",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/montelukast10_kwality_1.jpg",
@@ -1003,7 +1322,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Amoxil",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/amoxicillin500_mdi_1.jpg",
@@ -1019,7 +1340,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Augmentin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/augmentin625_aurobindo_1.jpg",
@@ -1035,7 +1358,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Keflex",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/cephalexin500_pioneer_1.jpg",
@@ -1051,7 +1376,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Ciprodar",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/ciprofloxacin500_fayhaa_1.jpg",
@@ -1067,7 +1394,9 @@
       "class": "Antibiotics",
       "availability": 0,
       "tradeName": "Tavanic",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1079,7 +1408,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Zithromax",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/azithromycin500_mdi_1.jpg",
@@ -1095,7 +1426,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Metheprim",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/metheprim480_middleeast_1.jpg",
@@ -1111,7 +1444,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Uvamin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/nitrofurantoin100_biofarma_1.jpg",
@@ -1127,7 +1462,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Flagyl",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/metronidazole500_safa_1.jpg",
@@ -1143,7 +1480,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Doxydar",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/doxycycline100_deva_1.jpg",
@@ -1159,7 +1498,9 @@
       "class": "Antivirals",
       "availability": 1,
       "tradeName": "Tamiflu",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/oseltamivir75_safa_1.jpg",
@@ -1175,7 +1516,9 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Diflucan",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/fluconazole150_awa_1.jpg",
@@ -1191,7 +1534,9 @@
       "class": "Proton pump inhibitors",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/omeprazole20_safa_1.jpg",
@@ -1207,7 +1552,9 @@
       "class": "Anti-emetics",
       "availability": 1,
       "tradeName": "Meclodin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/metoclopramide10_safa_1.jpg",
@@ -1223,7 +1570,9 @@
       "class": "Antipsychotics / Anti-emetics",
       "availability": 1,
       "tradeName": "Stemetil",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/prochlorperazine5_furat_1.jpg",
@@ -1239,7 +1588,9 @@
       "class": "Anti-histamines / Anti-vertigo agents",
       "availability": 1,
       "tradeName": "Stugeron",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/cinnarizine25_furat_1.jpg",
@@ -1255,7 +1606,9 @@
       "class": "Spasmolytics",
       "availability": 1,
       "tradeName": "Buscopan",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/hyoscine10_pioneer_1.jpg",
@@ -1271,7 +1624,9 @@
       "class": "Spasmolytics / Novel IBS medications",
       "availability": 1,
       "tradeName": "Duspatalin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/mebeverine135_wpc_1.jpg",
@@ -1287,9 +1642,14 @@
       "class": "Anti-diarrheals",
       "availability": 1,
       "tradeName": "Entero-Stop",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/entero-stop_mdi_1.jpg", "pills/entero-stop_mdi_2.jpg"]
+      "image": [
+        "pills/entero-stop_mdi_1.jpg",
+        "pills/entero-stop_mdi_2.jpg"
+      ]
     },
     {
       "id": 94,
@@ -1300,9 +1660,14 @@
       "class": "Supplements / Minerals",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/zinc20_protem_1.jpg", "pills/zinc20_protem_2.jpg"]
+      "image": [
+        "pills/zinc20_protem_1.jpg",
+        "pills/zinc20_protem_2.jpg"
+      ]
     },
     {
       "id": 95,
@@ -1313,7 +1678,9 @@
       "class": "Vitamin D analogues",
       "availability": 1,
       "tradeName": "One-Alpha",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/alfacalcidol1_united_1.jpg",
@@ -1329,9 +1696,14 @@
       "class": "Water-soluble vitamins",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/folic-acid5_safa_1.jpg", "pills/folic-acid5_safa_2.jpg"]
+      "image": [
+        "pills/folic-acid5_safa_1.jpg",
+        "pills/folic-acid5_safa_2.jpg"
+      ]
     },
     {
       "id": 196,
@@ -1342,9 +1714,14 @@
       "class": "Supplements",
       "availability": 1,
       "tradeName": "Ferro-Folic",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/ferrofolic_kindy_1.jpg", "pills/ferrofolic_kindy_2.jpg"]
+      "image": [
+        "pills/ferrofolic_kindy_1.jpg",
+        "pills/ferrofolic_kindy_2.jpg"
+      ]
     },
     {
       "id": 97,
@@ -1355,9 +1732,14 @@
       "class": "Calcium supplements / Phosphate binders",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/calcium500_kindy_1.jpg", "pills/calcium500_kindy_2.jpg"]
+      "image": [
+        "pills/calcium500_kindy_1.jpg",
+        "pills/calcium500_kindy_2.jpg"
+      ]
     },
     {
       "id": 98,
@@ -1368,7 +1750,9 @@
       "class": "Thyroid hormones",
       "availability": 1,
       "tradeName": "Euthyrox",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/levothyroxine100_merck_1.jpg",
@@ -1384,7 +1768,9 @@
       "class": "Phosphate binders",
       "availability": 1,
       "tradeName": "Renvela",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/sevelamer800_fayhaa_1.jpg",
@@ -1400,11 +1786,13 @@
       "class": "Calcimimetics",
       "availability": 1,
       "tradeName": "Sensipar",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
-        "pills/cinacalcet30_abdiibrahim_1.jpg",
-        "pills/cinacalcet30_abdiibrahim_2.jpg"
+        "pills/cinacalcet30_deva_1.jpg",
+        "pills/cinacalcet30_deva_2.jpg"
       ]
     },
     {
@@ -1416,7 +1804,9 @@
       "class": "Prostaglandin analogues",
       "availability": 0,
       "tradeName": "Cytotec",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1428,9 +1818,14 @@
       "class": "Laxatives",
       "availability": 1,
       "tradeName": "Dulcolax",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/bisacodyl5_furat_1.jpg", "pills/bisacodyl5_furat_2.jpg"]
+      "image": [
+        "pills/bisacodyl5_furat_1.jpg",
+        "pills/bisacodyl5_furat_2.jpg"
+      ]
     },
     {
       "id": 103,
@@ -1441,9 +1836,14 @@
       "class": "Benzodiazepines",
       "availability": 1,
       "tradeName": "Valium",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
-      "image": ["pills/diazepam5_wpc_1.jpg", "pills/diazepam5_wpc_2.jpg"]
+      "image": [
+        "pills/diazepam5_wpc_1.jpg",
+        "pills/diazepam5_wpc_2.jpg"
+      ]
     },
     {
       "id": 104,
@@ -1454,7 +1854,9 @@
       "class": "Benzodiazepines",
       "availability": 1,
       "tradeName": "Librium",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/chlordiazepoxide5_sdi_1.jpg",
@@ -1470,7 +1872,9 @@
       "class": "Barbiturates",
       "availability": 1,
       "tradeName": "Luminal",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/phenobarbital15_sdi_1.jpg",
@@ -1486,7 +1890,9 @@
       "class": "Anti-epileptics",
       "availability": 1,
       "tradeName": "Tegretol",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/carbamazepine200_kindy_1.jpg",
@@ -1502,7 +1908,9 @@
       "class": "Progestogens",
       "availability": 1,
       "tradeName": "Duphaston",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/dydrogesterone10_abbott_1.jpg",
@@ -1518,7 +1926,9 @@
       "class": "Alpha blockers",
       "availability": 1,
       "tradeName": "Omnic",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": [],
       "image": [
         "pills/tamsulosin0-4_cipla_1.jpg",
@@ -1536,7 +1946,9 @@
       "class": "Analgesics / Antipyretics",
       "availability": 1,
       "tradeName": "Adol",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1548,7 +1960,9 @@
       "class": "NSAID's",
       "availability": 1,
       "tradeName": "Brufen",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1560,7 +1974,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Amoxil",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1572,7 +1988,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Keflex",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1584,7 +2002,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Augmentin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1596,7 +2016,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1608,7 +2030,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Flagyl",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1620,7 +2044,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Metheprim",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1632,7 +2058,9 @@
       "class": "Antivirals",
       "availability": 1,
       "tradeName": "Zovirax",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1644,7 +2072,9 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Mycodin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1656,7 +2086,9 @@
       "class": "Fat-soluble vitamins",
       "availability": 1,
       "tradeName": "Cholecalciferol",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1668,7 +2100,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "Dextrolyte",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1680,7 +2114,9 @@
       "class": "Spasmolytics",
       "availability": 0,
       "tradeName": "Buscopan",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1692,7 +2128,9 @@
       "class": "Antacids",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1704,7 +2142,9 @@
       "class": "Laxatives",
       "availability": 1,
       "tradeName": "Duphalac",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1716,7 +2156,9 @@
       "class": "Mucolytics",
       "availability": 1,
       "tradeName": "Solvodin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1728,7 +2170,9 @@
       "class": "Cough preparations",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1740,7 +2184,9 @@
       "class": "Cough preparations",
       "availability": 1,
       "tradeName": "",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1752,7 +2198,9 @@
       "class": "Cough suppressants",
       "availability": 1,
       "tradeName": "Sedilar",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1764,7 +2212,9 @@
       "class": "Short-acting beta-2 agonists (SABA)",
       "availability": 1,
       "tradeName": "Butadin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1776,7 +2226,9 @@
       "class": "Anti-histamines",
       "availability": 1,
       "tradeName": "Histadin",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1788,7 +2240,9 @@
       "class": "Anti-histamines",
       "availability": 1,
       "tradeName": "Zaditen",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     },
     {
@@ -1800,7 +2254,9 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "Dexon",
-      "route": ["PO"],
+      "route": [
+        "PO"
+      ],
       "compatibleWith": []
     }
   ],
@@ -1814,8 +2270,18 @@
       "class": "Vasopressors",
       "availability": 0,
       "tradeName": "Epinephrine",
-      "route": ["IM", "IV", "SC"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IM",
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 131,
@@ -1826,8 +2292,13 @@
       "class": "Vasopressors",
       "availability": 1,
       "tradeName": "Norepinephrine",
-      "route": ["IV"],
-      "compatibleWith": ["GW5", "GS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 132,
@@ -1838,8 +2309,13 @@
       "class": "Vasopressors",
       "availability": 0,
       "tradeName": "Norepinephrine",
-      "route": ["IV"],
-      "compatibleWith": ["GW5", "GS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 133,
@@ -1850,8 +2326,15 @@
       "class": "Vasopressors",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "HM"
+      ]
     },
     {
       "id": 134,
@@ -1862,8 +2345,15 @@
       "class": "Vasopressors",
       "availability": 1,
       "tradeName": "",
-      "route": ["IM", "IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IM",
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 135,
@@ -1874,8 +2364,15 @@
       "class": "Inotropics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "HM"
+      ]
     },
     {
       "id": 136,
@@ -1886,8 +2383,16 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "Xylocaine",
-      "route": ["IM", "IV", "SC"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IM",
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 137,
@@ -1898,8 +2403,14 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 138,
@@ -1910,8 +2421,14 @@
       "class": "Anti-arrhythmics",
       "availability": 1,
       "tradeName": "Lanoxin",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 139,
@@ -1922,8 +2439,13 @@
       "class": "Vasodilators",
       "availability": 1,
       "tradeName": "Angised",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 140,
@@ -1934,8 +2456,12 @@
       "class": "Vasodilators",
       "availability": 1,
       "tradeName": "Apresoline",
-      "route": ["IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 141,
@@ -1946,8 +2472,16 @@
       "class": "Beta blockers",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 142,
@@ -1958,8 +2492,14 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS"
+      ]
     },
     {
       "id": 143,
@@ -1970,8 +2510,16 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "R", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 144,
@@ -1982,8 +2530,15 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GS", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GS",
+        "HM"
+      ]
     },
     {
       "id": 145,
@@ -1994,8 +2549,15 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IM", "IV", "INHALED"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IM",
+        "IV",
+        "INHALED"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 146,
@@ -2006,7 +2568,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2018,8 +2582,16 @@
       "class": "Barbiturates",
       "availability": 1,
       "tradeName": "Luminal",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "R", "HM"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "R",
+        "HM"
+      ]
     },
     {
       "id": 148,
@@ -2030,8 +2602,13 @@
       "class": "Anti-epileptics",
       "availability": 1,
       "tradeName": "Dilantin",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 149,
@@ -2042,8 +2619,13 @@
       "class": "Antipsychotics",
       "availability": 1,
       "tradeName": "Largactil",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 150,
@@ -2054,8 +2636,14 @@
       "class": "Methylxanthines",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "HM"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "HM"
+      ]
     },
     {
       "id": 151,
@@ -2066,8 +2654,14 @@
       "class": "Methylxanthines",
       "availability": 0,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5", "GW10"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "GW10"
+      ]
     },
     {
       "id": 152,
@@ -2078,8 +2672,13 @@
       "class": "Short-acting beta-2 agonists (SABA)",
       "availability": 1,
       "tradeName": "Ventolin",
-      "route": ["INHALED"],
-      "compatibleWith": ["DW", "NS"]
+      "route": [
+        "INHALED"
+      ],
+      "compatibleWith": [
+        "DW",
+        "NS"
+      ]
     },
     {
       "id": 153,
@@ -2090,8 +2689,13 @@
       "class": "Inhaled corticosteroids",
       "availability": 0,
       "tradeName": "Pulmicort",
-      "route": ["INHALED"],
-      "compatibleWith": ["DW", "NS"]
+      "route": [
+        "INHALED"
+      ],
+      "compatibleWith": [
+        "DW",
+        "NS"
+      ]
     },
     {
       "id": 154,
@@ -2102,8 +2706,13 @@
       "class": "Heparin antidote",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     }
   ],
   "RefrigeratedMedications": [
@@ -2116,8 +2725,14 @@
       "class": "Anti-coagulants",
       "availability": 0,
       "tradeName": "Clexane",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 156,
@@ -2128,8 +2743,14 @@
       "class": "Anti-coagulants",
       "availability": 1,
       "tradeName": "Clexane",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 157,
@@ -2140,8 +2761,13 @@
       "class": "Anti-coagulants",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 158,
@@ -2152,8 +2778,12 @@
       "class": "Tissue plasminogen activators (TPA)",
       "availability": 1,
       "tradeName": "Actilyse",
-      "route": ["IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 159,
@@ -2164,7 +2794,10 @@
       "class": "Erythropoiesis-stimulating agents",
       "availability": 0,
       "tradeName": "Eprex",
-      "route": ["IV", "SC"],
+      "route": [
+        "IV",
+        "SC"
+      ],
       "compatibleWith": []
     },
     {
@@ -2176,7 +2809,10 @@
       "class": "Erythropoiesis-stimulating agents",
       "availability": 1,
       "tradeName": "Aranesp",
-      "route": ["IV", "SC"],
+      "route": [
+        "IV",
+        "SC"
+      ],
       "compatibleWith": []
     },
     {
@@ -2188,7 +2824,10 @@
       "class": "Immunoglobulins",
       "availability": 1,
       "tradeName": "Rhophylac",
-      "route": ["IV", "IM"],
+      "route": [
+        "IV",
+        "IM"
+      ],
       "compatibleWith": []
     },
     {
@@ -2200,7 +2839,9 @@
       "class": "Immunoglobulins",
       "availability": 1,
       "tradeName": "Intratect",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2212,7 +2853,9 @@
       "class": "Pulmonary surfactant",
       "availability": 0,
       "tradeName": "Survanta",
-      "route": ["INTRATRACHEAL"],
+      "route": [
+        "INTRATRACHEAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2224,7 +2867,9 @@
       "class": "Colloids",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2236,8 +2881,15 @@
       "class": "Uterotonics",
       "availability": 1,
       "tradeName": "Pitocin",
-      "route": ["IM", "IV"],
-      "compatibleWith": ["NS", "GW5", "R"]
+      "route": [
+        "IM",
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5",
+        "R"
+      ]
     },
     {
       "id": 165,
@@ -2248,10 +2900,12 @@
       "class": "Ergot alkaloids",
       "availability": 1,
       "tradeName": "Methergin",
-      "route": ["IM", "IV"],
+      "route": [
+        "IM",
+        "IV"
+      ],
       "compatibleWith": []
     },
-
     {
       "id": 166,
       "name": "Remdesivir",
@@ -2261,8 +2915,12 @@
       "class": "Antivirals",
       "availability": 0,
       "tradeName": "",
-      "route": ["IV"],
-      "compatibleWith": ["NS"]
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS"
+      ]
     },
     {
       "id": 167,
@@ -2273,8 +2931,14 @@
       "class": "Glucose elevating agents",
       "availability": 1,
       "tradeName": "GlucaGen",
-      "route": ["IM", "IV", "SC"],
-      "compatibleWith": ["GW5"]
+      "route": [
+        "IM",
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "GW5"
+      ]
     },
     {
       "id": 168,
@@ -2285,8 +2949,14 @@
       "class": "Short-acting insulin",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 169,
@@ -2297,8 +2967,14 @@
       "class": "Short-acting + intermediate-acting combined insulin",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 170,
@@ -2309,8 +2985,14 @@
       "class": "Intermediate-acting insulin",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV", "SC"],
-      "compatibleWith": ["NS", "GW5"]
+      "route": [
+        "IV",
+        "SC"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
+      ]
     },
     {
       "id": 171,
@@ -2321,7 +3003,9 @@
       "class": "Analgesics / Antipyretics",
       "availability": 1,
       "tradeName": "Adol",
-      "route": ["RECTAL"],
+      "route": [
+        "RECTAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2333,7 +3017,9 @@
       "class": "Analgesics / Antipyretics",
       "availability": 1,
       "tradeName": "Adol",
-      "route": ["RECTAL"],
+      "route": [
+        "RECTAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2345,7 +3031,9 @@
       "class": "Laxatives",
       "availability": 1,
       "tradeName": "Dulcolax",
-      "route": ["RECTAL"],
+      "route": [
+        "RECTAL"
+      ],
       "compatibleWith": []
     }
   ],
@@ -2359,7 +3047,9 @@
       "class": "Skin Protectants",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2371,7 +3061,9 @@
       "class": "Local Anesthetics",
       "availability": 1,
       "tradeName": "Xylocaine",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2383,7 +3075,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Fucidin",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2395,7 +3089,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "Flamazine",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2407,7 +3103,9 @@
       "class": "NSAID's",
       "availability": 0,
       "tradeName": "Voltaren",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2419,7 +3117,9 @@
       "class": "Corticosteroids",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2431,7 +3131,9 @@
       "class": "Corticosteroids",
       "availability": 0,
       "tradeName": "Betnosam",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2443,7 +3145,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2455,7 +3159,9 @@
       "class": "Antibiotics",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2467,7 +3173,9 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Fugidin",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2479,7 +3187,9 @@
       "class": "Antifungals",
       "availability": 1,
       "tradeName": "Mycodin",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2491,7 +3201,9 @@
       "class": "Combination Drugs",
       "availability": 1,
       "tradeName": "",
-      "route": ["TOPICAL"],
+      "route": [
+        "TOPICAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2503,7 +3215,9 @@
       "class": "Nasal decongestants",
       "availability": 0,
       "tradeName": "Nazordin",
-      "route": ["INTRANASAL"],
+      "route": [
+        "INTRANASAL"
+      ],
       "compatibleWith": []
     },
     {
@@ -2515,7 +3229,9 @@
       "class": "Nasal decongestants",
       "availability": 1,
       "tradeName": "Otrivin",
-      "route": ["INTRANASAL"],
+      "route": [
+        "INTRANASAL"
+      ],
       "compatibleWith": []
     }
   ],
@@ -2529,7 +3245,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "N/S",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2541,7 +3259,9 @@
       "class": "Electrolytes",
       "availability": 0,
       "tradeName": "N/S",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2553,7 +3273,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "G/W 5%",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2565,7 +3287,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "G/W 10%",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2577,7 +3301,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "G/S",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2589,7 +3315,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "G/S",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2601,7 +3329,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "G/S",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2613,7 +3343,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2625,7 +3357,9 @@
       "class": "Electrolytes",
       "availability": 1,
       "tradeName": "R/L",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     },
     {
@@ -2637,7 +3371,9 @@
       "class": "Osmotic diuretics",
       "availability": 1,
       "tradeName": "",
-      "route": ["IV"],
+      "route": [
+        "IV"
+      ],
       "compatibleWith": []
     }
   ]

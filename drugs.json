@@ -1302,7 +1302,7 @@
       "dose": 10,
       "unit": "mg",
       "class": "Leukotriene receptor antagonists",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Singulair",
       "route": [
         "PO"

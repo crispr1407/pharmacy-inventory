@@ -310,7 +310,7 @@
       "id": 18,
       "name": "Ondansetron",
       "form": "ampoule",
-      "dose": 80,
+      "dose": 8,
       "unit": "mg",
       "class": "Anti-emetics",
       "availability": 0,

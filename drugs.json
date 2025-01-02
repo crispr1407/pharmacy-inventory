@@ -2268,7 +2268,7 @@
       "dose": 1,
       "unit": "mg",
       "class": "Vasopressors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Epinephrine",
       "route": [
         "IM",
@@ -2837,7 +2837,7 @@
       "dose": 5,
       "unit": "%",
       "class": "Immunoglobulins",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Intratect",
       "route": [
         "IV"

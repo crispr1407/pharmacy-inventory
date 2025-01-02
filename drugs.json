@@ -313,7 +313,7 @@
       "dose": 8,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Zofran",
       "route": [
         "IM",
@@ -2837,7 +2837,7 @@
       "dose": 5,
       "unit": "%",
       "class": "Immunoglobulins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Intratect",
       "route": [
         "IV"

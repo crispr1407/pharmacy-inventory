@@ -313,7 +313,7 @@
       "dose": 8,
       "unit": "mg",
       "class": "Anti-emetics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Zofran",
       "route": [
         "IM",
@@ -2070,7 +2070,7 @@
       "dose": 100000,
       "unit": "IU/ml",
       "class": "Antifungals",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Mycodin",
       "route": [
         "PO"

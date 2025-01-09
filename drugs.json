@@ -2600,7 +2600,7 @@
       "dose": 250,
       "unit": "mg",
       "class": "Anti-epileptics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Dilantin",
       "route": [
         "IM",

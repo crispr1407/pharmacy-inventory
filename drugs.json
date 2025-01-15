@@ -388,7 +388,7 @@
       "id": 22,
       "name": "Cefotaxime",
       "form": "vial",
-      "dose": 500,
+      "dose": 1000,
       "unit": "mg",
       "class": "Antibiotics",
       "availability": 1,

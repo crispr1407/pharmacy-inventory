@@ -990,7 +990,7 @@
       "dose": 50,
       "unit": "mg",
       "class": "Beta blockers",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "",
       "route": [
         "PO"

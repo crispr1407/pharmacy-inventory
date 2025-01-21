@@ -653,7 +653,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Analgesics / Antipyretics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Paracetol",
       "route": [
         "IV"

@@ -294,7 +294,7 @@
       "dose": 500,
       "unit": "mg",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "",
       "route": [
         "IM",

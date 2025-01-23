@@ -3125,6 +3125,20 @@
       "compatibleWith": []
     },
     {
+      "id": 976,
+      "name": "Aciclovir",
+      "form": "skin cream",
+      "dose": 5,
+      "unit": "%",
+      "class": "Antivirals",
+      "availability": 1,
+      "tradeName": "Zovirax",
+      "route": [
+        "TOPICAL"
+      ],
+      "compatibleWith": []
+    },
+    {
       "id": 177,
       "name": "Diclofenac",
       "form": "skin gel",

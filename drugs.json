@@ -167,6 +167,22 @@
       ]
     },
     {
+      "id": 909,
+      "name": "Vitamin K1",
+      "form": "ampoule",
+      "dose": 10,
+      "unit": "mg",
+      "class": "Fat-soluble vitamins",
+      "availability": 1,
+      "tradeName": "Phytonadione",
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "GW5"
+      ]
+    },
+    {
       "id": 10,
       "name": "Tranexamic acid",
       "form": "ampoule",
@@ -3056,6 +3072,20 @@
       "id": 174,
       "name": "Lidocaine",
       "form": "skin ointment",
+      "dose": 2,
+      "unit": "%",
+      "class": "Local Anesthetics",
+      "availability": 1,
+      "tradeName": "Xylocaine",
+      "route": [
+        "TOPICAL"
+      ],
+      "compatibleWith": []
+    },
+    {
+      "id": 974,
+      "name": "Lidocaine",
+      "form": "skin gel",
       "dose": 2,
       "unit": "%",
       "class": "Local Anesthetics",

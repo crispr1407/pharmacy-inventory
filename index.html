@@ -1,48 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Internal Pharmacy | Drug Inventory</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-  <body>
-    <div class="row">
-      <div class="col">
-        <div class="card card-body">
-          <div class="title-text">
-            Al-Nu'man General Hospital | Internal Pharmacy | &#8478 | Last Update: 23-01-2025
-        </div> 
-          <input id="search-input" class="form-control" type="text" placeholder="Search for drugs..."/>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Internal Pharmacy | Drug Inventory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="row">
+    <div class="col">
+      <div class="card card-body">
+        <div class="title-text">
+          Al-Nu'man General Hospital | Internal Pharmacy | &#8478 | Last Update: 04-02-2025
         </div>
+        <input id="search-input" class="form-control" type="text" placeholder="Search for drugs..." />
       </div>
     </div>
-        <div id="info-bar"></div>
-        <div class="filter"></div>
-    <div class="info-modal">
-      <div class="modal-content">
-        <span class="close">&times;</span>
-        <p class="modal-text"></p>
-      </div>
+  </div>
+  <div id="info-bar"></div>
+  <div class="filter"></div>
+  <div class="info-modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <p class="modal-text"></p>
     </div>
-      <table id="drug-table" class="drug-table">
-        <thead>
-          <tr>
-            <th data-column="name" data-order="desc">Name &#9650</th>
-            <th data-column="form" data-order="desc">Dosage Form &#9650</th>
-            <th data-column="dose" data-order="desc">Dose &#9650</th>
-            <th data-column="class" data-order="desc">Class &#9650</th>
-            <th data-column="availability" data-order="desc">Status &#9650</th>
-          </tr>
-        </thead>
-        <tbody>     
-          <!-- Rows will be populated here -->
-        </tbody>  
-      </table>
-      <div class="loader"></div>
-    <script src="script.js"></script>
+  </div>
+  <table id="drug-table" class="drug-table">
+    <thead>
+      <tr>
+        <th data-column="name" data-order="desc">Name &#9650</th>
+        <th data-column="form" data-order="desc">Dosage Form &#9650</th>
+        <th data-column="dose" data-order="desc">Dose &#9650</th>
+        <th data-column="class" data-order="desc">Class &#9650</th>
+        <th data-column="availability" data-order="desc">Status &#9650</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Rows will be populated here -->
+    </tbody>
+  </table>
+  <div class="loader"></div>
+  <script src="script.js"></script>
 
-  </body>
+</body>
+
 </html>

@@ -293,10 +293,10 @@
       "id": 16,
       "name": "Vitamin B12",
       "form": "ampoule",
-      "dose": 0,
+      "dose": 1,
       "unit": "mg",
       "class": "Water-soluble vitamins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Cyanocobalamin",
       "route": [
         "IM"

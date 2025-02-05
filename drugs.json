@@ -902,7 +902,7 @@
       "dose": 5,
       "unit": "mg",
       "class": "Calcium channel blockers",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Norvasc",
       "route": [
         "PO"

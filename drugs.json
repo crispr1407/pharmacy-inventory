@@ -3103,7 +3103,7 @@
       "dose": 2,
       "unit": "%",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Fucidin",
       "route": [
         "TOPICAL"

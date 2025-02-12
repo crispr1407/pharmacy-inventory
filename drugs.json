@@ -970,7 +970,7 @@
       "dose": 250,
       "unit": "mg",
       "class": "Alpha-2 agonists",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Aldomet",
       "route": [
         "PO"

@@ -3767,7 +3767,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Electrolytes",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "G/W 10%",
       "route": [
         "IV"

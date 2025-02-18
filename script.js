@@ -67,11 +67,9 @@ function displayInfoBar(dataArr) {
     [0, 0]
   ); // Cursed reduce function.
 
-  const text = `Showing <strong>${
-    dataArr.length === 0 ? "no" : dataArr.length
-  }</strong> ${
-    dataArr.length === 1 ? "item" : "items"
-  }. <span class="available-number">(${availableNum}</span>/<span class="unavailable-number">${unavailableNum})</span>`;
+  const text = `Showing <strong>${dataArr.length === 0 ? "no" : dataArr.length
+    }</strong> ${dataArr.length === 1 ? "item" : "items"
+    }. <span class="available-number">(${availableNum}</span>/<span class="unavailable-number">${unavailableNum})</span>`;
 
   infoBar.html(text);
 }
@@ -139,21 +137,23 @@ function buildTable(dataArr) {
     let drugId = dataArr[i].id;
     let statusClass =
       dataArr[i].availability === 1 ? "status-available" : "status-unavailable";
-    let doseDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].dose;
-    let unitDisplayed = dataArr[i].dose === 0 ? "" : dataArr[i].unit;
+    let doseDisplayed = dataArr[i].dose === 0
+      ? ""
+      : dataArr[i].dose2
+        ? `${dataArr[i].dose}${dataArr[i].unit2} + ${dataArr[i].dose2}${dataArr[i].unit2}`
+        : `${dataArr[i].dose}${dataArr[i].unit}`;
+
     let opacity = dataArr[i].availability === 0 ? " unavailable" : "";
     rows += `<tr class="drug-row${opacity}" drug-id="${drugId}">
                                   <td class="drug-name">${dataArr[i].name}
-                                  <p class="trade-name">${
-                                    dataArr[i].tradeName
-                                  }</p>
+                                  <p class="trade-name">${dataArr[i].tradeName
+      }</p>
                                   </td>
                                   <td>${dataArr[i].form}</td>
-                                  <td>${doseDisplayed}${unitDisplayed}</td>
+                                  <td>${doseDisplayed}</td>
                                   <td>${dataArr[i].class}</td>
-                                  <td class="${statusClass}">${
-      dataArr[i].availability === 1 ? "Available" : "Unavailable"
-    }</td>
+                                  <td class="${statusClass}">${dataArr[i].availability === 1 ? "Available" : "Unavailable"
+      }</td>
                             </tr>`;
   }
   table.innerHTML = rows; // Sets the concatenated string as the inner HTML of the table.
@@ -190,6 +190,7 @@ function buildModal(item) {
       (otherItem) =>
         otherItem.name === item.name &&
         otherItem.dose !== item.dose &&
+        otherItem.dose2 !== item.dose2 &&
         otherItem.form === item.form &&
         otherItem.availability === 1
       // Other item must be of the same name and form but has different dose.
@@ -198,7 +199,9 @@ function buildModal(item) {
     if (otherDoses.length === 0) return ""; // No other doses.
 
     return `<div class="other-text">Other dose available: <strong>${otherDoses.map(
-      (drug) => `${drug.dose}${drug.unit}`
+      (drug) => drug.dose2
+        ? `${drug.dose}${drug.unit} + ${drug.dose2}${drug.unit2}`
+        : `${drug.dose}${drug.unit}`
     )}</strong></div>`;
   };
 
@@ -236,7 +239,11 @@ function buildModal(item) {
 
   const itemElement = (item) => {
     const tradeNameDisplayed = item.tradeName ? `${item.tradeName}` : "";
-    const doseDisplayed = item.dose != 0 ? `${item.dose}${item.unit}` : "";
+    const doseDisplayed = item.dose !== 0
+      ? item.dose2
+        ? `${item.dose}${item.unit} + ${item.dose2}${item.unit2}`
+        : `${item.dose}${item.unit}`
+      : "";
     return `<strong>${item.name}</strong> ${doseDisplayed} <p class="modal-trade-name">${tradeNameDisplayed}</p>`;
   };
 
@@ -289,8 +296,8 @@ function buildModal(item) {
   const compElement =
     item.compatibleWith.length > 0
       ? `<p class="comp-text">Compatible with: <br> ${fluidElement(
-          item.compatibleWith
-        )}</p>`
+        item.compatibleWith
+      )}</p>`
       : "";
 
   const compWarning =
@@ -310,9 +317,8 @@ function buildModal(item) {
     <div>
      <p class="modal-name">${itemElement(item)}</p>
     </div>
-      <div class="modal-route"><span>${formIconElement(item)}${
-    item.form
-  } &rarr; ${routeText}</span></div>
+      <div class="modal-route"><span>${formIconElement(item)}${item.form
+    } &rarr; ${routeText}</span></div>
       <div class="modal-status" style="background-color: ${statusColor};"><span> ${itemStatus}</span></div>
       ${otherDoseElement(item, drugsArr)}
       ${imageElement(item)}
@@ -323,7 +329,7 @@ function buildModal(item) {
 }
 
 // Search functionality
-$("#search-input").on("keyup", function () {
+$("#search-input").on("keyup", function() {
   let value = $(this).val();
   let data = searchTable(value, drugsArr);
   displayInfoBar(data);
@@ -331,7 +337,7 @@ $("#search-input").on("keyup", function () {
 });
 
 // Sort functionality
-$("th").on("click", function () {
+$("th").on("click", function() {
   let column = $(this).data("column");
   let order = $(this).data("order");
   let text = $(this).html();
@@ -351,19 +357,19 @@ $("th").on("click", function () {
 });
 
 // Modal functionality
-$(document).on("click", "tr", function () {
+$(document).on("click", "tr", function() {
   let drugId = parseInt($(this).attr("drug-id"));
   let drug = drugsArr.find((d) => d.id === drugId);
   buildModal(drug);
   $(".info-modal").css({ display: "block" });
 });
 // Close modal
-$(document).on("click", ".close", function () {
+$(document).on("click", ".close", function() {
   $(".info-modal").css({ display: "none" });
 });
 
 //Fullscreen image
-$(document).on("click", ".drug-image", function () {
+$(document).on("click", ".drug-image", function() {
   let img = $(this);
   // Create overlay if it doesn't exist
   if (!$(".fullscreen-overlay").length) {

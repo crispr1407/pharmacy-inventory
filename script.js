@@ -189,8 +189,7 @@ function buildModal(item) {
     const otherDoses = dataArr.filter(
       (otherItem) =>
         otherItem.name === item.name &&
-        otherItem.dose !== item.dose &&
-        otherItem.dose2 !== item.dose2 &&
+        otherItem.dose !== item.dose && // TODO: Check for the second dose
         otherItem.form === item.form &&
         otherItem.availability === 1
       // Other item must be of the same name and form but has different dose.

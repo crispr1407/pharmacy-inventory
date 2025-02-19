@@ -330,7 +330,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Water-soluble vitamins",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Cyanocobalamin",
       "route": [
         "IM"
@@ -1046,7 +1046,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Calcium channel blockers",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Norvasc",
       "route": [
         "PO"
@@ -2066,7 +2066,7 @@
       "unit": "mcg",
       "unit2": "",
       "class": "Prostaglandin analogues",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Cytotec",
       "route": [
         "PO"
@@ -2300,6 +2300,22 @@
       "name": "Erythromycin",
       "form": "oral suspension",
       "dose": 250,
+      "dose2": 0,
+      "unit": "mg/5ml",
+      "unit2": "",
+      "class": "Antibiotics",
+      "availability": 1,
+      "tradeName": "",
+      "route": [
+        "PO"
+      ],
+      "compatibleWith": []
+    },
+    {
+      "id": 312,
+      "name": "Azithromycin",
+      "form": "oral suspension",
+      "dose": 200,
       "dose2": 0,
       "unit": "mg/5ml",
       "unit2": "",
@@ -2637,7 +2653,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Vasopressors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Norepinephrine",
       "route": [
         "IV"
@@ -2750,6 +2766,25 @@
         "NS",
         "GW5",
         "HM"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Verapamil",
+      "form": "ampoule",
+      "dose": 5,
+      "dose2": 0,
+      "unit": "mg",
+      "unit2": "",
+      "class": "Anti-arrhythmics",
+      "availability": 1,
+      "tradeName": "Isoptin",
+      "route": [
+        "IV"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
       ]
     },
     {
@@ -3509,7 +3544,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Fucidin",
       "route": [
         "TOPICAL"
@@ -3735,7 +3770,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Electrolytes",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "N/S",
       "route": [
         "IV"

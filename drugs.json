@@ -3262,7 +3262,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Immunoglobulins",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Intratect",
       "route": [
         "IV"

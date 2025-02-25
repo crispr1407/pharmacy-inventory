@@ -3211,7 +3211,7 @@
       "unit": "IU",
       "unit2": "",
       "class": "Erythropoiesis-stimulating agents",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Eprex",
       "route": [
         "IV",

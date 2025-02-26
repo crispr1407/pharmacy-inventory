@@ -1958,6 +1958,22 @@
       ]
     },
     {
+      "id": 696,
+      "name": "Ferrous sulphate",
+      "form": "tablet",
+      "dose": 200,
+      "dose2": 0,
+      "unit": "mg",
+      "unit2": "mg",
+      "class": "Supplements",
+      "availability": 1,
+      "tradeName": "",
+      "route": [
+        "PO"
+      ],
+      "compatibleWith": []
+    },
+    {
       "id": 196,
       "name": "Ferrous sulphate + Folic acid",
       "form": "capsule",

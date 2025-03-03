@@ -2138,7 +2138,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Benzodiazepines",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Librium",
       "route": [
         "PO"

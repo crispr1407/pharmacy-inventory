@@ -231,7 +231,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Beta blockers",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Betaloc",
       "route": [
         "IV"
@@ -334,6 +334,23 @@
       "tradeName": "Cyanocobalamin",
       "route": [
         "IM"
+      ],
+      "compatibleWith": []
+    },
+    {
+      "id": 716,
+      "name": "Vitamin B1",
+      "form": "ampoule",
+      "dose": 100,
+      "dose2": 0,
+      "unit": "mg",
+      "unit2": "",
+      "class": "Water-soluble vitamins",
+      "availability": 1,
+      "tradeName": "Thiamine",
+      "route": [
+        "IM",
+        "IV"
       ],
       "compatibleWith": []
     },
@@ -1620,13 +1637,13 @@
     {
       "id": 80,
       "name": "Azithromycin",
-      "form": "capsule",
+      "form": "tablet",
       "dose": 500,
       "dose2": 0,
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Zithromax",
       "route": [
         "PO"

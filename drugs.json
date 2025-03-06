@@ -231,7 +231,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Beta blockers",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Betaloc",
       "route": [
         "IV"

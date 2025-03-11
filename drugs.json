@@ -470,7 +470,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Claforan",
       "route": [
         "IV"
@@ -550,7 +550,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Tazocin",
       "route": [
         "IV"
@@ -3311,7 +3311,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Pulmonary surfactant",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Survanta",
       "route": [
         "INTRATRACHEAL"
@@ -3803,7 +3803,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Electrolytes",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "N/S",
       "route": [
         "IV"

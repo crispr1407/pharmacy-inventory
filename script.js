@@ -273,7 +273,7 @@ function buildModal(item) {
   };
 
   const imageElement = (item) => {
-    if (!item.image) {
+    if (!item.image.length) {
       return "";
     }
     return `<div class="drug-image-container">

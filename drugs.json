@@ -18,7 +18,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 2,
@@ -39,7 +39,7 @@
         "GW5",
         "GW10"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
         "IM"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 4,
@@ -78,7 +78,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 5,
@@ -102,7 +102,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 6,
@@ -123,7 +123,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 7,
@@ -148,7 +148,7 @@
         "R",
         "RL"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 8,
@@ -171,7 +171,7 @@
         "HM",
         "R"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 9,
@@ -191,7 +191,7 @@
       "compatibleWith": [
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 909,
@@ -210,7 +210,7 @@
       "compatibleWith": [
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 10,
@@ -231,7 +231,7 @@
         "GW5",
         "R"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 11,
@@ -251,7 +251,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 12,
@@ -273,7 +273,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 13,
@@ -295,7 +295,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 14,
@@ -314,7 +314,7 @@
       "compatibleWith": [
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 15,
@@ -335,7 +335,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 16,
@@ -352,7 +352,7 @@
         "IM"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 716,
@@ -370,7 +370,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 17,
@@ -392,7 +392,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 18,
@@ -415,7 +415,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     }
   ],
   "Vials": [
@@ -438,7 +438,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 20,
@@ -459,7 +459,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 21,
@@ -482,7 +482,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 22,
@@ -504,7 +504,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 922,
@@ -526,7 +526,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 23,
@@ -546,7 +546,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 24,
@@ -566,7 +566,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 25,
@@ -586,7 +586,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 26,
@@ -609,7 +609,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 27,
@@ -630,7 +630,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 28,
@@ -650,7 +650,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 29,
@@ -670,7 +670,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 666,
@@ -692,7 +692,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 30,
@@ -711,7 +711,7 @@
       "compatibleWith": [
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 31,
@@ -733,7 +733,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 32,
@@ -754,7 +754,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 33,
@@ -774,7 +774,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 34,
@@ -793,7 +793,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 35,
@@ -811,7 +811,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 36,
@@ -831,7 +831,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 37,
@@ -851,7 +851,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 38,
@@ -872,7 +872,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 39,
@@ -891,7 +891,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     }
   ],
   "Pills": [
@@ -910,9 +910,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/aspirin100_sdi_1.jpg",
-        "pills/aspirin100_sdi_2.jpg"
+      "images": [
+        "aspirin100_sdi_1.jpg",
+        "aspirin100_sdi_2.jpg"
       ]
     },
     {
@@ -930,9 +930,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/clopidogrel75_furat_1.jpg",
-        "pills/clopidogrel75_furat_2.jpg"
+      "images": [
+        "clopidogrel75_furat_1.jpg",
+        "clopidogrel75_furat_2.jpg"
       ]
     },
     {
@@ -950,9 +950,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/warfarin1_flamingo_1.jpg",
-        "pills/warfarin1_flamingo_2.jpg"
+      "images": [
+        "warfarin1_flamingo_1.jpg",
+        "warfarin1_flamingo_2.jpg"
       ]
     },
     {
@@ -970,9 +970,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/warfarin3_flamingo_1.jpg",
-        "pills/warfarin3_flamingo_2.jpg"
+      "images": [
+        "warfarin3_flamingo_1.jpg",
+        "warfarin3_flamingo_2.jpg"
       ]
     },
     {
@@ -990,9 +990,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/warfarin5_flamingo_1.jpg",
-        "pills/warfarin5_flamingo_2.jpg"
+      "images": [
+        "warfarin5_flamingo_1.jpg",
+        "warfarin5_flamingo_2.jpg"
       ]
     },
     {
@@ -1010,9 +1010,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/atorvastatin40_fayhaa_1.jpg",
-        "pills/atorvastatin40_fayhaa_2.jpg"
+      "images": [
+        "atorvastatin40_fayhaa_1.jpg",
+        "atorvastatin40_fayhaa_2.jpg"
       ]
     },
     {
@@ -1030,9 +1030,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/rosuvastatin10_pioneer_1.jpg",
-        "pills/rosuvastatin10_pioneer_2.jpg"
+      "images": [
+        "rosuvastatin10_pioneer_1.jpg",
+        "rosuvastatin10_pioneer_2.jpg"
       ]
     },
     {
@@ -1050,9 +1050,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/captopril25_kindy_1.jpg",
-        "pills/captopril25_kindy_2.jpg"
+      "images": [
+        "captopril25_kindy_1.jpg",
+        "captopril25_kindy_2.jpg"
       ]
     },
     {
@@ -1070,9 +1070,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/lisinopril10_jamjoom_1.jpg",
-        "pills/lisinopril10_jamjoom_2.jpg"
+      "images": [
+        "lisinopril10_jamjoom_1.jpg",
+        "lisinopril10_jamjoom_2.jpg"
       ]
     },
     {
@@ -1090,9 +1090,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/losartan50_kindy_1.jpg",
-        "pills/losartan50_kindy_2.jpg"
+      "images": [
+        "losartan50_kindy_1.jpg",
+        "losartan50_kindy_2.jpg"
       ]
     },
     {
@@ -1110,9 +1110,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/amlodipine5_kindy_1.jpg",
-        "pills/amlodipine5_kindy_2.jpg"
+      "images": [
+        "amlodipine5_kindy_1.jpg",
+        "amlodipine5_kindy_2.jpg"
       ]
     },
     {
@@ -1130,7 +1130,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 52,
@@ -1147,9 +1147,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/furosemide40_sdi_1.jpg",
-        "pills/furosemide40_sdi_2.jpg"
+      "images": [
+        "furosemide40_sdi_1.jpg",
+        "furosemide40_sdi_2.jpg"
       ]
     },
     {
@@ -1167,9 +1167,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/spironolactone25_awa_1.jpg",
-        "pills/spironolactone25_awa_2.jpg"
+      "images": [
+        "spironolactone25_awa_1.jpg",
+        "spironolactone25_awa_2.jpg"
       ]
     },
     {
@@ -1187,9 +1187,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/methyldopa250_safa_1.jpg",
-        "pills/methyldopa250_safa_2.jpg"
+      "images": [
+        "methyldopa250_safa_1.jpg",
+        "methyldopa250_safa_2.jpg"
       ]
     },
     {
@@ -1207,9 +1207,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/propranolol40_sdi_1.jpg",
-        "pills/propranolol40_sdi_2.jpg"
+      "images": [
+        "propranolol40_sdi_1.jpg",
+        "propranolol40_sdi_2.jpg"
       ]
     },
     {
@@ -1227,9 +1227,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/metoprolol50_awa_1.jpg",
-        "pills/metoprolol50_awa_2.jpg"
+      "images": [
+        "metoprolol50_awa_1.jpg",
+        "metoprolol50_awa_2.jpg"
       ]
     },
     {
@@ -1247,9 +1247,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/carvedilol6-25_kindy_1.jpg",
-        "pills/carvedilol6-25_kindy_2.jpg"
+      "images": [
+        "carvedilol6-25_kindy_1.jpg",
+        "carvedilol6-25_kindy_2.jpg"
       ]
     },
     {
@@ -1267,7 +1267,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 59,
@@ -1284,9 +1284,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/amiodarone200_pioneer_1.jpg",
-        "pills/amiodarone200_pioneer_2.jpg"
+      "images": [
+        "amiodarone200_pioneer_1.jpg",
+        "amiodarone200_pioneer_2.jpg"
       ]
     },
     {
@@ -1304,9 +1304,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/digoxin250_aspen_1.jpg",
-        "pills/digoxin250_aspen_2.jpg"
+      "images": [
+        "digoxin250_aspen_1.jpg",
+        "digoxin250_aspen_2.jpg"
       ]
     },
     {
@@ -1324,9 +1324,9 @@
         "SUBLINGUAL"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/angised500_kwality_1.jpg",
-        "pills/angised500_kwality_2.jpg"
+      "images": [
+        "angised500_kwality_1.jpg",
+        "angised500_kwality_2.jpg"
       ]
     },
     {
@@ -1344,9 +1344,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/isosorbide10_awa_1.jpg",
-        "pills/isosorbide10_awa_2.jpg"
+      "images": [
+        "isosorbide10_awa_1.jpg",
+        "isosorbide10_awa_2.jpg"
       ]
     },
     {
@@ -1364,9 +1364,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/metformin500_mdi_1.jpg",
-        "pills/metformin500_mdi_2.jpg"
+      "images": [
+        "metformin500_mdi_1.jpg",
+        "metformin500_mdi_2.jpg"
       ]
     },
     {
@@ -1384,9 +1384,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/glibenclamide5_awa_1.jpg",
-        "pills/glibenclamide5_awa_2.jpg"
+      "images": [
+        "glibenclamide5_awa_1.jpg",
+        "glibenclamide5_awa_2.jpg"
       ]
     },
     {
@@ -1404,9 +1404,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/paracetamol500_dubai_1.jpg",
-        "pills/paracetamol500_dubai_2.jpg"
+      "images": [
+        "paracetamol500_dubai_1.jpg",
+        "paracetamol500_dubai_2.jpg"
       ]
     },
     {
@@ -1424,9 +1424,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/ibuprofen200_wpc_1.jpg",
-        "pills/ibuprofen200_wpc_2.jpg"
+      "images": [
+        "ibuprofen200_wpc_1.jpg",
+        "ibuprofen200_wpc_2.jpg"
       ]
     },
     {
@@ -1444,9 +1444,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/diclofenac25_furat_1.jpg",
-        "pills/diclofenac25_furat_2.jpg"
+      "images": [
+        "diclofenac25_furat_1.jpg",
+        "diclofenac25_furat_2.jpg"
       ]
     },
     {
@@ -1464,9 +1464,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/meloxicam7-5_ajanta_1.jpg",
-        "pills/meloxicam7-5_ajanta_2.jpg"
+      "images": [
+        "meloxicam7-5_ajanta_1.jpg",
+        "meloxicam7-5_ajanta_2.jpg"
       ]
     },
     {
@@ -1484,7 +1484,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 70,
@@ -1501,9 +1501,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/prednisolone5_safa_1.jpg",
-        "pills/prednisolone5_safa_2.jpg"
+      "images": [
+        "prednisolone5_safa_1.jpg",
+        "prednisolone5_safa_2.jpg"
       ]
     },
     {
@@ -1521,9 +1521,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/chlorpheniramine4_kindy_1.jpg",
-        "pills/chlorpheniramine4_kindy_2.jpg"
+      "images": [
+        "chlorpheniramine4_kindy_1.jpg",
+        "chlorpheniramine4_kindy_2.jpg"
       ]
     },
     {
@@ -1541,7 +1541,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 73,
@@ -1558,9 +1558,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/montelukast4_pioneer_1.jpg",
-        "pills/montelukast4_pioneer_2.jpg"
+      "images": [
+        "montelukast4_pioneer_1.jpg",
+        "montelukast4_pioneer_2.jpg"
       ]
     },
     {
@@ -1578,9 +1578,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/montelukast10_kwality_1.jpg",
-        "pills/montelukast10_kwality_2.jpg"
+      "images": [
+        "montelukast10_kwality_1.jpg",
+        "montelukast10_kwality_2.jpg"
       ]
     },
     {
@@ -1598,9 +1598,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/amoxicillin500_mdi_1.jpg",
-        "pills/amoxicillin500_mdi_2.jpg"
+      "images": [
+        "amoxicillin500_mdi_1.jpg",
+        "amoxicillin500_mdi_2.jpg"
       ]
     },
     {
@@ -1618,9 +1618,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/augmentin625_aurobindo_1.jpg",
-        "pills/augmentin625_aurobindo_2.jpg"
+      "images": [
+        "augmentin625_aurobindo_1.jpg",
+        "augmentin625_aurobindo_2.jpg"
       ]
     },
     {
@@ -1638,9 +1638,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/cephalexin500_pioneer_1.jpg",
-        "pills/cephalexin500_pioneer_2.jpg"
+      "images": [
+        "cephalexin500_pioneer_1.jpg",
+        "cephalexin500_pioneer_2.jpg"
       ]
     },
     {
@@ -1658,9 +1658,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/ciprofloxacin500_fayhaa_1.jpg",
-        "pills/ciprofloxacin500_fayhaa_2.jpg"
+      "images": [
+        "ciprofloxacin500_fayhaa_1.jpg",
+        "ciprofloxacin500_fayhaa_2.jpg"
       ]
     },
     {
@@ -1678,7 +1678,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 80,
@@ -1695,9 +1695,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/azithromycin500_mdi_1.jpg",
-        "pills/azithromycin500_mdi_2.jpg"
+      "images": [
+        "azithromycin500_mdi_1.jpg",
+        "azithromycin500_mdi_2.jpg"
       ]
     },
     {
@@ -1715,9 +1715,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/metheprim480_middleeast_1.jpg",
-        "pills/metheprim480_middleeast_2.jpg"
+      "images": [
+        "metheprim480_middleeast_1.jpg",
+        "metheprim480_middleeast_2.jpg"
       ]
     },
     {
@@ -1735,9 +1735,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/nitrofurantoin100_biofarma_1.jpg",
-        "pills/nitrofurantoin100_biofarma_2.jpg"
+      "images": [
+        "nitrofurantoin100_biofarma_1.jpg",
+        "nitrofurantoin100_biofarma_2.jpg"
       ]
     },
     {
@@ -1755,9 +1755,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/metronidazole500_safa_1.jpg",
-        "pills/metronidazole500_safa_2.jpg"
+      "images": [
+        "metronidazole500_safa_1.jpg",
+        "metronidazole500_safa_2.jpg"
       ]
     },
     {
@@ -1775,9 +1775,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/doxycycline100_deva_1.jpg",
-        "pills/doxycycline100_deva_2.jpg"
+      "images": [
+        "doxycycline100_deva_1.jpg",
+        "doxycycline100_deva_2.jpg"
       ]
     },
     {
@@ -1795,9 +1795,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/oseltamivir75_safa_1.jpg",
-        "pills/oseltamivir75_safa_2.jpg"
+      "images": [
+        "oseltamivir75_safa_1.jpg",
+        "oseltamivir75_safa_2.jpg"
       ]
     },
     {
@@ -1815,9 +1815,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/fluconazole150_awa_1.jpg",
-        "pills/fluconazole150_awa_2.jpg"
+      "images": [
+        "fluconazole150_awa_1.jpg",
+        "fluconazole150_awa_2.jpg"
       ]
     },
     {
@@ -1835,9 +1835,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/omeprazole20_safa_1.jpg",
-        "pills/omeprazole20_safa_2.jpg"
+      "images": [
+        "omeprazole20_safa_1.jpg",
+        "omeprazole20_safa_2.jpg"
       ]
     },
     {
@@ -1855,9 +1855,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/metoclopramide10_safa_1.jpg",
-        "pills/metoclopramide10_safa_2.jpg"
+      "images": [
+        "metoclopramide10_safa_1.jpg",
+        "metoclopramide10_safa_2.jpg"
       ]
     },
     {
@@ -1875,9 +1875,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/prochlorperazine5_furat_1.jpg",
-        "pills/prochlorperazine5_furat_2.jpg"
+      "images": [
+        "prochlorperazine5_furat_1.jpg",
+        "prochlorperazine5_furat_2.jpg"
       ]
     },
     {
@@ -1895,9 +1895,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/cinnarizine25_furat_1.jpg",
-        "pills/cinnarizine25_furat_2.jpg"
+      "images": [
+        "cinnarizine25_furat_1.jpg",
+        "cinnarizine25_furat_2.jpg"
       ]
     },
     {
@@ -1915,9 +1915,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/hyoscine10_pioneer_1.jpg",
-        "pills/hyoscine10_pioneer_2.jpg"
+      "images": [
+        "hyoscine10_pioneer_1.jpg",
+        "hyoscine10_pioneer_2.jpg"
       ]
     },
     {
@@ -1935,9 +1935,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/mebeverine135_wpc_1.jpg",
-        "pills/mebeverine135_wpc_2.jpg"
+      "images": [
+        "mebeverine135_wpc_1.jpg",
+        "mebeverine135_wpc_2.jpg"
       ]
     },
     {
@@ -1955,9 +1955,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/entero-stop_mdi_1.jpg",
-        "pills/entero-stop_mdi_2.jpg"
+      "images": [
+        "entero-stop_mdi_1.jpg",
+        "entero-stop_mdi_2.jpg"
       ]
     },
     {
@@ -1975,9 +1975,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/zinc20_protem_1.jpg",
-        "pills/zinc20_protem_2.jpg"
+      "images": [
+        "zinc20_protem_1.jpg",
+        "zinc20_protem_2.jpg"
       ]
     },
     {
@@ -1995,9 +1995,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/alfacalcidol1_united_1.jpg",
-        "pills/alfacalcidol1_united_2.jpg"
+      "images": [
+        "alfacalcidol1_united_1.jpg",
+        "alfacalcidol1_united_2.jpg"
       ]
     },
     {
@@ -2015,9 +2015,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/folic-acid5_safa_1.jpg",
-        "pills/folic-acid5_safa_2.jpg"
+      "images": [
+        "folic-acid5_safa_1.jpg",
+        "folic-acid5_safa_2.jpg"
       ]
     },
     {
@@ -2035,7 +2035,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 196,
@@ -2052,9 +2052,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/ferrofolic_kindy_1.jpg",
-        "pills/ferrofolic_kindy_2.jpg"
+      "images": [
+        "ferrofolic_kindy_1.jpg",
+        "ferrofolic_kindy_2.jpg"
       ]
     },
     {
@@ -2072,9 +2072,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/calcium500_kindy_1.jpg",
-        "pills/calcium500_kindy_2.jpg"
+      "images": [
+        "calcium500_kindy_1.jpg",
+        "calcium500_kindy_2.jpg"
       ]
     },
     {
@@ -2092,9 +2092,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/levothyroxine100_merck_1.jpg",
-        "pills/levothyroxine100_merck_2.jpg"
+      "images": [
+        "levothyroxine100_merck_1.jpg",
+        "levothyroxine100_merck_2.jpg"
       ]
     },
     {
@@ -2112,9 +2112,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/sevelamer800_fayhaa_1.jpg",
-        "pills/sevelamer800_fayhaa_2.jpg"
+      "images": [
+        "sevelamer800_fayhaa_1.jpg",
+        "sevelamer800_fayhaa_2.jpg"
       ]
     },
     {
@@ -2132,9 +2132,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/cinacalcet30_deva_1.jpg",
-        "pills/cinacalcet30_deva_2.jpg"
+      "images": [
+        "cinacalcet30_deva_1.jpg",
+        "cinacalcet30_deva_2.jpg"
       ]
     },
     {
@@ -2152,7 +2152,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 102,
@@ -2169,9 +2169,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/bisacodyl5_furat_1.jpg",
-        "pills/bisacodyl5_furat_2.jpg"
+      "images": [
+        "bisacodyl5_furat_1.jpg",
+        "bisacodyl5_furat_2.jpg"
       ]
     },
     {
@@ -2189,9 +2189,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/diazepam5_wpc_1.jpg",
-        "pills/diazepam5_wpc_2.jpg"
+      "images": [
+        "diazepam5_wpc_1.jpg",
+        "diazepam5_wpc_2.jpg"
       ]
     },
     {
@@ -2209,9 +2209,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/chlordiazepoxide5_sdi_1.jpg",
-        "pills/chlordiazepoxide5_sdi_2.jpg"
+      "images": [
+        "chlordiazepoxide5_sdi_1.jpg",
+        "chlordiazepoxide5_sdi_2.jpg"
       ]
     },
     {
@@ -2229,9 +2229,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/phenobarbital15_sdi_1.jpg",
-        "pills/phenobarbital15_sdi_2.jpg"
+      "images": [
+        "phenobarbital15_sdi_1.jpg",
+        "phenobarbital15_sdi_2.jpg"
       ]
     },
     {
@@ -2249,9 +2249,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/carbamazepine200_kindy_1.jpg",
-        "pills/carbamazepine200_kindy_2.jpg"
+      "images": [
+        "carbamazepine200_kindy_1.jpg",
+        "carbamazepine200_kindy_2.jpg"
       ]
     },
     {
@@ -2269,9 +2269,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/dydrogesterone10_abbott_1.jpg",
-        "pills/dydrogesterone10_abbott_2.jpg"
+      "images": [
+        "dydrogesterone10_abbott_1.jpg",
+        "dydrogesterone10_abbott_2.jpg"
       ]
     },
     {
@@ -2289,9 +2289,9 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": [
-        "pills/tamsulosin0-4_cipla_1.jpg",
-        "pills/tamsulosin0-4_cipla_2.jpg"
+      "images": [
+        "tamsulosin0-4_cipla_1.jpg",
+        "tamsulosin0-4_cipla_2.jpg"
       ]
     }
   ],
@@ -2311,7 +2311,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 108,
@@ -2328,7 +2328,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 109,
@@ -2345,7 +2345,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 110,
@@ -2362,7 +2362,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 111,
@@ -2379,7 +2379,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 112,
@@ -2396,7 +2396,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 312,
@@ -2413,7 +2413,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 113,
@@ -2430,7 +2430,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 114,
@@ -2447,7 +2447,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 115,
@@ -2464,7 +2464,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 116,
@@ -2481,7 +2481,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 117,
@@ -2498,7 +2498,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 118,
@@ -2515,7 +2515,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 119,
@@ -2532,7 +2532,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 120,
@@ -2549,7 +2549,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 121,
@@ -2566,7 +2566,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 122,
@@ -2583,7 +2583,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 123,
@@ -2600,7 +2600,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 124,
@@ -2617,7 +2617,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 125,
@@ -2634,7 +2634,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 126,
@@ -2651,7 +2651,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 127,
@@ -2668,7 +2668,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 128,
@@ -2685,7 +2685,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 129,
@@ -2702,7 +2702,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     }
   ],
   "HighAlertMedications": [
@@ -2729,7 +2729,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 131,
@@ -2749,7 +2749,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 132,
@@ -2769,7 +2769,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 133,
@@ -2791,7 +2791,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 134,
@@ -2813,7 +2813,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 135,
@@ -2835,7 +2835,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 136,
@@ -2858,7 +2858,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 137,
@@ -2879,7 +2879,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 537,
@@ -2899,7 +2899,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 138,
@@ -2920,7 +2920,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 139,
@@ -2940,7 +2940,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 140,
@@ -2959,7 +2959,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 141,
@@ -2982,7 +2982,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 142,
@@ -3003,7 +3003,7 @@
         "GW5",
         "GS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 143,
@@ -3026,7 +3026,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 144,
@@ -3048,7 +3048,7 @@
         "GS",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 145,
@@ -3070,7 +3070,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 146,
@@ -3087,7 +3087,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 147,
@@ -3110,7 +3110,7 @@
         "R",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 148,
@@ -3130,7 +3130,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 149,
@@ -3150,7 +3150,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 150,
@@ -3171,7 +3171,7 @@
         "GW5",
         "HM"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 151,
@@ -3192,7 +3192,7 @@
         "GW5",
         "GW10"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 152,
@@ -3212,7 +3212,7 @@
         "DW",
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 153,
@@ -3232,7 +3232,7 @@
         "DW",
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 154,
@@ -3252,7 +3252,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     }
   ],
   "RefrigeratedMedications": [
@@ -3275,7 +3275,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 156,
@@ -3296,7 +3296,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 157,
@@ -3316,7 +3316,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 158,
@@ -3335,7 +3335,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 159,
@@ -3353,7 +3353,7 @@
         "SC"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 160,
@@ -3371,7 +3371,7 @@
         "SC"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 161,
@@ -3389,7 +3389,7 @@
         "IM"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 600,
@@ -3406,7 +3406,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 162,
@@ -3423,7 +3423,7 @@
         "INTRATRACHEAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 163,
@@ -3440,7 +3440,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 164,
@@ -3462,7 +3462,7 @@
         "GW5",
         "R"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 165,
@@ -3480,7 +3480,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 166,
@@ -3499,7 +3499,7 @@
       "compatibleWith": [
         "NS"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 167,
@@ -3520,7 +3520,7 @@
       "compatibleWith": [
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 168,
@@ -3541,7 +3541,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 169,
@@ -3562,7 +3562,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 170,
@@ -3583,7 +3583,7 @@
         "NS",
         "GW5"
       ],
-      "image": []
+      "images": []
     },
     {
       "id": 171,
@@ -3600,7 +3600,7 @@
         "RECTAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 505,
@@ -3617,7 +3617,7 @@
         "RECTAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 172,
@@ -3634,7 +3634,7 @@
         "RECTAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     }
   ],
   "Topicals": [
@@ -3653,7 +3653,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 174,
@@ -3670,7 +3670,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 974,
@@ -3687,7 +3687,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 175,
@@ -3704,7 +3704,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 176,
@@ -3721,7 +3721,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 976,
@@ -3738,7 +3738,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 177,
@@ -3755,7 +3755,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 178,
@@ -3772,7 +3772,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 179,
@@ -3789,7 +3789,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 180,
@@ -3806,7 +3806,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 181,
@@ -3823,7 +3823,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 182,
@@ -3840,7 +3840,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 183,
@@ -3857,7 +3857,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 184,
@@ -3874,7 +3874,7 @@
         "TOPICAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 185,
@@ -3891,7 +3891,7 @@
         "INTRANASAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 500,
@@ -3908,7 +3908,7 @@
         "INTRANASAL"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     }
   ],
   "IVFluids": [
@@ -3927,7 +3927,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 187,
@@ -3944,7 +3944,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 188,
@@ -3961,7 +3961,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 189,
@@ -3978,7 +3978,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 190,
@@ -3995,7 +3995,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 191,
@@ -4012,7 +4012,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 192,
@@ -4029,7 +4029,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 193,
@@ -4046,7 +4046,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 194,
@@ -4063,7 +4063,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     },
     {
       "id": 195,
@@ -4080,7 +4080,7 @@
         "IV"
       ],
       "compatibleWith": [],
-      "image": []
+      "images": []
     }
   ]
 }

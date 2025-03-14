@@ -273,12 +273,12 @@ function buildModal(item) {
   };
 
   const imageElement = (item) => {
-    if (!item.image.length) {
+    if (!item.images.length) {
       return "";
     }
     return `<div class="drug-image-container">
-              <img class="drug-image" src="./img/${item.image[0]}" alt="${item.name} ${item.form}"></img>
-              <img class="drug-image" src="./img/${item.image[1]}" alt="${item.name} ${item.form}"></img>
+              <img class="drug-image" src="./img/pills/${item.images[0]}" alt="${item.name} ${item.form}"></img>
+              <img class="drug-image" src="./img/pills/${item.images[1]}" alt="${item.name} ${item.form}"></img>
             </div>`;
   };
 

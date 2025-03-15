@@ -3364,7 +3364,7 @@
       "unit": "mcg",
       "unit2": "",
       "class": "Erythropoiesis-stimulating agents",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Aranesp",
       "route": [
         "IV",

@@ -597,7 +597,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Ciprodar",
       "route": [
         "IV"
@@ -1104,7 +1104,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Calcium channel blockers",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Norvasc",
       "route": [
         "PO"
@@ -2243,7 +2243,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Anti-epileptics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Tegretol",
       "route": [
         "PO"

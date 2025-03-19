@@ -883,13 +883,34 @@
       "unit": "mg",
       "unit2": "",
       "class": "Iron supplements",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Venofer",
       "route": [
         "IV"
       ],
       "compatibleWith": [
         "NS"
+      ],
+      "images": []
+    },
+    {
+      "id": 339,
+      "name": "Iron dextran",
+      "form": "ampoule",
+      "dose": 100,
+      "dose2": 0,
+      "unit": "mg",
+      "unit2": "",
+      "class": "Iron supplements",
+      "availability": 1,
+      "tradeName": "CosmoFer",
+      "route": [
+        "IV",
+        "IM"
+      ],
+      "compatibleWith": [
+        "NS",
+        "GW5"
       ],
       "images": []
     }

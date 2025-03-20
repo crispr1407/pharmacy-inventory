@@ -2127,7 +2127,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Phosphate binders",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Renvela",
       "route": [
         "PO"

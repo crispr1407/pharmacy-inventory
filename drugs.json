@@ -515,7 +515,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Claforan",
       "route": [
         "IV"

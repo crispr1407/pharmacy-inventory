@@ -1125,7 +1125,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Calcium channel blockers",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Norvasc",
       "route": [
         "PO"
@@ -3421,7 +3421,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Immunoglobulins",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Intratect",
       "route": [
         "IV"

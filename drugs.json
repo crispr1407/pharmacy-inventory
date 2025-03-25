@@ -515,7 +515,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Claforan",
       "route": [
         "IV"
@@ -1242,7 +1242,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Beta blockers",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "",
       "route": [
         "PO"
@@ -2109,6 +2109,26 @@
       "class": "Thyroid hormones",
       "availability": 1,
       "tradeName": "Euthyrox",
+      "route": [
+        "PO"
+      ],
+      "compatibleWith": [],
+      "images": [
+        "levothyroxine100_merck_1.jpg",
+        "levothyroxine100_merck_2.jpg"
+      ]
+    },
+    {
+      "id": 998,
+      "name": "Levothyroxine",
+      "form": "tablet",
+      "dose": 50,
+      "dose2": 0,
+      "unit": "mcg",
+      "unit2": "",
+      "class": "Thyroid hormones",
+      "availability": 1,
+      "tradeName": "Eltroxin",
       "route": [
         "PO"
       ],
@@ -3416,12 +3436,12 @@
       "id": 600,
       "name": "Human normal immunoglobulin (IgG)",
       "form": "vial",
-      "dose": 5,
+      "dose": 50,
       "dose2": 0,
-      "unit": "%",
+      "unit": "g/l",
       "unit2": "",
       "class": "Immunoglobulins",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Intratect",
       "route": [
         "IV"

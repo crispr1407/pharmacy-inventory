@@ -3979,7 +3979,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Electrolytes",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "N/S",
       "route": [
         "IV"

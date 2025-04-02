@@ -934,7 +934,7 @@
       "images": [
         {
           "file": "aspirin100_sdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -956,7 +956,7 @@
       "images": [
         {
           "file": "clopidogrel75_furat",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -978,7 +978,7 @@
       "images": [
         {
           "file": "warfarin1_flamingo",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1000,7 +1000,7 @@
       "images": [
         {
           "file": "warfarin3_flamingo",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1022,7 +1022,7 @@
       "images": [
         {
           "file": "warfarin5_flamingo",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1044,7 +1044,7 @@
       "images": [
         {
           "file": "atorvastatin40_fayhaa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1066,7 +1066,7 @@
       "images": [
         {
           "file": "rosuvastatin10_pioneer",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1088,7 +1088,7 @@
       "images": [
         {
           "file": "captopril25_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1110,7 +1110,7 @@
       "images": [
         {
           "file": "lisinopril10_jamjoom",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1132,7 +1132,7 @@
       "images": [
         {
           "file": "losartan50_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1154,7 +1154,7 @@
       "images": [
         {
           "file": "amlodipine5_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1193,7 +1193,7 @@
       "images": [
         {
           "file": "furosemide40_sdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1215,7 +1215,7 @@
       "images": [
         {
           "file": "spironolactone25_awa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1237,7 +1237,7 @@
       "images": [
         {
           "file": "methyldopa250_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1259,7 +1259,7 @@
       "images": [
         {
           "file": "propranolol40_sdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1281,7 +1281,7 @@
       "images": [
         {
           "file": "metoprolol50_awa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1303,7 +1303,7 @@
       "images": [
         {
           "file": "carvedilol6-25_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1342,7 +1342,7 @@
       "images": [
         {
           "file": "amiodarone200_pioneer",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1364,7 +1364,7 @@
       "images": [
         {
           "file": "digoxin250_aspen",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1386,7 +1386,7 @@
       "images": [
         {
           "file": "angised500_kwality",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1408,7 +1408,7 @@
       "images": [
         {
           "file": "isosorbide10_awa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1430,7 +1430,7 @@
       "images": [
         {
           "file": "metformin500_mdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1452,7 +1452,7 @@
       "images": [
         {
           "file": "glibenclamide5_awa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1474,7 +1474,7 @@
       "images": [
         {
           "file": "paracetamol500_dubai",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1496,7 +1496,7 @@
       "images": [
         {
           "file": "ibuprofen200_wpc",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1518,7 +1518,7 @@
       "images": [
         {
           "file": "diclofenac25_furat",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1540,7 +1540,7 @@
       "images": [
         {
           "file": "meloxicam7-5_ajanta",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1579,7 +1579,7 @@
       "images": [
         {
           "file": "prednisolone5_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1601,7 +1601,7 @@
       "images": [
         {
           "file": "chlorpheniramine4_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1640,7 +1640,7 @@
       "images": [
         {
           "file": "montelukast4_pioneer",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1662,7 +1662,7 @@
       "images": [
         {
           "file": "montelukast10_kwality",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1684,7 +1684,7 @@
       "images": [
         {
           "file": "amoxicillin500_mdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1706,7 +1706,7 @@
       "images": [
         {
           "file": "augmentin625_aurobindo",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1728,7 +1728,7 @@
       "images": [
         {
           "file": "cephalexin500_pioneer",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1750,7 +1750,7 @@
       "images": [
         {
           "file": "ciprofloxacin500_fayhaa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1789,7 +1789,7 @@
       "images": [
         {
           "file": "azithromycin500_mdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1811,7 +1811,7 @@
       "images": [
         {
           "file": "metheprim480_middleeast",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1833,7 +1833,7 @@
       "images": [
         {
           "file": "nitrofurantoin100_biofarma",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1855,7 +1855,7 @@
       "images": [
         {
           "file": "metronidazole500_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1877,7 +1877,7 @@
       "images": [
         {
           "file": "doxycycline100_deva",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1899,7 +1899,7 @@
       "images": [
         {
           "file": "oseltamivir75_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1921,7 +1921,7 @@
       "images": [
         {
           "file": "fluconazole150_awa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1943,7 +1943,7 @@
       "images": [
         {
           "file": "omeprazole20_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1965,7 +1965,7 @@
       "images": [
         {
           "file": "metoclopramide10_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -1987,7 +1987,7 @@
       "images": [
         {
           "file": "prochlorperazine5_furat",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2009,7 +2009,7 @@
       "images": [
         {
           "file": "cinnarizine25_furat",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2031,7 +2031,7 @@
       "images": [
         {
           "file": "hyoscine10_pioneer",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2053,7 +2053,7 @@
       "images": [
         {
           "file": "mebeverine135_wpc",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2075,7 +2075,7 @@
       "images": [
         {
           "file": "entero-stop_mdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2097,7 +2097,7 @@
       "images": [
         {
           "file": "zinc20_protem",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2119,7 +2119,7 @@
       "images": [
         {
           "file": "alfacalcidol1_united",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2141,7 +2141,7 @@
       "images": [
         {
           "file": "folic-acid5_safa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2180,7 +2180,7 @@
       "images": [
         {
           "file": "ferrofolic_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2202,7 +2202,7 @@
       "images": [
         {
           "file": "calcium500_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2224,7 +2224,7 @@
       "images": [
         {
           "file": "levothyroxine100_merck",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2263,7 +2263,7 @@
       "images": [
         {
           "file": "sevelamer800_fayhaa",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2285,7 +2285,7 @@
       "images": [
         {
           "file": "cinacalcet30_deva",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2324,7 +2324,7 @@
       "images": [
         {
           "file": "bisacodyl5_furat",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2346,7 +2346,7 @@
       "images": [
         {
           "file": "diazepam5_wpc",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2368,7 +2368,7 @@
       "images": [
         {
           "file": "chlordiazepoxide5_sdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2390,7 +2390,7 @@
       "images": [
         {
           "file": "phenobarbital15_sdi",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2412,7 +2412,7 @@
       "images": [
         {
           "file": "carbamazepine200_kindy",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2434,7 +2434,7 @@
       "images": [
         {
           "file": "dydrogesterone10_abbott",
-          "default": true
+          "defaultFile": true
         }
       ]
     },
@@ -2456,7 +2456,7 @@
       "images": [
         {
           "file": "tamsulosin0-4_cipla",
-          "default": true
+          "defaultFile": true
         }
       ]
     }

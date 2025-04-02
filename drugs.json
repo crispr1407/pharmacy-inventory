@@ -932,8 +932,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "aspirin100_sdi_1.jpg",
-        "aspirin100_sdi_2.jpg"
+        {
+          "file": "aspirin100_sdi",
+          "default": true
+        }
       ]
     },
     {
@@ -952,8 +954,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "clopidogrel75_furat_1.jpg",
-        "clopidogrel75_furat_2.jpg"
+        {
+          "file": "clopidogrel75_furat",
+          "default": true
+        }
       ]
     },
     {
@@ -972,8 +976,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "warfarin1_flamingo_1.jpg",
-        "warfarin1_flamingo_2.jpg"
+        {
+          "file": "warfarin1_flamingo",
+          "default": true
+        }
       ]
     },
     {
@@ -992,8 +998,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "warfarin3_flamingo_1.jpg",
-        "warfarin3_flamingo_2.jpg"
+        {
+          "file": "warfarin3_flamingo",
+          "default": true
+        }
       ]
     },
     {
@@ -1012,8 +1020,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "warfarin5_flamingo_1.jpg",
-        "warfarin5_flamingo_2.jpg"
+        {
+          "file": "warfarin5_flamingo",
+          "default": true
+        }
       ]
     },
     {
@@ -1032,8 +1042,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "atorvastatin40_fayhaa_1.jpg",
-        "atorvastatin40_fayhaa_2.jpg"
+        {
+          "file": "atorvastatin40_fayhaa",
+          "default": true
+        }
       ]
     },
     {
@@ -1052,8 +1064,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "rosuvastatin10_pioneer_1.jpg",
-        "rosuvastatin10_pioneer_2.jpg"
+        {
+          "file": "rosuvastatin10_pioneer",
+          "default": true
+        }
       ]
     },
     {
@@ -1072,8 +1086,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "captopril25_kindy_1.jpg",
-        "captopril25_kindy_2.jpg"
+        {
+          "file": "captopril25_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -1092,8 +1108,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "lisinopril10_jamjoom_1.jpg",
-        "lisinopril10_jamjoom_2.jpg"
+        {
+          "file": "lisinopril10_jamjoom",
+          "default": true
+        }
       ]
     },
     {
@@ -1112,8 +1130,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "losartan50_kindy_1.jpg",
-        "losartan50_kindy_2.jpg"
+        {
+          "file": "losartan50_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -1132,8 +1152,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "amlodipine5_kindy_1.jpg",
-        "amlodipine5_kindy_2.jpg"
+        {
+          "file": "amlodipine5_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -1169,8 +1191,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "furosemide40_sdi_1.jpg",
-        "furosemide40_sdi_2.jpg"
+        {
+          "file": "furosemide40_sdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1189,8 +1213,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "spironolactone25_awa_1.jpg",
-        "spironolactone25_awa_2.jpg"
+        {
+          "file": "spironolactone25_awa",
+          "default": true
+        }
       ]
     },
     {
@@ -1209,8 +1235,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "methyldopa250_safa_1.jpg",
-        "methyldopa250_safa_2.jpg"
+        {
+          "file": "methyldopa250_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1229,8 +1257,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "propranolol40_sdi_1.jpg",
-        "propranolol40_sdi_2.jpg"
+        {
+          "file": "propranolol40_sdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1249,8 +1279,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "metoprolol50_awa_1.jpg",
-        "metoprolol50_awa_2.jpg"
+        {
+          "file": "metoprolol50_awa",
+          "default": true
+        }
       ]
     },
     {
@@ -1269,8 +1301,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "carvedilol6-25_kindy_1.jpg",
-        "carvedilol6-25_kindy_2.jpg"
+        {
+          "file": "carvedilol6-25_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -1306,8 +1340,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "amiodarone200_pioneer_1.jpg",
-        "amiodarone200_pioneer_2.jpg"
+        {
+          "file": "amiodarone200_pioneer",
+          "default": true
+        }
       ]
     },
     {
@@ -1326,8 +1362,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "digoxin250_aspen_1.jpg",
-        "digoxin250_aspen_2.jpg"
+        {
+          "file": "digoxin250_aspen",
+          "default": true
+        }
       ]
     },
     {
@@ -1346,8 +1384,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "angised500_kwality_1.jpg",
-        "angised500_kwality_2.jpg"
+        {
+          "file": "angised500_kwality",
+          "default": true
+        }
       ]
     },
     {
@@ -1366,8 +1406,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "isosorbide10_awa_1.jpg",
-        "isosorbide10_awa_2.jpg"
+        {
+          "file": "isosorbide10_awa",
+          "default": true
+        }
       ]
     },
     {
@@ -1386,8 +1428,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "metformin500_mdi_1.jpg",
-        "metformin500_mdi_2.jpg"
+        {
+          "file": "metformin500_mdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1406,8 +1450,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "glibenclamide5_awa_1.jpg",
-        "glibenclamide5_awa_2.jpg"
+        {
+          "file": "glibenclamide5_awa",
+          "default": true
+        }
       ]
     },
     {
@@ -1426,8 +1472,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "paracetamol500_dubai_1.jpg",
-        "paracetamol500_dubai_2.jpg"
+        {
+          "file": "paracetamol500_dubai",
+          "default": true
+        }
       ]
     },
     {
@@ -1446,8 +1494,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "ibuprofen200_wpc_1.jpg",
-        "ibuprofen200_wpc_2.jpg"
+        {
+          "file": "ibuprofen200_wpc",
+          "default": true
+        }
       ]
     },
     {
@@ -1466,8 +1516,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "diclofenac25_furat_1.jpg",
-        "diclofenac25_furat_2.jpg"
+        {
+          "file": "diclofenac25_furat",
+          "default": true
+        }
       ]
     },
     {
@@ -1486,8 +1538,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "meloxicam7-5_ajanta_1.jpg",
-        "meloxicam7-5_ajanta_2.jpg"
+        {
+          "file": "meloxicam7-5_ajanta",
+          "default": true
+        }
       ]
     },
     {
@@ -1523,8 +1577,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "prednisolone5_safa_1.jpg",
-        "prednisolone5_safa_2.jpg"
+        {
+          "file": "prednisolone5_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1543,8 +1599,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "chlorpheniramine4_kindy_1.jpg",
-        "chlorpheniramine4_kindy_2.jpg"
+        {
+          "file": "chlorpheniramine4_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -1580,8 +1638,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "montelukast4_pioneer_1.jpg",
-        "montelukast4_pioneer_2.jpg"
+        {
+          "file": "montelukast4_pioneer",
+          "default": true
+        }
       ]
     },
     {
@@ -1600,8 +1660,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "montelukast10_kwality_1.jpg",
-        "montelukast10_kwality_2.jpg"
+        {
+          "file": "montelukast10_kwality",
+          "default": true
+        }
       ]
     },
     {
@@ -1620,8 +1682,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "amoxicillin500_mdi_1.jpg",
-        "amoxicillin500_mdi_2.jpg"
+        {
+          "file": "amoxicillin500_mdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1640,8 +1704,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "augmentin625_aurobindo_1.jpg",
-        "augmentin625_aurobindo_2.jpg"
+        {
+          "file": "augmentin625_aurobindo",
+          "default": true
+        }
       ]
     },
     {
@@ -1660,8 +1726,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "cephalexin500_pioneer_1.jpg",
-        "cephalexin500_pioneer_2.jpg"
+        {
+          "file": "cephalexin500_pioneer",
+          "default": true
+        }
       ]
     },
     {
@@ -1680,8 +1748,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "ciprofloxacin500_fayhaa_1.jpg",
-        "ciprofloxacin500_fayhaa_2.jpg"
+        {
+          "file": "ciprofloxacin500_fayhaa",
+          "default": true
+        }
       ]
     },
     {
@@ -1717,8 +1787,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "azithromycin500_mdi_1.jpg",
-        "azithromycin500_mdi_2.jpg"
+        {
+          "file": "azithromycin500_mdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1737,8 +1809,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "metheprim480_middleeast_1.jpg",
-        "metheprim480_middleeast_2.jpg"
+        {
+          "file": "metheprim480_middleeast",
+          "default": true
+        }
       ]
     },
     {
@@ -1757,8 +1831,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "nitrofurantoin100_biofarma_1.jpg",
-        "nitrofurantoin100_biofarma_2.jpg"
+        {
+          "file": "nitrofurantoin100_biofarma",
+          "default": true
+        }
       ]
     },
     {
@@ -1777,8 +1853,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "metronidazole500_safa_1.jpg",
-        "metronidazole500_safa_2.jpg"
+        {
+          "file": "metronidazole500_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1797,8 +1875,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "doxycycline100_deva_1.jpg",
-        "doxycycline100_deva_2.jpg"
+        {
+          "file": "doxycycline100_deva",
+          "default": true
+        }
       ]
     },
     {
@@ -1817,8 +1897,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "oseltamivir75_safa_1.jpg",
-        "oseltamivir75_safa_2.jpg"
+        {
+          "file": "oseltamivir75_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1837,8 +1919,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "fluconazole150_awa_1.jpg",
-        "fluconazole150_awa_2.jpg"
+        {
+          "file": "fluconazole150_awa",
+          "default": true
+        }
       ]
     },
     {
@@ -1857,8 +1941,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "omeprazole20_safa_1.jpg",
-        "omeprazole20_safa_2.jpg"
+        {
+          "file": "omeprazole20_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1877,8 +1963,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "metoclopramide10_safa_1.jpg",
-        "metoclopramide10_safa_2.jpg"
+        {
+          "file": "metoclopramide10_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -1897,8 +1985,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "prochlorperazine5_furat_1.jpg",
-        "prochlorperazine5_furat_2.jpg"
+        {
+          "file": "prochlorperazine5_furat",
+          "default": true
+        }
       ]
     },
     {
@@ -1917,8 +2007,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "cinnarizine25_furat_1.jpg",
-        "cinnarizine25_furat_2.jpg"
+        {
+          "file": "cinnarizine25_furat",
+          "default": true
+        }
       ]
     },
     {
@@ -1937,8 +2029,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "hyoscine10_pioneer_1.jpg",
-        "hyoscine10_pioneer_2.jpg"
+        {
+          "file": "hyoscine10_pioneer",
+          "default": true
+        }
       ]
     },
     {
@@ -1957,8 +2051,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "mebeverine135_wpc_1.jpg",
-        "mebeverine135_wpc_2.jpg"
+        {
+          "file": "mebeverine135_wpc",
+          "default": true
+        }
       ]
     },
     {
@@ -1977,8 +2073,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "entero-stop_mdi_1.jpg",
-        "entero-stop_mdi_2.jpg"
+        {
+          "file": "entero-stop_mdi",
+          "default": true
+        }
       ]
     },
     {
@@ -1997,8 +2095,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "zinc20_protem_1.jpg",
-        "zinc20_protem_2.jpg"
+        {
+          "file": "zinc20_protem",
+          "default": true
+        }
       ]
     },
     {
@@ -2017,8 +2117,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "alfacalcidol1_united_1.jpg",
-        "alfacalcidol1_united_2.jpg"
+        {
+          "file": "alfacalcidol1_united",
+          "default": true
+        }
       ]
     },
     {
@@ -2037,8 +2139,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "folic-acid5_safa_1.jpg",
-        "folic-acid5_safa_2.jpg"
+        {
+          "file": "folic-acid5_safa",
+          "default": true
+        }
       ]
     },
     {
@@ -2074,8 +2178,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "ferrofolic_kindy_1.jpg",
-        "ferrofolic_kindy_2.jpg"
+        {
+          "file": "ferrofolic_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -2094,8 +2200,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "calcium500_kindy_1.jpg",
-        "calcium500_kindy_2.jpg"
+        {
+          "file": "calcium500_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -2114,8 +2222,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "levothyroxine100_merck_1.jpg",
-        "levothyroxine100_merck_2.jpg"
+        {
+          "file": "levothyroxine100_merck",
+          "default": true
+        }
       ]
     },
     {
@@ -2133,10 +2243,7 @@
         "PO"
       ],
       "compatibleWith": [],
-      "images": [
-        "levothyroxine100_merck_1.jpg",
-        "levothyroxine100_merck_2.jpg"
-      ]
+      "images": []
     },
     {
       "id": 99,
@@ -2154,8 +2261,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "sevelamer800_fayhaa_1.jpg",
-        "sevelamer800_fayhaa_2.jpg"
+        {
+          "file": "sevelamer800_fayhaa",
+          "default": true
+        }
       ]
     },
     {
@@ -2174,8 +2283,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "cinacalcet30_deva_1.jpg",
-        "cinacalcet30_deva_2.jpg"
+        {
+          "file": "cinacalcet30_deva",
+          "default": true
+        }
       ]
     },
     {
@@ -2211,8 +2322,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "bisacodyl5_furat_1.jpg",
-        "bisacodyl5_furat_2.jpg"
+        {
+          "file": "bisacodyl5_furat",
+          "default": true
+        }
       ]
     },
     {
@@ -2231,8 +2344,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "diazepam5_wpc_1.jpg",
-        "diazepam5_wpc_2.jpg"
+        {
+          "file": "diazepam5_wpc",
+          "default": true
+        }
       ]
     },
     {
@@ -2251,8 +2366,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "chlordiazepoxide5_sdi_1.jpg",
-        "chlordiazepoxide5_sdi_2.jpg"
+        {
+          "file": "chlordiazepoxide5_sdi",
+          "default": true
+        }
       ]
     },
     {
@@ -2271,8 +2388,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "phenobarbital15_sdi_1.jpg",
-        "phenobarbital15_sdi_2.jpg"
+        {
+          "file": "phenobarbital15_sdi",
+          "default": true
+        }
       ]
     },
     {
@@ -2291,8 +2410,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "carbamazepine200_kindy_1.jpg",
-        "carbamazepine200_kindy_2.jpg"
+        {
+          "file": "carbamazepine200_kindy",
+          "default": true
+        }
       ]
     },
     {
@@ -2311,8 +2432,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "dydrogesterone10_abbott_1.jpg",
-        "dydrogesterone10_abbott_2.jpg"
+        {
+          "file": "dydrogesterone10_abbott",
+          "default": true
+        }
       ]
     },
     {
@@ -2331,8 +2454,10 @@
       ],
       "compatibleWith": [],
       "images": [
-        "tamsulosin0-4_cipla_1.jpg",
-        "tamsulosin0-4_cipla_2.jpg"
+        {
+          "file": "tamsulosin0-4_cipla",
+          "default": true
+        }
       ]
     }
   ],

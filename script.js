@@ -277,8 +277,8 @@ function buildModal(item) {
       return "";
     }
     return `<div class="drug-image-container">
-              <img class="drug-image" src="./img/pills/${item.images[0]}" alt="${item.name} ${item.form}"></img>
-              <img class="drug-image" src="./img/pills/${item.images[1]}" alt="${item.name} ${item.form}"></img>
+              <img class="drug-image" src="./img/pills/${item.images[0].file}_1.jpg" alt="${item.name} ${item.form}"></img>
+              <img class="drug-image" src="./img/pills/${item.images[0].file}_2.jpg" alt="${item.name} ${item.form}"></img>
             </div>`;
   };
 

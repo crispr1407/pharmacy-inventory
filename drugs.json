@@ -1697,7 +1697,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Augmentin",
       "route": [
         "PO"
@@ -1780,7 +1780,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Zithromax",
       "route": [
         "PO"
@@ -2254,7 +2254,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Phosphate binders",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Renvela",
       "route": [
         "PO"

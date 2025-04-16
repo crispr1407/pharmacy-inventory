@@ -1697,7 +1697,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Antibiotics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Augmentin",
       "route": [
         "PO"
@@ -2088,7 +2088,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Supplements / Minerals",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "",
       "route": [
         "PO"
@@ -2193,7 +2193,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Calcium supplements / Phosphate binders",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "",
       "route": [
         "PO"
@@ -2869,6 +2869,40 @@
       ],
       "compatibleWith": [],
       "images": []
+    },
+    {
+      "id": 929,
+      "name": "Cyclosporine",
+      "form": "syrup",
+      "dose": 100,
+      "dose2": 0,
+      "unit": "mg/ml",
+      "unit2": "",
+      "class": "Immunosuppressants",
+      "availability": 1,
+      "tradeName": "Sandimmun",
+      "route": [
+        "PO"
+      ],
+      "compatibleWith": [],
+      "images": []
+    },
+    {
+      "id": 930,
+      "name": "Ribavirin",
+      "form": "syrup",
+      "dose": 200,
+      "dose2": 0,
+      "unit": "mg/5ml",
+      "unit2": "",
+      "class": "Antivirals",
+      "availability": 1,
+      "tradeName": "",
+      "route": [
+        "PO"
+      ],
+      "compatibleWith": [],
+      "images": []
     }
   ],
   "HighAlertMedications": [
@@ -2906,7 +2940,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Vasopressors",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Norepinephrine",
       "route": [
         "IV"
@@ -2926,7 +2960,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Vasopressors",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "Norepinephrine",
       "route": [
         "IV"
@@ -4223,7 +4257,7 @@
       "unit": "%",
       "unit2": "",
       "class": "Electrolytes",
-      "availability": 1,
+      "availability": 0,
       "tradeName": "R/L",
       "route": [
         "IV"

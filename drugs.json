@@ -2403,7 +2403,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Anti-epileptics",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Tegretol",
       "route": [
         "PO"
@@ -2940,7 +2940,7 @@
       "unit": "mg",
       "unit2": "",
       "class": "Vasopressors",
-      "availability": 0,
+      "availability": 1,
       "tradeName": "Norepinephrine",
       "route": [
         "IV"
